@@ -1,0 +1,90 @@
+Description des fichiers 
+-------------------------------------------------------------------------------------------------------------------------------
+fichier : Skill_migration.csv 
+#############################################################################################################################
+variable             :  Description                                                                                         #
+_________            _______________________________                                                                        #
+country_name          Country name given by World Bank taxonomy                                                             #
+country_code          2 letter country code                                                                                 #
+skill_group_category  categories of skill groups                                                                            #
+skill_group_id        skill id                                                                                              #
+skill_group_name      Skill groups categorize the 50,000 detailed individual skills into approximately 250 skills groups    #
+net_per_10K_2019      number of immigrants for 2019                                                                         #
+                                                                                                                            #
+#############################################################################################################################
+--------------------------------------------------------------------------------------------------------------------------------
+
+fichier : Industry_migration.csv 
+#############################################################################################################################
+variable              :  Description                                                                                        #
+_________             _______________________________                                                                       #
+country_name          Country name given by World Bank taxonomy                                                             #
+country_code          2 letter country code                                                                                 #
+isic_section_index    ISIC Name and Index according to the ISIC Rev. 4 industry classification (1 digit level)              #
+& isic_section_name        , available for 18 ISIC sectors.                                                                 #
+industry_id           Detailed industry Name and ID  (economic activity) according to the LinkedIn industry classification  #
+& industry_name       (approximately 2 digit ISIC Rev. 4 level), detailing industries composing                             #
+                         18 ISIC Rev. 4 (e.g. 'ISIC_section_name').                                                         #
+net_per_10K_2019      number of immigrants for 2019                                                                         #
+#############################################################################################################################
+--------------------------------------------------------------------------------------------------------------------------------
+
+fichier : country_migration.csv 
+#############################################################################################################################
+variable              :  Description                                                                                        #
+_________             _______________________________                                                                       #
+base_country_code     The code of the source country                                                                        #
+base_country_name     The name of the source country                                                                        #
+target_country_code   The code of the target country                                                                        #
+target_country_name   The name of the target country                                                                        #
+net_per_10K_2019      nbr of skills immigrants between the base-country toward target country                               #
+#############################################################################################################################
+
+For more information on the World-Bank LinkedIn Partnership, please visit linkedindata.worldbank.org	
+ 
+table : country
+#############################################################################################################################
+variable              :  Description                                                                                        #
+_________             _______________________________                                                                       #
+ CODE                 le code du pays                                                                                       #
+ NAME                 le nom du pays                                                                                        #
+ CONTINENT            le continent du pays                                                                                  #
+ REGION               la région                                                                                             #
+ SURFACEAREA          la sufrace                                                                                            #
+ INDEPYEAR            l'année d'indépendance                                                                                #
+ POPULATION           population                                                                                            #
+ LIFEEXPECTANCY       espérence de vie au pays                                                                              #
+ GNP                  Produit national brut du pays                                                                         #
+ GNPOLD               Ancien produit national brut du pays                                                                  #
+ LOCALNAME            le nom local                                                                                          #
+ GOVERNMENTFORM       Système de gouvernement du pays                                                                       #
+ HEADOFSTATE          chef d'état                                                                                           #
+ CAPITAL              la  somme d'investissements utilisée sur le pays                                                      #
+ CODE2                code du pays  contient deux lettres                                                                   #
+#############################################################################################################################
+
+table : countrylanguage
+#############################################################################################################################
+variable              :  Description                                                                                        #
+_________             _______________________________                                                                       #
+ CODE                 le code du pays                                                                                       #
+ LANGUAGE             langue                                                                                                #
+ ISOFFICIAL           est ce que la langue est officiale au pays                                                            #
+ PERCENTAGE           la pourcentage d'utilisation la langue                                                                #
+#############################################################################################################################	
+			
+					
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+  

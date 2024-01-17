@@ -1,0 +1,4149 @@
+base_country_code,base_country_name,target_country_code,target_country_name,net_per_10K_2019
+ae,United Arab Emirates,af,Afghanistan,-0.02
+ae,United Arab Emirates,dz,Algeria,0.78
+ae,United Arab Emirates,ao,Angola,-0.06
+ae,United Arab Emirates,ar,Argentina,0.23
+ae,United Arab Emirates,am,Armenia,0.02
+ae,United Arab Emirates,au,Australia,-4.09
+ae,United Arab Emirates,at,Austria,-0.16
+ae,United Arab Emirates,az,Azerbaijan,0.04
+ae,United Arab Emirates,bh,Bahrain,0.15
+ae,United Arab Emirates,bd,Bangladesh,-0.04
+ae,United Arab Emirates,by,Belarus,0.1
+ae,United Arab Emirates,be,Belgium,-0.06
+ae,United Arab Emirates,br,Brazil,0.99
+ae,United Arab Emirates,bg,Bulgaria,-0.04
+ae,United Arab Emirates,cm,Cameroon,0.29
+ae,United Arab Emirates,ca,Canada,-8.89
+ae,United Arab Emirates,cl,Chile,0.02
+ae,United Arab Emirates,cn,China,0.45
+ae,United Arab Emirates,co,Colombia,0.13
+ae,United Arab Emirates,hr,Croatia,-0.03
+ae,United Arab Emirates,cy,Cyprus,-0.05
+ae,United Arab Emirates,cz,Czech Republic,-0.04
+ae,United Arab Emirates,dk,Denmark,-0.22
+ae,United Arab Emirates,eg,"Egypt, Arab Rep.",6.1
+ae,United Arab Emirates,et,Ethiopia,0.08
+ae,United Arab Emirates,fi,Finland,-0.13
+ae,United Arab Emirates,fr,France,0.97
+ae,United Arab Emirates,ge,Georgia,-0.08
+ae,United Arab Emirates,de,Germany,-1.74
+ae,United Arab Emirates,gh,Ghana,0.37
+ae,United Arab Emirates,gr,Greece,-0.12
+ae,United Arab Emirates,hk,"Hong Kong SAR, China",-0.12
+ae,United Arab Emirates,hu,Hungary,-0.07
+ae,United Arab Emirates,in,India,55.6
+ae,United Arab Emirates,id,Indonesia,0.07
+ae,United Arab Emirates,ir,"Iran, Islamic Rep.",0.42
+ae,United Arab Emirates,iq,Iraq,-0.47
+ae,United Arab Emirates,ie,Ireland,-0.54
+ae,United Arab Emirates,it,Italy,0.17
+ae,United Arab Emirates,jp,Japan,-0.15
+ae,United Arab Emirates,jo,Jordan,2.01
+ae,United Arab Emirates,kz,Kazakhstan,0.16
+ae,United Arab Emirates,ke,Kenya,0.44
+ae,United Arab Emirates,kr,"Korea, Rep.",0.03
+ae,United Arab Emirates,kw,Kuwait,0.06
+ae,United Arab Emirates,lb,Lebanon,2
+ae,United Arab Emirates,ly,Libya,-0.15
+ae,United Arab Emirates,lu,Luxembourg,-0.1
+ae,United Arab Emirates,mk,"Macedonia, FYR",0.03
+ae,United Arab Emirates,my,Malaysia,0.29
+ae,United Arab Emirates,mt,Malta,-0.14
+ae,United Arab Emirates,mu,Mauritius,-0.04
+ae,United Arab Emirates,mx,Mexico,0.19
+ae,United Arab Emirates,ma,Morocco,0.65
+ae,United Arab Emirates,mm,Myanmar,-0.03
+ae,United Arab Emirates,np,Nepal,-0.01
+ae,United Arab Emirates,nl,Netherlands,-0.82
+ae,United Arab Emirates,nz,New Zealand,-0.84
+ae,United Arab Emirates,ng,Nigeria,2.63
+ae,United Arab Emirates,no,Norway,-0.13
+ae,United Arab Emirates,om,Oman,0.43
+ae,United Arab Emirates,pk,Pakistan,7.98
+ae,United Arab Emirates,ph,Philippines,5.98
+ae,United Arab Emirates,pl,Poland,0.01
+ae,United Arab Emirates,pt,Portugal,-0.25
+ae,United Arab Emirates,qa,Qatar,-0.56
+ae,United Arab Emirates,ro,Romania,-0.15
+ae,United Arab Emirates,sa,Saudi Arabia,3.1
+ae,United Arab Emirates,rs,Serbia,0.07
+ae,United Arab Emirates,sg,Singapore,-0.42
+ae,United Arab Emirates,sk,Slovak Republic,-0.01
+ae,United Arab Emirates,za,South Africa,1.35
+ae,United Arab Emirates,es,Spain,-0.15
+ae,United Arab Emirates,lk,Sri Lanka,0.76
+ae,United Arab Emirates,sd,Sudan,1.41
+ae,United Arab Emirates,se,Sweden,-0.55
+ae,United Arab Emirates,ch,Switzerland,-0.34
+ae,United Arab Emirates,sy,Syrian Arab Republic,1.28
+ae,United Arab Emirates,tw,"Taiwan, China",0.06
+ae,United Arab Emirates,tz,Tanzania,0.09
+ae,United Arab Emirates,th,Thailand,-0.04
+ae,United Arab Emirates,tn,Tunisia,0.42
+ae,United Arab Emirates,tr,Turkey,1.33
+ae,United Arab Emirates,ug,Uganda,0.33
+ae,United Arab Emirates,ua,Ukraine,0.16
+ae,United Arab Emirates,gb,United Kingdom,-4.03
+ae,United Arab Emirates,us,United States,-3.16
+ae,United Arab Emirates,uz,Uzbekistan,-0.07
+ae,United Arab Emirates,ve,"Venezuela, RB",0.05
+ae,United Arab Emirates,vn,Vietnam,-0.1
+ae,United Arab Emirates,ps,West Bank and Gaza,0.53
+ae,United Arab Emirates,ye,"Yemen, Rep.",0.08
+ae,United Arab Emirates,zw,Zimbabwe,0.4
+af,Afghanistan,au,Australia,-0.06
+af,Afghanistan,br,Brazil,13.72
+af,Afghanistan,ca,Canada,-1.85
+af,Afghanistan,cn,China,1.48
+af,Afghanistan,fr,France,0.15
+af,Afghanistan,de,Germany,-1.14
+af,Afghanistan,in,India,12.52
+af,Afghanistan,id,Indonesia,1.66
+af,Afghanistan,ir,"Iran, Islamic Rep.",1.6
+af,Afghanistan,iq,Iraq,-0.34
+af,Afghanistan,it,Italy,0.89
+af,Afghanistan,kw,Kuwait,0.46
+af,Afghanistan,nl,Netherlands,1.23
+af,Afghanistan,pk,Pakistan,2.92
+af,Afghanistan,za,South Africa,0.65
+af,Afghanistan,es,Spain,2.03
+af,Afghanistan,se,Sweden,-0.15
+af,Afghanistan,tr,Turkey,1.91
+af,Afghanistan,ae,United Arab Emirates,0.28
+af,Afghanistan,gb,United Kingdom,0.89
+af,Afghanistan,us,United States,-15.84
+al,Albania,be,Belgium,-0.83
+al,Albania,br,Brazil,4.25
+al,Albania,ca,Canada,-2.57
+al,Albania,cn,China,2.7
+al,Albania,fr,France,0.08
+al,Albania,de,Germany,-11.65
+al,Albania,gr,Greece,-0.32
+al,Albania,in,India,5.75
+al,Albania,it,Italy,-3.55
+al,Albania,nl,Netherlands,-0.64
+al,Albania,ch,Switzerland,-0.45
+al,Albania,tr,Turkey,0.75
+al,Albania,gb,United Kingdom,-4.41
+al,Albania,us,United States,-5.69
+am,Armenia,ca,Canada,-3.14
+am,Armenia,fr,France,2.83
+am,Armenia,de,Germany,-2.83
+am,Armenia,ir,"Iran, Islamic Rep.",4.72
+am,Armenia,ae,United Arab Emirates,-0.52
+am,Armenia,gb,United Kingdom,-0.63
+am,Armenia,us,United States,-12.89
+ao,Angola,br,Brazil,5.58
+ao,Angola,ca,Canada,0.18
+ao,Angola,cn,China,0.07
+ao,Angola,fr,France,1.7
+ao,Angola,in,India,6.82
+ao,Angola,id,Indonesia,0.99
+ao,Angola,it,Italy,0.3
+ao,Angola,na,Namibia,1.68
+ao,Angola,ng,Nigeria,0.94
+ao,Angola,pt,Portugal,-11.36
+ao,Angola,za,South Africa,2.86
+ao,Angola,es,Spain,0.28
+ao,Angola,ae,United Arab Emirates,0.55
+ao,Angola,gb,United Kingdom,2.9
+ao,Angola,us,United States,5.58
+ar,Argentina,au,Australia,-0.9
+ar,Argentina,at,Austria,-0.06
+ar,Argentina,be,Belgium,-0.07
+ar,Argentina,bo,Bolivia,0.03
+ar,Argentina,br,Brazil,-0.31
+ar,Argentina,ca,Canada,-0.25
+ar,Argentina,cl,Chile,-0.98
+ar,Argentina,cn,China,-0.03
+ar,Argentina,co,Colombia,-0.3
+ar,Argentina,cr,Costa Rica,-0.04
+ar,Argentina,dk,Denmark,-0.39
+ar,Argentina,do,Dominican Republic,0.01
+ar,Argentina,ec,Ecuador,0.01
+ar,Argentina,fr,France,-0.82
+ar,Argentina,de,Germany,-0.76
+ar,Argentina,in,India,0.19
+ar,Argentina,ie,Ireland,-0.36
+ar,Argentina,il,Israel,-0.13
+ar,Argentina,it,Italy,-0.81
+ar,Argentina,mx,Mexico,-0.48
+ar,Argentina,nl,Netherlands,-0.34
+ar,Argentina,nz,New Zealand,-0.24
+ar,Argentina,pa,Panama,0.06
+ar,Argentina,py,Paraguay,0.31
+ar,Argentina,pe,Peru,0.23
+ar,Argentina,es,Spain,-8.1
+ar,Argentina,ch,Switzerland,-0.09
+ar,Argentina,ae,United Arab Emirates,-0.13
+ar,Argentina,gb,United Kingdom,-1.5
+ar,Argentina,us,United States,-1.49
+ar,Argentina,uy,Uruguay,0.47
+ar,Argentina,ve,"Venezuela, RB",8.5
+at,Austria,ar,Argentina,0.32
+at,Austria,au,Australia,0.03
+at,Austria,be,Belgium,0.34
+at,Austria,ba,Bosnia and Herzegovina,1.03
+at,Austria,br,Brazil,1.24
+at,Austria,bg,Bulgaria,0.37
+at,Austria,ca,Canada,-0.04
+at,Austria,cn,China,0.45
+at,Austria,hr,Croatia,0.83
+at,Austria,cz,Czech Republic,0.72
+at,Austria,dk,Denmark,0.09
+at,Austria,eg,"Egypt, Arab Rep.",0.46
+at,Austria,fi,Finland,0
+at,Austria,fr,France,0.35
+at,Austria,de,Germany,1.81
+at,Austria,gr,Greece,0.43
+at,Austria,hk,"Hong Kong SAR, China",0.11
+at,Austria,hu,Hungary,2.43
+at,Austria,in,India,2.38
+at,Austria,ir,"Iran, Islamic Rep.",1.26
+at,Austria,ie,Ireland,0.28
+at,Austria,il,Israel,0.04
+at,Austria,it,Italy,2.05
+at,Austria,jp,Japan,-0.09
+at,Austria,lu,Luxembourg,-0.01
+at,Austria,mx,Mexico,0.43
+at,Austria,nl,Netherlands,0.25
+at,Austria,nz,New Zealand,0.17
+at,Austria,no,Norway,-0.19
+at,Austria,pl,Poland,0.67
+at,Austria,pt,Portugal,0.14
+at,Austria,ro,Romania,1.61
+at,Austria,rs,Serbia,1.21
+at,Austria,sg,Singapore,0.03
+at,Austria,sk,Slovak Republic,0.81
+at,Austria,si,Slovenia,0.57
+at,Austria,za,South Africa,0.53
+at,Austria,es,Spain,0.82
+at,Austria,se,Sweden,-0.19
+at,Austria,ch,Switzerland,-2.15
+at,Austria,th,Thailand,0.09
+at,Austria,tr,Turkey,1.39
+at,Austria,ua,Ukraine,0.81
+at,Austria,ae,United Arab Emirates,0.5
+at,Austria,gb,United Kingdom,1.48
+at,Austria,us,United States,0.75
+au,Australia,af,Afghanistan,0
+au,Australia,ar,Argentina,0.61
+au,Australia,at,Austria,0
+au,Australia,az,Azerbaijan,0
+au,Australia,bh,Bahrain,0.06
+au,Australia,bd,Bangladesh,0.5
+au,Australia,be,Belgium,0.04
+au,Australia,br,Brazil,1.97
+au,Australia,bg,Bulgaria,0
+au,Australia,kh,Cambodia,0.06
+au,Australia,ca,Canada,0.1
+au,Australia,cl,Chile,0.24
+au,Australia,cn,China,0.58
+au,Australia,co,Colombia,0.96
+au,Australia,hr,Croatia,0
+au,Australia,cy,Cyprus,-0.01
+au,Australia,cz,Czech Republic,0
+au,Australia,dk,Denmark,-0.04
+au,Australia,ec,Ecuador,0.02
+au,Australia,eg,"Egypt, Arab Rep.",0.19
+au,Australia,ee,Estonia,-0.01
+au,Australia,fj,Fiji,0.09
+au,Australia,fi,Finland,-0.06
+au,Australia,fr,France,0
+au,Australia,de,Germany,-0.41
+au,Australia,gh,Ghana,0.11
+au,Australia,gr,Greece,0.02
+au,Australia,hk,"Hong Kong SAR, China",0.25
+au,Australia,hu,Hungary,0.03
+au,Australia,in,India,16.44
+au,Australia,id,Indonesia,0.16
+au,Australia,ir,"Iran, Islamic Rep.",1.35
+au,Australia,iq,Iraq,0.04
+au,Australia,ie,Ireland,0.26
+au,Australia,il,Israel,0.04
+au,Australia,it,Italy,0.04
+au,Australia,jp,Japan,-0.06
+au,Australia,jo,Jordan,0.09
+au,Australia,kz,Kazakhstan,0.02
+au,Australia,ke,Kenya,0.15
+au,Australia,kr,"Korea, Rep.",0.02
+au,Australia,kw,Kuwait,0.12
+au,Australia,lb,Lebanon,0.15
+au,Australia,lt,Lithuania,0.01
+au,Australia,lu,Luxembourg,0
+au,Australia,my,Malaysia,0.37
+au,Australia,mt,Malta,0
+au,Australia,mu,Mauritius,0.07
+au,Australia,mx,Mexico,0.22
+au,Australia,mn,Mongolia,0.05
+au,Australia,mm,Myanmar,0.02
+au,Australia,np,Nepal,1.51
+au,Australia,nl,Netherlands,-0.1
+au,Australia,nz,New Zealand,1.77
+au,Australia,ng,Nigeria,0.41
+au,Australia,no,Norway,-0.08
+au,Australia,om,Oman,0.09
+au,Australia,pk,Pakistan,1.31
+au,Australia,pg,Papua New Guinea,-0.17
+au,Australia,pe,Peru,0.12
+au,Australia,ph,Philippines,2.05
+au,Australia,pl,Poland,0.09
+au,Australia,pt,Portugal,-0.04
+au,Australia,qa,Qatar,0.33
+au,Australia,ro,Romania,0.01
+au,Australia,sa,Saudi Arabia,0.2
+au,Australia,rs,Serbia,0.04
+au,Australia,sg,Singapore,0.93
+au,Australia,sk,Slovak Republic,0
+au,Australia,za,South Africa,1.9
+au,Australia,es,Spain,0.13
+au,Australia,lk,Sri Lanka,1.51
+au,Australia,se,Sweden,-0.06
+au,Australia,ch,Switzerland,-0.1
+au,Australia,tw,"Taiwan, China",0.15
+au,Australia,tz,Tanzania,0
+au,Australia,th,Thailand,0.2
+au,Australia,tr,Turkey,0.44
+au,Australia,ua,Ukraine,0.13
+au,Australia,ae,United Arab Emirates,1.56
+au,Australia,gb,United Kingdom,2.39
+au,Australia,us,United States,0.37
+au,Australia,ve,"Venezuela, RB",0.06
+au,Australia,vn,Vietnam,0.4
+au,Australia,zm,Zambia,0.02
+au,Australia,zw,Zimbabwe,0.09
+az,Azerbaijan,au,Australia,0.08
+az,Azerbaijan,ca,Canada,-2
+az,Azerbaijan,cn,China,-0.33
+az,Azerbaijan,fr,France,0.05
+az,Azerbaijan,ge,Georgia,-0.19
+az,Azerbaijan,de,Germany,-4.84
+az,Azerbaijan,it,Italy,-0.98
+az,Azerbaijan,kz,Kazakhstan,-0.03
+az,Azerbaijan,nl,Netherlands,-0.9
+az,Azerbaijan,tr,Turkey,0.71
+az,Azerbaijan,ua,Ukraine,0.08
+az,Azerbaijan,ae,United Arab Emirates,-0.41
+az,Azerbaijan,gb,United Kingdom,-0.93
+az,Azerbaijan,us,United States,-0.6
+ba,Bosnia and Herzegovina,at,Austria,-6.17
+ba,Bosnia and Herzegovina,hr,Croatia,-5.19
+ba,Bosnia and Herzegovina,de,Germany,-21.34
+ba,Bosnia and Herzegovina,rs,Serbia,-0.86
+ba,Bosnia and Herzegovina,tr,Turkey,-0.94
+ba,Bosnia and Herzegovina,gb,United Kingdom,-1.33
+ba,Bosnia and Herzegovina,us,United States,-2.23
+bd,Bangladesh,au,Australia,-1.91
+bd,Bangladesh,ca,Canada,-4.74
+bd,Bangladesh,cn,China,-0.44
+bd,Bangladesh,fr,France,-0.12
+bd,Bangladesh,de,Germany,-1.74
+bd,Bangladesh,hk,"Hong Kong SAR, China",-0.01
+bd,Bangladesh,in,India,0.81
+bd,Bangladesh,it,Italy,-0.05
+bd,Bangladesh,jp,Japan,-0.5
+bd,Bangladesh,kr,"Korea, Rep.",-0.2
+bd,Bangladesh,my,Malaysia,0.44
+bd,Bangladesh,nl,Netherlands,-0.13
+bd,Bangladesh,nz,New Zealand,-0.06
+bd,Bangladesh,no,Norway,-0.06
+bd,Bangladesh,qa,Qatar,-0.1
+bd,Bangladesh,sa,Saudi Arabia,0.27
+bd,Bangladesh,sg,Singapore,-0.03
+bd,Bangladesh,lk,Sri Lanka,-0.03
+bd,Bangladesh,se,Sweden,-0.73
+bd,Bangladesh,th,Thailand,-0.03
+bd,Bangladesh,tr,Turkey,0.01
+bd,Bangladesh,ae,United Arab Emirates,0.06
+bd,Bangladesh,gb,United Kingdom,-1.35
+bd,Bangladesh,us,United States,-1.11
+be,Belgium,al,Albania,0.08
+be,Belgium,dz,Algeria,0.13
+be,Belgium,ar,Argentina,0.15
+be,Belgium,au,Australia,-0.12
+be,Belgium,at,Austria,-0.12
+be,Belgium,bj,Benin,0.04
+be,Belgium,br,Brazil,0.81
+be,Belgium,bg,Bulgaria,0
+be,Belgium,cm,Cameroon,0.29
+be,Belgium,ca,Canada,-0.46
+be,Belgium,cl,Chile,0.06
+be,Belgium,cn,China,0.25
+be,Belgium,co,Colombia,0.14
+be,Belgium,cd,"Congo, Dem. Rep.",-0.11
+be,Belgium,ci,Cote d'Ivoire,0.18
+be,Belgium,hr,Croatia,0.14
+be,Belgium,cy,Cyprus,0.02
+be,Belgium,cz,Czech Republic,0.15
+be,Belgium,dk,Denmark,0.03
+be,Belgium,eg,"Egypt, Arab Rep.",0.12
+be,Belgium,ee,Estonia,-0.03
+be,Belgium,fi,Finland,-0.02
+be,Belgium,fr,France,0.76
+be,Belgium,de,Germany,-0.28
+be,Belgium,gr,Greece,0.44
+be,Belgium,hk,"Hong Kong SAR, China",0
+be,Belgium,hu,Hungary,0.14
+be,Belgium,in,India,2.75
+be,Belgium,id,Indonesia,0.07
+be,Belgium,ir,"Iran, Islamic Rep.",0.38
+be,Belgium,ie,Ireland,-0.07
+be,Belgium,il,Israel,-0.09
+be,Belgium,it,Italy,2.16
+be,Belgium,jp,Japan,-0.03
+be,Belgium,ke,Kenya,-0.01
+be,Belgium,kr,"Korea, Rep.",0.02
+be,Belgium,lv,Latvia,0.07
+be,Belgium,lb,Lebanon,0.15
+be,Belgium,lt,Lithuania,0.04
+be,Belgium,lu,Luxembourg,-1.47
+be,Belgium,my,Malaysia,0.06
+be,Belgium,mt,Malta,0.03
+be,Belgium,mx,Mexico,0.17
+be,Belgium,ma,Morocco,0.8
+be,Belgium,nl,Netherlands,0.09
+be,Belgium,nz,New Zealand,0.03
+be,Belgium,no,Norway,0
+be,Belgium,pk,Pakistan,0.17
+be,Belgium,pe,Peru,0.1
+be,Belgium,ph,Philippines,0.15
+be,Belgium,pl,Poland,0.47
+be,Belgium,pt,Portugal,0.54
+be,Belgium,qa,Qatar,0.05
+be,Belgium,ro,Romania,0.64
+be,Belgium,sa,Saudi Arabia,0.07
+be,Belgium,sn,Senegal,0.01
+be,Belgium,rs,Serbia,0.13
+be,Belgium,sg,Singapore,0.01
+be,Belgium,sk,Slovak Republic,0.02
+be,Belgium,si,Slovenia,0.01
+be,Belgium,za,South Africa,0.53
+be,Belgium,es,Spain,0.32
+be,Belgium,se,Sweden,-0.11
+be,Belgium,ch,Switzerland,-0.7
+be,Belgium,tw,"Taiwan, China",0.04
+be,Belgium,th,Thailand,0.1
+be,Belgium,tn,Tunisia,0.43
+be,Belgium,tr,Turkey,1.02
+be,Belgium,ua,Ukraine,0.14
+be,Belgium,ae,United Arab Emirates,0.07
+be,Belgium,gb,United Kingdom,0.18
+be,Belgium,us,United States,0.17
+be,Belgium,vn,Vietnam,0.06
+bf,Burkina Faso,ca,Canada,-3.1
+bf,Burkina Faso,ci,Cote d'Ivoire,-2.49
+bf,Burkina Faso,fr,France,-2.1
+bf,Burkina Faso,sn,Senegal,0
+bf,Burkina Faso,us,United States,0.39
+bg,Bulgaria,au,Australia,0.04
+bg,Bulgaria,at,Austria,-0.67
+bg,Bulgaria,be,Belgium,-0.01
+bg,Bulgaria,ca,Canada,-0.7
+bg,Bulgaria,cn,China,0.35
+bg,Bulgaria,cz,Czech Republic,-0.32
+bg,Bulgaria,dk,Denmark,0.82
+bg,Bulgaria,fr,France,-0.82
+bg,Bulgaria,de,Germany,-2.42
+bg,Bulgaria,gr,Greece,0.06
+bg,Bulgaria,in,India,-0.03
+bg,Bulgaria,ie,Ireland,-0.31
+bg,Bulgaria,it,Italy,0.26
+bg,Bulgaria,nl,Netherlands,-1.01
+bg,Bulgaria,no,Norway,0.01
+bg,Bulgaria,pl,Poland,-0.04
+bg,Bulgaria,ro,Romania,0.12
+bg,Bulgaria,es,Spain,-1.55
+bg,Bulgaria,se,Sweden,-0.32
+bg,Bulgaria,ch,Switzerland,-0.56
+bg,Bulgaria,tr,Turkey,0.76
+bg,Bulgaria,ua,Ukraine,0.27
+bg,Bulgaria,ae,United Arab Emirates,0.25
+bg,Bulgaria,gb,United Kingdom,-2.99
+bg,Bulgaria,us,United States,-1.35
+bh,Bahrain,au,Australia,-2.21
+bh,Bahrain,ca,Canada,-3.9
+bh,Bahrain,eg,"Egypt, Arab Rep.",0.43
+bh,Bahrain,fr,France,-0.21
+bh,Bahrain,in,India,25.99
+bh,Bahrain,jo,Jordan,0.15
+bh,Bahrain,kw,Kuwait,-0.21
+bh,Bahrain,lb,Lebanon,0
+bh,Bahrain,my,Malaysia,0.55
+bh,Bahrain,om,Oman,-0.06
+bh,Bahrain,pk,Pakistan,1.99
+bh,Bahrain,ph,Philippines,0.31
+bh,Bahrain,qa,Qatar,1.04
+bh,Bahrain,sa,Saudi Arabia,1.57
+bh,Bahrain,za,South Africa,0.89
+bh,Bahrain,ae,United Arab Emirates,-1.9
+bh,Bahrain,gb,United Kingdom,-2.55
+bh,Bahrain,us,United States,-3.5
+bj,Benin,be,Belgium,-0.68
+bj,Benin,ca,Canada,-8.98
+bj,Benin,ci,Cote d'Ivoire,-2.21
+bj,Benin,fr,France,-20.94
+bj,Benin,ng,Nigeria,-2.37
+bj,Benin,sn,Senegal,-0.92
+bj,Benin,us,United States,-2.61
+bo,Bolivia,ar,Argentina,-0.28
+bo,Bolivia,br,Brazil,-0.64
+bo,Bolivia,ca,Canada,-0.23
+bo,Bolivia,cl,Chile,-0.83
+bo,Bolivia,co,Colombia,-0.38
+bo,Bolivia,fr,France,-0.64
+bo,Bolivia,mx,Mexico,-0.38
+bo,Bolivia,pe,Peru,-0.19
+bo,Bolivia,es,Spain,-1.68
+bo,Bolivia,us,United States,-1.06
+br,Brazil,af,Afghanistan,-0.11
+br,Brazil,al,Albania,-0.04
+br,Brazil,ao,Angola,-0.06
+br,Brazil,ar,Argentina,0.06
+br,Brazil,au,Australia,-0.54
+br,Brazil,at,Austria,-0.04
+br,Brazil,be,Belgium,-0.08
+br,Brazil,bo,Bolivia,0.01
+br,Brazil,ca,Canada,-1.24
+br,Brazil,cl,Chile,-0.08
+br,Brazil,cn,China,-0.04
+br,Brazil,co,Colombia,-0.02
+br,Brazil,cr,Costa Rica,-0.01
+br,Brazil,cz,Czech Republic,-0.03
+br,Brazil,dk,Denmark,-0.04
+br,Brazil,do,Dominican Republic,0
+br,Brazil,ec,Ecuador,-0.01
+br,Brazil,fi,Finland,-0.02
+br,Brazil,fr,France,-0.46
+br,Brazil,de,Germany,-0.67
+br,Brazil,hk,"Hong Kong SAR, China",-0.02
+br,Brazil,hu,Hungary,-0.04
+br,Brazil,in,India,0.06
+br,Brazil,id,Indonesia,-0.08
+br,Brazil,ie,Ireland,-0.88
+br,Brazil,il,Israel,-0.04
+br,Brazil,it,Italy,-0.45
+br,Brazil,jp,Japan,-0.13
+br,Brazil,kr,"Korea, Rep.",-0.06
+br,Brazil,lu,Luxembourg,-0.03
+br,Brazil,my,Malaysia,-0.01
+br,Brazil,mt,Malta,-0.03
+br,Brazil,mx,Mexico,-0.07
+br,Brazil,mz,Mozambique,-0.03
+br,Brazil,nl,Netherlands,-0.28
+br,Brazil,nz,New Zealand,-0.1
+br,Brazil,no,Norway,-0.02
+br,Brazil,pa,Panama,0.04
+br,Brazil,py,Paraguay,-0.02
+br,Brazil,pe,Peru,0.02
+br,Brazil,ph,Philippines,0
+br,Brazil,pl,Poland,-0.08
+br,Brazil,pt,Portugal,-3.15
+br,Brazil,qa,Qatar,-0.01
+br,Brazil,sa,Saudi Arabia,-0.02
+br,Brazil,sg,Singapore,-0.02
+br,Brazil,za,South Africa,-0.03
+br,Brazil,es,Spain,-0.45
+br,Brazil,se,Sweden,-0.1
+br,Brazil,ch,Switzerland,-0.09
+br,Brazil,th,Thailand,-0.01
+br,Brazil,tr,Turkey,-0.08
+br,Brazil,ae,United Arab Emirates,-0.1
+br,Brazil,gb,United Kingdom,-1.47
+br,Brazil,us,United States,-1.4
+br,Brazil,uy,Uruguay,0.01
+br,Brazil,ve,"Venezuela, RB",0.17
+bs,"Bahamas, The",ca,Canada,-3.76
+bs,"Bahamas, The",gb,United Kingdom,1.46
+bs,"Bahamas, The",us,United States,-6.52
+bw,Botswana,in,India,0.71
+bw,Botswana,za,South Africa,1.74
+bw,Botswana,gb,United Kingdom,0.58
+bw,Botswana,us,United States,0.71
+bw,Botswana,zw,Zimbabwe,0.41
+by,Belarus,ca,Canada,-1.2
+by,Belarus,cn,China,-0.09
+by,Belarus,cz,Czech Republic,-0.74
+by,Belarus,de,Germany,-3.47
+by,Belarus,it,Italy,-0.98
+by,Belarus,lt,Lithuania,-0.31
+by,Belarus,pl,Poland,-7
+by,Belarus,tr,Turkey,-0.04
+by,Belarus,ua,Ukraine,-0.7
+by,Belarus,ae,United Arab Emirates,-0.81
+by,Belarus,gb,United Kingdom,-1.29
+by,Belarus,us,United States,-9.41
+ca,Canada,af,Afghanistan,0.04
+ca,Canada,al,Albania,0.06
+ca,Canada,dz,Algeria,0.53
+ca,Canada,ao,Angola,0
+ca,Canada,ar,Argentina,0.11
+ca,Canada,am,Armenia,0.04
+ca,Canada,au,Australia,-0.06
+ca,Canada,at,Austria,0
+ca,Canada,az,Azerbaijan,0.04
+ca,Canada,bs,"Bahamas, The",0.03
+ca,Canada,bh,Bahrain,0.07
+ca,Canada,bd,Bangladesh,0.82
+ca,Canada,by,Belarus,0.04
+ca,Canada,be,Belgium,0.1
+ca,Canada,bj,Benin,0.13
+ca,Canada,bo,Bolivia,0.01
+ca,Canada,br,Brazil,2.95
+ca,Canada,bg,Bulgaria,0.03
+ca,Canada,bf,Burkina Faso,0.03
+ca,Canada,kh,Cambodia,0
+ca,Canada,cm,Cameroon,0.18
+ca,Canada,cl,Chile,0.12
+ca,Canada,cn,China,1.07
+ca,Canada,co,Colombia,0.79
+ca,Canada,cd,"Congo, Dem. Rep.",0.05
+ca,Canada,cr,Costa Rica,0.05
+ca,Canada,ci,Cote d'Ivoire,0.14
+ca,Canada,hr,Croatia,0
+ca,Canada,cu,Cuba,0.03
+ca,Canada,cy,Cyprus,0.02
+ca,Canada,cz,Czech Republic,-0.01
+ca,Canada,dk,Denmark,0
+ca,Canada,do,Dominican Republic,0.11
+ca,Canada,ec,Ecuador,0.11
+ca,Canada,eg,"Egypt, Arab Rep.",0.38
+ca,Canada,sv,El Salvador,0.04
+ca,Canada,et,Ethiopia,0.06
+ca,Canada,fi,Finland,0
+ca,Canada,fr,France,2.39
+ca,Canada,de,Germany,-0.07
+ca,Canada,gh,Ghana,0.26
+ca,Canada,gr,Greece,0.03
+ca,Canada,gt,Guatemala,0.02
+ca,Canada,ht,Haiti,0.1
+ca,Canada,hn,Honduras,0.04
+ca,Canada,hk,"Hong Kong SAR, China",0.22
+ca,Canada,hu,Hungary,0.05
+ca,Canada,is,Iceland,0
+ca,Canada,in,India,23.2
+ca,Canada,id,Indonesia,0.05
+ca,Canada,ir,"Iran, Islamic Rep.",2.63
+ca,Canada,iq,Iraq,0.08
+ca,Canada,ie,Ireland,0.4
+ca,Canada,il,Israel,0.2
+ca,Canada,it,Italy,0.18
+ca,Canada,jm,Jamaica,0.36
+ca,Canada,jp,Japan,-0.04
+ca,Canada,jo,Jordan,0.16
+ca,Canada,kz,Kazakhstan,0.06
+ca,Canada,ke,Kenya,0.17
+ca,Canada,kr,"Korea, Rep.",0.21
+ca,Canada,kw,Kuwait,0.19
+ca,Canada,lb,Lebanon,0.36
+ca,Canada,ly,Libya,0.01
+ca,Canada,lt,Lithuania,0.01
+ca,Canada,lu,Luxembourg,-0.01
+ca,Canada,mg,Madagascar,0.02
+ca,Canada,my,Malaysia,0.23
+ca,Canada,mu,Mauritius,0.14
+ca,Canada,mx,Mexico,0.85
+ca,Canada,md,Moldova,0.04
+ca,Canada,ma,Morocco,0.77
+ca,Canada,np,Nepal,0.14
+ca,Canada,nl,Netherlands,0.01
+ca,Canada,nz,New Zealand,0.18
+ca,Canada,ni,Nicaragua,0.04
+ca,Canada,ng,Nigeria,2.62
+ca,Canada,no,Norway,0.02
+ca,Canada,om,Oman,0.1
+ca,Canada,pk,Pakistan,1.11
+ca,Canada,pa,Panama,0.03
+ca,Canada,pe,Peru,0.13
+ca,Canada,ph,Philippines,1.3
+ca,Canada,pl,Poland,0.07
+ca,Canada,pt,Portugal,-0.02
+ca,Canada,qa,Qatar,0.3
+ca,Canada,ro,Romania,0.08
+ca,Canada,rw,Rwanda,0.05
+ca,Canada,sa,Saudi Arabia,0.48
+ca,Canada,sn,Senegal,0.08
+ca,Canada,rs,Serbia,0.06
+ca,Canada,sg,Singapore,0.43
+ca,Canada,sk,Slovak Republic,0
+ca,Canada,za,South Africa,0.65
+ca,Canada,es,Spain,0.1
+ca,Canada,lk,Sri Lanka,0.26
+ca,Canada,se,Sweden,0
+ca,Canada,ch,Switzerland,-0.04
+ca,Canada,sy,Syrian Arab Republic,0.07
+ca,Canada,tw,"Taiwan, China",0.19
+ca,Canada,tz,Tanzania,0.05
+ca,Canada,th,Thailand,0.09
+ca,Canada,tt,Trinidad and Tobago,0.11
+ca,Canada,tn,Tunisia,0.5
+ca,Canada,tr,Turkey,0.67
+ca,Canada,ug,Uganda,0.09
+ca,Canada,ua,Ukraine,0.36
+ca,Canada,ae,United Arab Emirates,2.22
+ca,Canada,gb,United Kingdom,1.04
+ca,Canada,us,United States,2.11
+ca,Canada,ve,"Venezuela, RB",0.15
+ca,Canada,vn,Vietnam,0.48
+ca,Canada,zw,Zimbabwe,0.06
+cd,"Congo, Dem. Rep.",be,Belgium,1.47
+cd,"Congo, Dem. Rep.",ca,Canada,-2.87
+cd,"Congo, Dem. Rep.",fr,France,0.31
+cd,"Congo, Dem. Rep.",in,India,4.37
+cd,"Congo, Dem. Rep.",ke,Kenya,0.91
+cd,"Congo, Dem. Rep.",rw,Rwanda,4.51
+cd,"Congo, Dem. Rep.",za,South Africa,3.08
+cd,"Congo, Dem. Rep.",ug,Uganda,1.57
+cd,"Congo, Dem. Rep.",gb,United Kingdom,1.05
+cd,"Congo, Dem. Rep.",us,United States,2.13
+ch,Switzerland,al,Albania,0.06
+ch,Switzerland,ar,Argentina,0.25
+ch,Switzerland,au,Australia,0.37
+ch,Switzerland,at,Austria,1.03
+ch,Switzerland,be,Belgium,0.92
+ch,Switzerland,br,Brazil,1.3
+ch,Switzerland,bg,Bulgaria,0.15
+ch,Switzerland,ca,Canada,0.25
+ch,Switzerland,cl,Chile,0.11
+ch,Switzerland,cn,China,0.39
+ch,Switzerland,co,Colombia,0.22
+ch,Switzerland,cr,Costa Rica,0.11
+ch,Switzerland,hr,Croatia,0.19
+ch,Switzerland,cz,Czech Republic,0.6
+ch,Switzerland,dk,Denmark,0.17
+ch,Switzerland,ec,Ecuador,0.05
+ch,Switzerland,eg,"Egypt, Arab Rep.",0.08
+ch,Switzerland,fi,Finland,0.06
+ch,Switzerland,fr,France,15.48
+ch,Switzerland,de,Germany,7.77
+ch,Switzerland,gr,Greece,1
+ch,Switzerland,hk,"Hong Kong SAR, China",0
+ch,Switzerland,hu,Hungary,0.74
+ch,Switzerland,in,India,1.5
+ch,Switzerland,id,Indonesia,0.03
+ch,Switzerland,ir,"Iran, Islamic Rep.",0.33
+ch,Switzerland,ie,Ireland,0.4
+ch,Switzerland,il,Israel,0.02
+ch,Switzerland,it,Italy,6.12
+ch,Switzerland,jp,Japan,-0.02
+ch,Switzerland,jo,Jordan,-0.08
+ch,Switzerland,ke,Kenya,0.11
+ch,Switzerland,kr,"Korea, Rep.",-0.02
+ch,Switzerland,lv,Latvia,0.06
+ch,Switzerland,lb,Lebanon,0.19
+ch,Switzerland,lt,Lithuania,0.11
+ch,Switzerland,lu,Luxembourg,0.03
+ch,Switzerland,my,Malaysia,0.06
+ch,Switzerland,mt,Malta,0.1
+ch,Switzerland,mx,Mexico,0.35
+ch,Switzerland,ma,Morocco,0.19
+ch,Switzerland,nl,Netherlands,0.84
+ch,Switzerland,nz,New Zealand,0.05
+ch,Switzerland,ng,Nigeria,0.33
+ch,Switzerland,no,Norway,-0.19
+ch,Switzerland,pa,Panama,0.05
+ch,Switzerland,pe,Peru,0.11
+ch,Switzerland,ph,Philippines,0.2
+ch,Switzerland,pl,Poland,1.44
+ch,Switzerland,pt,Portugal,0.72
+ch,Switzerland,qa,Qatar,0
+ch,Switzerland,ro,Romania,1.03
+ch,Switzerland,sa,Saudi Arabia,-0.02
+ch,Switzerland,sn,Senegal,0.04
+ch,Switzerland,rs,Serbia,0.35
+ch,Switzerland,sg,Singapore,0.37
+ch,Switzerland,sk,Slovak Republic,0.18
+ch,Switzerland,si,Slovenia,0.23
+ch,Switzerland,za,South Africa,0.55
+ch,Switzerland,es,Spain,1.26
+ch,Switzerland,se,Sweden,0.16
+ch,Switzerland,tw,"Taiwan, China",0.04
+ch,Switzerland,th,Thailand,-0.12
+ch,Switzerland,tn,Tunisia,0.21
+ch,Switzerland,tr,Turkey,0.91
+ch,Switzerland,ua,Ukraine,0.32
+ch,Switzerland,ae,United Arab Emirates,0.5
+ch,Switzerland,gb,United Kingdom,4.97
+ch,Switzerland,us,United States,1.08
+ch,Switzerland,vn,Vietnam,-0.04
+ci,Cote d'Ivoire,be,Belgium,-0.99
+ci,Cote d'Ivoire,bj,Benin,0.8
+ci,Cote d'Ivoire,bf,Burkina Faso,0.66
+ci,Cote d'Ivoire,cm,Cameroon,0.64
+ci,Cote d'Ivoire,ca,Canada,-3.58
+ci,Cote d'Ivoire,fr,France,-21.54
+ci,Cote d'Ivoire,gh,Ghana,0.86
+ci,Cote d'Ivoire,in,India,1.81
+ci,Cote d'Ivoire,ml,Mali,0.26
+ci,Cote d'Ivoire,ma,Morocco,1.49
+ci,Cote d'Ivoire,ng,Nigeria,0.28
+ci,Cote d'Ivoire,sn,Senegal,0.61
+ci,Cote d'Ivoire,tg,Togo,0.31
+ci,Cote d'Ivoire,tn,Tunisia,1.02
+ci,Cote d'Ivoire,gb,United Kingdom,0.1
+ci,Cote d'Ivoire,us,United States,-0.77
+cl,Chile,ar,Argentina,1.42
+cl,Chile,au,Australia,-0.52
+cl,Chile,be,Belgium,-0.04
+cl,Chile,bo,Bolivia,0.14
+cl,Chile,br,Brazil,0.62
+cl,Chile,ca,Canada,-0.4
+cl,Chile,cn,China,0.01
+cl,Chile,co,Colombia,1.26
+cl,Chile,cr,Costa Rica,0
+cl,Chile,dk,Denmark,-0.09
+cl,Chile,do,Dominican Republic,0.12
+cl,Chile,ec,Ecuador,0.7
+cl,Chile,fr,France,-0.31
+cl,Chile,de,Germany,-0.67
+cl,Chile,in,India,0.18
+cl,Chile,ie,Ireland,-0.13
+cl,Chile,it,Italy,-0.13
+cl,Chile,mx,Mexico,-0.02
+cl,Chile,nl,Netherlands,-0.15
+cl,Chile,nz,New Zealand,-0.12
+cl,Chile,pa,Panama,0.2
+cl,Chile,pe,Peru,1.56
+cl,Chile,pt,Portugal,-0.08
+cl,Chile,es,Spain,-1.25
+cl,Chile,se,Sweden,-0.12
+cl,Chile,ch,Switzerland,-0.06
+cl,Chile,ae,United Arab Emirates,-0.01
+cl,Chile,gb,United Kingdom,-0.09
+cl,Chile,us,United States,0.6
+cl,Chile,uy,Uruguay,0.09
+cl,Chile,ve,"Venezuela, RB",21.15
+cm,Cameroon,be,Belgium,-1.86
+cm,Cameroon,ca,Canada,-5.15
+cm,Cameroon,cn,China,-0.08
+cm,Cameroon,ci,Cote d'Ivoire,-0.73
+cm,Cameroon,fr,France,-13.57
+cm,Cameroon,ga,Gabon,-0.28
+cm,Cameroon,de,Germany,-2.3
+cm,Cameroon,in,India,3.41
+cm,Cameroon,ng,Nigeria,-0.33
+cm,Cameroon,sn,Senegal,-0.45
+cm,Cameroon,za,South Africa,0.05
+cm,Cameroon,ae,United Arab Emirates,-2.09
+cm,Cameroon,gb,United Kingdom,-1.34
+cm,Cameroon,us,United States,-11.07
+cn,China,af,Afghanistan,-0.01
+cn,China,al,Albania,-0.02
+cn,China,dz,Algeria,0.01
+cn,China,ao,Angola,0
+cn,China,ar,Argentina,0
+cn,China,au,Australia,-0.13
+cn,China,at,Austria,-0.01
+cn,China,az,Azerbaijan,0
+cn,China,bd,Bangladesh,0.03
+cn,China,by,Belarus,0
+cn,China,be,Belgium,-0.02
+cn,China,br,Brazil,0.03
+cn,China,bg,Bulgaria,-0.01
+cn,China,kh,Cambodia,-0.01
+cn,China,cm,Cameroon,0
+cn,China,ca,Canada,-0.35
+cn,China,cl,Chile,0
+cn,China,co,Colombia,0
+cn,China,cz,Czech Republic,-0.01
+cn,China,dk,Denmark,-0.04
+cn,China,eg,"Egypt, Arab Rep.",0.01
+cn,China,et,Ethiopia,0
+cn,China,fi,Finland,-0.02
+cn,China,fr,France,-0.03
+cn,China,de,Germany,-0.14
+cn,China,gh,Ghana,0.02
+cn,China,gr,Greece,0
+cn,China,hk,"Hong Kong SAR, China",-0.3
+cn,China,hu,Hungary,0
+cn,China,in,India,0.07
+cn,China,id,Indonesia,-0.04
+cn,China,ir,"Iran, Islamic Rep.",0.01
+cn,China,iq,Iraq,-0.01
+cn,China,ie,Ireland,-0.02
+cn,China,il,Israel,-0.01
+cn,China,it,Italy,-0.02
+cn,China,jp,Japan,-0.05
+cn,China,kz,Kazakhstan,-0.01
+cn,China,ke,Kenya,0
+cn,China,kr,"Korea, Rep.",-0.05
+cn,China,kw,Kuwait,0
+cn,China,lu,Luxembourg,-0.01
+cn,China,my,Malaysia,0
+cn,China,mx,Mexico,0.01
+cn,China,mn,Mongolia,0
+cn,China,ma,Morocco,0.03
+cn,China,mm,Myanmar,-0.01
+cn,China,np,Nepal,-0.01
+cn,China,nl,Netherlands,-0.05
+cn,China,nz,New Zealand,-0.07
+cn,China,ng,Nigeria,0.04
+cn,China,no,Norway,-0.01
+cn,China,om,Oman,0
+cn,China,pk,Pakistan,0.04
+cn,China,pe,Peru,0
+cn,China,ph,Philippines,0
+cn,China,pl,Poland,-0.01
+cn,China,pt,Portugal,-0.01
+cn,China,qa,Qatar,0
+cn,China,ro,Romania,0
+cn,China,sa,Saudi Arabia,0
+cn,China,rs,Serbia,0.01
+cn,China,sg,Singapore,-0.23
+cn,China,za,South Africa,0.06
+cn,China,es,Spain,-0.03
+cn,China,lk,Sri Lanka,0
+cn,China,se,Sweden,-0.05
+cn,China,ch,Switzerland,-0.02
+cn,China,tw,"Taiwan, China",0.16
+cn,China,tz,Tanzania,0
+cn,China,th,Thailand,-0.03
+cn,China,tr,Turkey,0
+cn,China,ug,Uganda,0
+cn,China,ua,Ukraine,-0.01
+cn,China,ae,United Arab Emirates,-0.04
+cn,China,gb,United Kingdom,0.07
+cn,China,us,United States,-0.65
+cn,China,ve,"Venezuela, RB",0.01
+cn,China,vn,Vietnam,-0.05
+cn,China,zm,Zambia,-0.01
+co,Colombia,ar,Argentina,0.29
+co,Colombia,au,Australia,-1.37
+co,Colombia,be,Belgium,-0.07
+co,Colombia,bo,Bolivia,0.04
+co,Colombia,br,Brazil,0.1
+co,Colombia,ca,Canada,-1.72
+co,Colombia,cl,Chile,-0.84
+co,Colombia,cn,China,-0.03
+co,Colombia,cr,Costa Rica,-0.05
+co,Colombia,do,Dominican Republic,0.01
+co,Colombia,ec,Ecuador,-0.06
+co,Colombia,sv,El Salvador,0
+co,Colombia,fr,France,-0.74
+co,Colombia,de,Germany,-0.74
+co,Colombia,gt,Guatemala,0.01
+co,Colombia,in,India,0.08
+co,Colombia,ie,Ireland,-0.03
+co,Colombia,it,Italy,-0.21
+co,Colombia,kr,"Korea, Rep.",-0.02
+co,Colombia,mx,Mexico,-0.71
+co,Colombia,nl,Netherlands,-0.19
+co,Colombia,nz,New Zealand,-0.17
+co,Colombia,pa,Panama,0.05
+co,Colombia,pe,Peru,-0.03
+co,Colombia,pt,Portugal,-0.11
+co,Colombia,es,Spain,-2.9
+co,Colombia,se,Sweden,-0.07
+co,Colombia,ch,Switzerland,-0.08
+co,Colombia,ae,United Arab Emirates,-0.07
+co,Colombia,gb,United Kingdom,-0.18
+co,Colombia,us,United States,-0.53
+co,Colombia,uy,Uruguay,-0.06
+co,Colombia,ve,"Venezuela, RB",6.52
+cr,Costa Rica,ar,Argentina,0.29
+cr,Costa Rica,br,Brazil,0.34
+cr,Costa Rica,ca,Canada,-0.81
+cr,Costa Rica,cl,Chile,0
+cr,Costa Rica,co,Colombia,0.38
+cr,Costa Rica,ec,Ecuador,-0.23
+cr,Costa Rica,fr,France,-0.43
+cr,Costa Rica,de,Germany,-0.79
+cr,Costa Rica,gt,Guatemala,0.93
+cr,Costa Rica,hn,Honduras,0.09
+cr,Costa Rica,it,Italy,-0.17
+cr,Costa Rica,mx,Mexico,-1.2
+cr,Costa Rica,nl,Netherlands,-0.65
+cr,Costa Rica,ni,Nicaragua,2.05
+cr,Costa Rica,pa,Panama,-0.17
+cr,Costa Rica,pe,Peru,0.01
+cr,Costa Rica,es,Spain,-0.95
+cr,Costa Rica,ch,Switzerland,-0.33
+cr,Costa Rica,gb,United Kingdom,-0.32
+cr,Costa Rica,us,United States,-2.44
+cr,Costa Rica,ve,"Venezuela, RB",3
+cu,Cuba,ca,Canada,-2.98
+cu,Cuba,mx,Mexico,-7.93
+cu,Cuba,es,Spain,-20.01
+cu,Cuba,us,United States,-11.87
+cu,Cuba,uy,Uruguay,-13.89
+cy,Cyprus,au,Australia,0.29
+cy,Cyprus,be,Belgium,-0.25
+cy,Cyprus,ca,Canada,-1.23
+cy,Cyprus,fr,France,-0.22
+cy,Cyprus,de,Germany,0.43
+cy,Cyprus,gr,Greece,7.11
+cy,Cyprus,il,Israel,1.12
+cy,Cyprus,it,Italy,1.19
+cy,Cyprus,nl,Netherlands,-1.3
+cy,Cyprus,ng,Nigeria,1.48
+cy,Cyprus,es,Spain,-0.58
+cy,Cyprus,tr,Turkey,24.41
+cy,Cyprus,ua,Ukraine,3.1
+cy,Cyprus,ae,United Arab Emirates,0.72
+cy,Cyprus,gb,United Kingdom,11.91
+cy,Cyprus,us,United States,-0.87
+cz,Czech Republic,au,Australia,0.01
+cz,Czech Republic,at,Austria,-0.61
+cz,Czech Republic,by,Belarus,0.24
+cz,Czech Republic,be,Belgium,-0.35
+cz,Czech Republic,br,Brazil,0.69
+cz,Czech Republic,bg,Bulgaria,0.15
+cz,Czech Republic,ca,Canada,0.1
+cz,Czech Republic,cn,China,0.38
+cz,Czech Republic,hr,Croatia,0.17
+cz,Czech Republic,dk,Denmark,0.2
+cz,Czech Republic,fi,Finland,-0.17
+cz,Czech Republic,fr,France,0.35
+cz,Czech Republic,de,Germany,-1.06
+cz,Czech Republic,gr,Greece,0.26
+cz,Czech Republic,hu,Hungary,0.32
+cz,Czech Republic,in,India,2.23
+cz,Czech Republic,ie,Ireland,0.2
+cz,Czech Republic,it,Italy,0.83
+cz,Czech Republic,jp,Japan,-0.01
+cz,Czech Republic,lu,Luxembourg,-0.28
+cz,Czech Republic,mt,Malta,-0.02
+cz,Czech Republic,nl,Netherlands,-0.54
+cz,Czech Republic,nz,New Zealand,0.02
+cz,Czech Republic,no,Norway,0.01
+cz,Czech Republic,pl,Poland,0.45
+cz,Czech Republic,pt,Portugal,0.05
+cz,Czech Republic,ro,Romania,0.47
+cz,Czech Republic,rs,Serbia,0.37
+cz,Czech Republic,sg,Singapore,-0.01
+cz,Czech Republic,sk,Slovak Republic,1.59
+cz,Czech Republic,es,Spain,-0.59
+cz,Czech Republic,se,Sweden,-0.23
+cz,Czech Republic,ch,Switzerland,-1.07
+cz,Czech Republic,tr,Turkey,0.75
+cz,Czech Republic,ua,Ukraine,1.45
+cz,Czech Republic,ae,United Arab Emirates,0.11
+cz,Czech Republic,gb,United Kingdom,1.08
+cz,Czech Republic,us,United States,-0.28
+de,Germany,af,Afghanistan,0.04
+de,Germany,al,Albania,0.44
+de,Germany,dz,Algeria,0.11
+de,Germany,ar,Argentina,0.58
+de,Germany,am,Armenia,0.05
+de,Germany,au,Australia,0.47
+de,Germany,at,Austria,-0.25
+de,Germany,az,Azerbaijan,0.18
+de,Germany,bd,Bangladesh,0.52
+de,Germany,by,Belarus,0.19
+de,Germany,be,Belgium,0.11
+de,Germany,ba,Bosnia and Herzegovina,0.5
+de,Germany,br,Brazil,2.74
+de,Germany,bg,Bulgaria,0.19
+de,Germany,kh,Cambodia,0.01
+de,Germany,cm,Cameroon,0.14
+de,Germany,ca,Canada,0.11
+de,Germany,cl,Chile,0.35
+de,Germany,cn,China,0.72
+de,Germany,co,Colombia,0.58
+de,Germany,cr,Costa Rica,0.08
+de,Germany,hr,Croatia,0.55
+de,Germany,cy,Cyprus,-0.01
+de,Germany,cz,Czech Republic,0.17
+de,Germany,dk,Denmark,-0.01
+de,Germany,ec,Ecuador,0.12
+de,Germany,eg,"Egypt, Arab Rep.",1.05
+de,Germany,ee,Estonia,0
+de,Germany,et,Ethiopia,-0.01
+de,Germany,fi,Finland,0.01
+de,Germany,fr,France,1.08
+de,Germany,ge,Georgia,0.05
+de,Germany,gh,Ghana,0.23
+de,Germany,gr,Greece,0.55
+de,Germany,hk,"Hong Kong SAR, China",0.16
+de,Germany,hu,Hungary,0.48
+de,Germany,is,Iceland,0.01
+de,Germany,in,India,10.61
+de,Germany,id,Indonesia,-0.02
+de,Germany,ir,"Iran, Islamic Rep.",1.59
+de,Germany,iq,Iraq,0.06
+de,Germany,ie,Ireland,0.4
+de,Germany,il,Israel,0.14
+de,Germany,it,Italy,1.88
+de,Germany,jp,Japan,0.09
+de,Germany,jo,Jordan,0.11
+de,Germany,kz,Kazakhstan,0.1
+de,Germany,ke,Kenya,0.08
+de,Germany,kr,"Korea, Rep.",0.18
+de,Germany,kw,Kuwait,0.03
+de,Germany,lv,Latvia,0.07
+de,Germany,lb,Lebanon,0.22
+de,Germany,lt,Lithuania,0.06
+de,Germany,lu,Luxembourg,-0.46
+de,Germany,mk,"Macedonia, FYR",0.28
+de,Germany,my,Malaysia,0.22
+de,Germany,mt,Malta,0.06
+de,Germany,mx,Mexico,0.81
+de,Germany,md,Moldova,0.15
+de,Germany,ma,Morocco,0.41
+de,Germany,na,Namibia,0.02
+de,Germany,np,Nepal,0.1
+de,Germany,nl,Netherlands,0.32
+de,Germany,nz,New Zealand,0.17
+de,Germany,ng,Nigeria,0.79
+de,Germany,no,Norway,-0.04
+de,Germany,om,Oman,0.04
+de,Germany,pk,Pakistan,1.11
+de,Germany,pa,Panama,0.02
+de,Germany,pe,Peru,0.18
+de,Germany,ph,Philippines,0.13
+de,Germany,pl,Poland,0.79
+de,Germany,pt,Portugal,0.26
+de,Germany,qa,Qatar,0.09
+de,Germany,ro,Romania,0.95
+de,Germany,sa,Saudi Arabia,0.12
+de,Germany,rs,Serbia,0.59
+de,Germany,sg,Singapore,0.23
+de,Germany,sk,Slovak Republic,0.03
+de,Germany,si,Slovenia,0.05
+de,Germany,za,South Africa,0.63
+de,Germany,es,Spain,0.79
+de,Germany,lk,Sri Lanka,0.07
+de,Germany,se,Sweden,-0.11
+de,Germany,ch,Switzerland,-2.27
+de,Germany,sy,Syrian Arab Republic,0.29
+de,Germany,tw,"Taiwan, China",0.25
+de,Germany,tz,Tanzania,0.03
+de,Germany,th,Thailand,0.12
+de,Germany,tn,Tunisia,0.63
+de,Germany,tr,Turkey,3.52
+de,Germany,ug,Uganda,-0.02
+de,Germany,ua,Ukraine,0.74
+de,Germany,ae,United Arab Emirates,0.75
+de,Germany,gb,United Kingdom,2.3
+de,Germany,us,United States,0.75
+de,Germany,uy,Uruguay,0.07
+de,Germany,ve,"Venezuela, RB",0.24
+de,Germany,vn,Vietnam,0.19
+de,Germany,ps,West Bank and Gaza,0.05
+dk,Denmark,ar,Argentina,1.13
+dk,Denmark,au,Australia,0.17
+dk,Denmark,at,Austria,-0.05
+dk,Denmark,be,Belgium,-0.04
+dk,Denmark,br,Brazil,0.58
+dk,Denmark,bg,Bulgaria,-0.24
+dk,Denmark,ca,Canada,0
+dk,Denmark,cl,Chile,0.18
+dk,Denmark,cn,China,0.76
+dk,Denmark,cz,Czech Republic,-0.13
+dk,Denmark,eg,"Egypt, Arab Rep.",0.2
+dk,Denmark,ee,Estonia,-0.02
+dk,Denmark,fi,Finland,-0.06
+dk,Denmark,fr,France,0.32
+dk,Denmark,de,Germany,0.05
+dk,Denmark,gr,Greece,0.38
+dk,Denmark,hk,"Hong Kong SAR, China",0.12
+dk,Denmark,hu,Hungary,0.12
+dk,Denmark,is,Iceland,0.01
+dk,Denmark,in,India,2.51
+dk,Denmark,id,Indonesia,-0.03
+dk,Denmark,ir,"Iran, Islamic Rep.",0.26
+dk,Denmark,ie,Ireland,0.12
+dk,Denmark,it,Italy,0.77
+dk,Denmark,jp,Japan,0
+dk,Denmark,ke,Kenya,0
+dk,Denmark,kr,"Korea, Rep.",0.07
+dk,Denmark,lv,Latvia,-0.12
+dk,Denmark,lt,Lithuania,-0.2
+dk,Denmark,lu,Luxembourg,0
+dk,Denmark,my,Malaysia,0.14
+dk,Denmark,mt,Malta,-0.01
+dk,Denmark,mx,Mexico,0.14
+dk,Denmark,nl,Netherlands,0.34
+dk,Denmark,nz,New Zealand,0.02
+dk,Denmark,no,Norway,-0.49
+dk,Denmark,pk,Pakistan,0.14
+dk,Denmark,ph,Philippines,0.24
+dk,Denmark,pl,Poland,0.18
+dk,Denmark,pt,Portugal,0.16
+dk,Denmark,qa,Qatar,0.09
+dk,Denmark,ro,Romania,0.4
+dk,Denmark,sg,Singapore,0.14
+dk,Denmark,sk,Slovak Republic,0.05
+dk,Denmark,za,South Africa,0.26
+dk,Denmark,es,Spain,0.16
+dk,Denmark,se,Sweden,0.45
+dk,Denmark,ch,Switzerland,-0.19
+dk,Denmark,th,Thailand,0.13
+dk,Denmark,tr,Turkey,0.47
+dk,Denmark,ua,Ukraine,0.28
+dk,Denmark,ae,United Arab Emirates,0.37
+dk,Denmark,gb,United Kingdom,0.98
+dk,Denmark,us,United States,0.8
+dk,Denmark,vn,Vietnam,0.1
+do,Dominican Republic,ar,Argentina,-0.12
+do,Dominican Republic,br,Brazil,-0.11
+do,Dominican Republic,ca,Canada,-2.02
+do,Dominican Republic,cl,Chile,-0.66
+do,Dominican Republic,co,Colombia,-0.09
+do,Dominican Republic,fr,France,-0.6
+do,Dominican Republic,ht,Haiti,0.11
+do,Dominican Republic,it,Italy,-0.15
+do,Dominican Republic,mx,Mexico,-0.14
+do,Dominican Republic,pa,Panama,0.13
+do,Dominican Republic,pe,Peru,0.03
+do,Dominican Republic,pr,Puerto Rico,-0.33
+do,Dominican Republic,es,Spain,-3.97
+do,Dominican Republic,gb,United Kingdom,-0.26
+do,Dominican Republic,us,United States,-11.02
+do,Dominican Republic,ve,"Venezuela, RB",5.33
+dz,Algeria,be,Belgium,-0.24
+dz,Algeria,ca,Canada,-4.26
+dz,Algeria,cn,China,-0.22
+dz,Algeria,eg,"Egypt, Arab Rep.",-0.1
+dz,Algeria,fr,France,-14.16
+dz,Algeria,de,Germany,-0.49
+dz,Algeria,in,India,0.95
+dz,Algeria,it,Italy,-0.18
+dz,Algeria,my,Malaysia,-0.01
+dz,Algeria,ma,Morocco,0.06
+dz,Algeria,qa,Qatar,-0.68
+dz,Algeria,sa,Saudi Arabia,-0.22
+dz,Algeria,es,Spain,-0.45
+dz,Algeria,tn,Tunisia,-0.1
+dz,Algeria,tr,Turkey,-0.7
+dz,Algeria,ae,United Arab Emirates,-1.57
+dz,Algeria,gb,United Kingdom,-0.28
+dz,Algeria,us,United States,-0.82
+ec,Ecuador,ar,Argentina,-0.03
+ec,Ecuador,au,Australia,-0.08
+ec,Ecuador,br,Brazil,0.14
+ec,Ecuador,ca,Canada,-0.8
+ec,Ecuador,cl,Chile,-1.53
+ec,Ecuador,co,Colombia,0.2
+ec,Ecuador,cr,Costa Rica,0.09
+ec,Ecuador,fr,France,-0.21
+ec,Ecuador,de,Germany,-0.49
+ec,Ecuador,it,Italy,-0.16
+ec,Ecuador,mx,Mexico,-0.29
+ec,Ecuador,nl,Netherlands,-0.17
+ec,Ecuador,pa,Panama,0.06
+ec,Ecuador,pe,Peru,-0.18
+ec,Ecuador,es,Spain,-1.15
+ec,Ecuador,ch,Switzerland,-0.06
+ec,Ecuador,gb,United Kingdom,-0.29
+ec,Ecuador,us,United States,-0.25
+ec,Ecuador,ve,"Venezuela, RB",6.74
+ee,Estonia,au,Australia,0.61
+ee,Estonia,be,Belgium,0.47
+ee,Estonia,dk,Denmark,0.28
+ee,Estonia,fi,Finland,0.33
+ee,Estonia,fr,France,1.12
+ee,Estonia,de,Germany,-0.14
+ee,Estonia,it,Italy,1.12
+ee,Estonia,lv,Latvia,1.73
+ee,Estonia,nl,Netherlands,1.26
+ee,Estonia,no,Norway,-0.61
+ee,Estonia,es,Spain,1.03
+ee,Estonia,se,Sweden,-0.56
+ee,Estonia,ua,Ukraine,7.53
+ee,Estonia,gb,United Kingdom,1.17
+ee,Estonia,us,United States,2.43
+eg,"Egypt, Arab Rep.",dz,Algeria,0.05
+eg,"Egypt, Arab Rep.",au,Australia,-0.5
+eg,"Egypt, Arab Rep.",at,Austria,-0.15
+eg,"Egypt, Arab Rep.",bh,Bahrain,-0.03
+eg,"Egypt, Arab Rep.",be,Belgium,-0.11
+eg,"Egypt, Arab Rep.",ca,Canada,-1.58
+eg,"Egypt, Arab Rep.",cn,China,-0.07
+eg,"Egypt, Arab Rep.",dk,Denmark,-0.13
+eg,"Egypt, Arab Rep.",fr,France,-0.56
+eg,"Egypt, Arab Rep.",de,Germany,-2.51
+eg,"Egypt, Arab Rep.",gh,Ghana,-0.14
+eg,"Egypt, Arab Rep.",in,India,0.46
+eg,"Egypt, Arab Rep.",iq,Iraq,-0.04
+eg,"Egypt, Arab Rep.",ie,Ireland,-0.29
+eg,"Egypt, Arab Rep.",it,Italy,-0.38
+eg,"Egypt, Arab Rep.",jp,Japan,-0.04
+eg,"Egypt, Arab Rep.",jo,Jordan,0.07
+eg,"Egypt, Arab Rep.",kw,Kuwait,-1.73
+eg,"Egypt, Arab Rep.",lb,Lebanon,0.02
+eg,"Egypt, Arab Rep.",ly,Libya,-0.02
+eg,"Egypt, Arab Rep.",my,Malaysia,-0.17
+eg,"Egypt, Arab Rep.",ma,Morocco,0.01
+eg,"Egypt, Arab Rep.",nl,Netherlands,-0.43
+eg,"Egypt, Arab Rep.",ng,Nigeria,-0.06
+eg,"Egypt, Arab Rep.",no,Norway,0
+eg,"Egypt, Arab Rep.",om,Oman,0.08
+eg,"Egypt, Arab Rep.",pl,Poland,-0.17
+eg,"Egypt, Arab Rep.",qa,Qatar,1.65
+eg,"Egypt, Arab Rep.",ro,Romania,-0.03
+eg,"Egypt, Arab Rep.",sa,Saudi Arabia,3.48
+eg,"Egypt, Arab Rep.",za,South Africa,-0.03
+eg,"Egypt, Arab Rep.",es,Spain,-0.05
+eg,"Egypt, Arab Rep.",sd,Sudan,0.04
+eg,"Egypt, Arab Rep.",se,Sweden,-0.27
+eg,"Egypt, Arab Rep.",ch,Switzerland,-0.05
+eg,"Egypt, Arab Rep.",sy,Syrian Arab Republic,-0.01
+eg,"Egypt, Arab Rep.",tr,Turkey,-0.31
+eg,"Egypt, Arab Rep.",ua,Ukraine,-0.06
+eg,"Egypt, Arab Rep.",ae,United Arab Emirates,-6.28
+eg,"Egypt, Arab Rep.",gb,United Kingdom,-0.84
+eg,"Egypt, Arab Rep.",us,United States,-0.84
+eg,"Egypt, Arab Rep.",ye,"Yemen, Rep.",0.01
+es,Spain,af,Afghanistan,-0.05
+es,Spain,dz,Algeria,0.07
+es,Spain,ao,Angola,-0.01
+es,Spain,ar,Argentina,4.84
+es,Spain,au,Australia,-0.11
+es,Spain,at,Austria,-0.09
+es,Spain,be,Belgium,-0.1
+es,Spain,bo,Bolivia,0.11
+es,Spain,br,Brazil,1.46
+es,Spain,bg,Bulgaria,0.09
+es,Spain,ca,Canada,-0.13
+es,Spain,cl,Chile,0.52
+es,Spain,cn,China,0.12
+es,Spain,co,Colombia,1.8
+es,Spain,cr,Costa Rica,0.07
+es,Spain,hr,Croatia,0.01
+es,Spain,cu,Cuba,0.3
+es,Spain,cy,Cyprus,0.01
+es,Spain,cz,Czech Republic,0.08
+es,Spain,dk,Denmark,-0.03
+es,Spain,do,Dominican Republic,0.29
+es,Spain,ec,Ecuador,0.22
+es,Spain,eg,"Egypt, Arab Rep.",0.01
+es,Spain,sv,El Salvador,0.12
+es,Spain,ee,Estonia,-0.02
+es,Spain,fi,Finland,-0.04
+es,Spain,fr,France,0.43
+es,Spain,de,Germany,-0.62
+es,Spain,gr,Greece,0.04
+es,Spain,gt,Guatemala,0.08
+es,Spain,hn,Honduras,0.11
+es,Spain,hk,"Hong Kong SAR, China",0.01
+es,Spain,hu,Hungary,0.13
+es,Spain,is,Iceland,0.02
+es,Spain,in,India,0.47
+es,Spain,id,Indonesia,-0.02
+es,Spain,ir,"Iran, Islamic Rep.",0.13
+es,Spain,ie,Ireland,-0.02
+es,Spain,il,Israel,0.04
+es,Spain,it,Italy,1.41
+es,Spain,jp,Japan,-0.08
+es,Spain,jo,Jordan,0.02
+es,Spain,ke,Kenya,0.02
+es,Spain,kr,"Korea, Rep.",-0.03
+es,Spain,kw,Kuwait,0.01
+es,Spain,lv,Latvia,0.01
+es,Spain,lb,Lebanon,0.1
+es,Spain,lt,Lithuania,0.02
+es,Spain,lu,Luxembourg,-0.14
+es,Spain,my,Malaysia,0.02
+es,Spain,mt,Malta,0.06
+es,Spain,mx,Mexico,0.56
+es,Spain,ma,Morocco,0.37
+es,Spain,nl,Netherlands,-0.18
+es,Spain,nz,New Zealand,0
+es,Spain,ni,Nicaragua,0.15
+es,Spain,ng,Nigeria,0.06
+es,Spain,no,Norway,-0.04
+es,Spain,om,Oman,0.02
+es,Spain,pk,Pakistan,0.03
+es,Spain,pa,Panama,0.36
+es,Spain,py,Paraguay,0.04
+es,Spain,pe,Peru,1.1
+es,Spain,ph,Philippines,0.05
+es,Spain,pl,Poland,0.15
+es,Spain,pt,Portugal,0.24
+es,Spain,pr,Puerto Rico,0
+es,Spain,qa,Qatar,0.03
+es,Spain,ro,Romania,0.22
+es,Spain,sa,Saudi Arabia,0.02
+es,Spain,rs,Serbia,0.04
+es,Spain,sg,Singapore,0.02
+es,Spain,sk,Slovak Republic,0.02
+es,Spain,si,Slovenia,0.02
+es,Spain,za,South Africa,0.17
+es,Spain,se,Sweden,-0.18
+es,Spain,ch,Switzerland,-0.29
+es,Spain,tw,"Taiwan, China",0.01
+es,Spain,th,Thailand,0.03
+es,Spain,tn,Tunisia,0.06
+es,Spain,tr,Turkey,0.14
+es,Spain,ua,Ukraine,0.11
+es,Spain,ae,United Arab Emirates,0.05
+es,Spain,gb,United Kingdom,1.13
+es,Spain,us,United States,0.95
+es,Spain,uy,Uruguay,0.51
+es,Spain,ve,"Venezuela, RB",5.7
+es,Spain,vn,Vietnam,0
+et,Ethiopia,ca,Canada,-2.21
+et,Ethiopia,cn,China,-0.18
+et,Ethiopia,fr,France,0.14
+et,Ethiopia,de,Germany,0.24
+et,Ethiopia,in,India,1.02
+et,Ethiopia,it,Italy,-0.41
+et,Ethiopia,ke,Kenya,0.22
+et,Ethiopia,nl,Netherlands,0.81
+et,Ethiopia,no,Norway,0.97
+et,Ethiopia,za,South Africa,0.53
+et,Ethiopia,tr,Turkey,0.02
+et,Ethiopia,ae,United Arab Emirates,-0.71
+et,Ethiopia,gb,United Kingdom,0.47
+et,Ethiopia,us,United States,-3.47
+fi,Finland,au,Australia,0.54
+fi,Finland,at,Austria,0
+fi,Finland,be,Belgium,0.05
+fi,Finland,br,Brazil,0.76
+fi,Finland,ca,Canada,0.02
+fi,Finland,cn,China,0.97
+fi,Finland,cz,Czech Republic,0.22
+fi,Finland,dk,Denmark,0.13
+fi,Finland,ee,Estonia,-0.06
+fi,Finland,fr,France,0.41
+fi,Finland,de,Germany,-0.04
+fi,Finland,gr,Greece,0.2
+fi,Finland,hk,"Hong Kong SAR, China",0.13
+fi,Finland,hu,Hungary,0.32
+fi,Finland,in,India,1.97
+fi,Finland,ir,"Iran, Islamic Rep.",0.74
+fi,Finland,ie,Ireland,-0.12
+fi,Finland,it,Italy,0.58
+fi,Finland,jp,Japan,0.05
+fi,Finland,kr,"Korea, Rep.",0.13
+fi,Finland,lu,Luxembourg,-0.11
+fi,Finland,mx,Mexico,0.24
+fi,Finland,nl,Netherlands,0.02
+fi,Finland,no,Norway,-0.14
+fi,Finland,pk,Pakistan,0.72
+fi,Finland,pl,Poland,0.11
+fi,Finland,pt,Portugal,0.07
+fi,Finland,ro,Romania,0.28
+fi,Finland,sg,Singapore,0.12
+fi,Finland,es,Spain,0.44
+fi,Finland,se,Sweden,-0.82
+fi,Finland,ch,Switzerland,-0.15
+fi,Finland,th,Thailand,0.21
+fi,Finland,tr,Turkey,0.62
+fi,Finland,ae,United Arab Emirates,0.44
+fi,Finland,gb,United Kingdom,1.27
+fi,Finland,us,United States,0.79
+fi,Finland,vn,Vietnam,0.09
+fj,Fiji,au,Australia,-6.93
+fj,Fiji,nz,New Zealand,-9.88
+fj,Fiji,us,United States,-3.09
+fr,France,af,Afghanistan,0
+fr,France,al,Albania,0
+fr,France,dz,Algeria,1.54
+fr,France,ao,Angola,-0.04
+fr,France,ar,Argentina,0.32
+fr,France,am,Armenia,-0.03
+fr,France,au,Australia,0
+fr,France,at,Austria,-0.03
+fr,France,az,Azerbaijan,0
+fr,France,bh,Bahrain,0
+fr,France,bd,Bangladesh,0.02
+fr,France,be,Belgium,-0.15
+fr,France,bj,Benin,0.27
+fr,France,bo,Bolivia,0.03
+fr,France,br,Brazil,0.97
+fr,France,bg,Bulgaria,0.03
+fr,France,bf,Burkina Faso,0.02
+fr,France,kh,Cambodia,0.01
+fr,France,cm,Cameroon,0.42
+fr,France,ca,Canada,-2.1
+fr,France,cl,Chile,0.08
+fr,France,cn,China,0.09
+fr,France,co,Colombia,0.3
+fr,France,cd,"Congo, Dem. Rep.",0
+fr,France,cr,Costa Rica,0.02
+fr,France,ci,Cote d'Ivoire,0.76
+fr,France,hr,Croatia,0.02
+fr,France,cy,Cyprus,0
+fr,France,cz,Czech Republic,-0.03
+fr,France,dk,Denmark,-0.04
+fr,France,do,Dominican Republic,0.03
+fr,France,ec,Ecuador,0.03
+fr,France,eg,"Egypt, Arab Rep.",0.12
+fr,France,ee,Estonia,-0.01
+fr,France,et,Ethiopia,0
+fr,France,fi,Finland,-0.03
+fr,France,ga,Gabon,0.06
+fr,France,ge,Georgia,0.01
+fr,France,de,Germany,-0.55
+fr,France,gh,Ghana,0.02
+fr,France,gr,Greece,0.08
+fr,France,ht,Haiti,0.04
+fr,France,hk,"Hong Kong SAR, China",-0.04
+fr,France,hu,Hungary,0.04
+fr,France,is,Iceland,0
+fr,France,in,India,1.86
+fr,France,id,Indonesia,-0.04
+fr,France,ir,"Iran, Islamic Rep.",0.18
+fr,France,iq,Iraq,-0.02
+fr,France,ie,Ireland,-0.08
+fr,France,il,Israel,0
+fr,France,it,Italy,0.5
+fr,France,jp,Japan,-0.11
+fr,France,jo,Jordan,0.02
+fr,France,kz,Kazakhstan,0.02
+fr,France,ke,Kenya,0.01
+fr,France,kr,"Korea, Rep.",-0.08
+fr,France,kw,Kuwait,-0.03
+fr,France,lv,Latvia,0.01
+fr,France,lb,Lebanon,0.45
+fr,France,lt,Lithuania,0.01
+fr,France,lu,Luxembourg,-1.12
+fr,France,mg,Madagascar,0.14
+fr,France,my,Malaysia,0.01
+fr,France,ml,Mali,0.01
+fr,France,mt,Malta,-0.01
+fr,France,mu,Mauritius,0.05
+fr,France,mx,Mexico,0.28
+fr,France,md,Moldova,0.03
+fr,France,ma,Morocco,4.05
+fr,France,mm,Myanmar,0
+fr,France,np,Nepal,0.02
+fr,France,nl,Netherlands,-0.24
+fr,France,nz,New Zealand,-0.01
+fr,France,ng,Nigeria,0.06
+fr,France,no,Norway,-0.05
+fr,France,om,Oman,0.01
+fr,France,pk,Pakistan,0.05
+fr,France,pa,Panama,0.02
+fr,France,pe,Peru,0.09
+fr,France,ph,Philippines,0.03
+fr,France,pl,Poland,0.09
+fr,France,pt,Portugal,0.03
+fr,France,qa,Qatar,0.04
+fr,France,ro,Romania,0.18
+fr,France,sa,Saudi Arabia,0.03
+fr,France,sn,Senegal,0.26
+fr,France,rs,Serbia,0.05
+fr,France,sg,Singapore,-0.12
+fr,France,sk,Slovak Republic,0.01
+fr,France,si,Slovenia,0.01
+fr,France,za,South Africa,0.1
+fr,France,es,Spain,-0.28
+fr,France,lk,Sri Lanka,0.02
+fr,France,se,Sweden,-0.11
+fr,France,ch,Switzerland,-2.3
+fr,France,sy,Syrian Arab Republic,-0.03
+fr,France,tw,"Taiwan, China",0.04
+fr,France,tz,Tanzania,0.01
+fr,France,th,Thailand,0.05
+fr,France,tg,Togo,0.1
+fr,France,tn,Tunisia,2.83
+fr,France,tr,Turkey,0.24
+fr,France,ua,Ukraine,0.04
+fr,France,ae,United Arab Emirates,-0.21
+fr,France,gb,United Kingdom,-0.81
+fr,France,us,United States,0.49
+fr,France,uy,Uruguay,0.02
+fr,France,ve,"Venezuela, RB",0.11
+fr,France,vn,Vietnam,0.12
+ga,Gabon,cm,Cameroon,1.41
+ga,Gabon,fr,France,-10.15
+ga,Gabon,sn,Senegal,3.41
+ga,Gabon,gb,United Kingdom,1.5
+ga,Gabon,us,United States,37.11
+gb,United Kingdom,af,Afghanistan,-0.01
+gb,United Kingdom,al,Albania,0.06
+gb,United Kingdom,dz,Algeria,0.02
+gb,United Kingdom,ao,Angola,-0.04
+gb,United Kingdom,ar,Argentina,0.39
+gb,United Kingdom,am,Armenia,0
+gb,United Kingdom,au,Australia,-0.93
+gb,United Kingdom,at,Austria,-0.07
+gb,United Kingdom,az,Azerbaijan,0.01
+gb,United Kingdom,bs,"Bahamas, The",-0.01
+gb,United Kingdom,bh,Bahrain,0.03
+gb,United Kingdom,bd,Bangladesh,0.14
+gb,United Kingdom,by,Belarus,0.02
+gb,United Kingdom,be,Belgium,-0.02
+gb,United Kingdom,ba,Bosnia and Herzegovina,0.01
+gb,United Kingdom,bw,Botswana,0
+gb,United Kingdom,br,Brazil,2.07
+gb,United Kingdom,bg,Bulgaria,0.08
+gb,United Kingdom,kh,Cambodia,0
+gb,United Kingdom,cm,Cameroon,0.03
+gb,United Kingdom,ca,Canada,-0.61
+gb,United Kingdom,cl,Chile,0.02
+gb,United Kingdom,cn,China,-0.13
+gb,United Kingdom,co,Colombia,0.05
+gb,United Kingdom,cd,"Congo, Dem. Rep.",-0.01
+gb,United Kingdom,cr,Costa Rica,0.01
+gb,United Kingdom,ci,Cote d'Ivoire,0
+gb,United Kingdom,hr,Croatia,0.09
+gb,United Kingdom,cy,Cyprus,-0.11
+gb,United Kingdom,cz,Czech Republic,-0.06
+gb,United Kingdom,dk,Denmark,-0.09
+gb,United Kingdom,do,Dominican Republic,0.01
+gb,United Kingdom,ec,Ecuador,0.02
+gb,United Kingdom,eg,"Egypt, Arab Rep.",0.12
+gb,United Kingdom,ee,Estonia,-0.01
+gb,United Kingdom,et,Ethiopia,-0.01
+gb,United Kingdom,fi,Finland,-0.05
+gb,United Kingdom,fr,France,0.55
+gb,United Kingdom,ga,Gabon,-0.01
+gb,United Kingdom,ge,Georgia,0.01
+gb,United Kingdom,de,Germany,-0.79
+gb,United Kingdom,gh,Ghana,0.21
+gb,United Kingdom,gr,Greece,0.41
+gb,United Kingdom,hk,"Hong Kong SAR, China",-0.21
+gb,United Kingdom,hu,Hungary,0.07
+gb,United Kingdom,is,Iceland,0
+gb,United Kingdom,in,India,8.1
+gb,United Kingdom,id,Indonesia,0.05
+gb,United Kingdom,ir,"Iran, Islamic Rep.",0.06
+gb,United Kingdom,iq,Iraq,0
+gb,United Kingdom,ie,Ireland,-0.44
+gb,United Kingdom,il,Israel,0.05
+gb,United Kingdom,it,Italy,1.04
+gb,United Kingdom,jm,Jamaica,0.03
+gb,United Kingdom,jp,Japan,-0.13
+gb,United Kingdom,jo,Jordan,0.02
+gb,United Kingdom,kz,Kazakhstan,-0.01
+gb,United Kingdom,ke,Kenya,0.01
+gb,United Kingdom,kr,"Korea, Rep.",-0.03
+gb,United Kingdom,kw,Kuwait,0.03
+gb,United Kingdom,lv,Latvia,0
+gb,United Kingdom,lb,Lebanon,0.07
+gb,United Kingdom,ly,Libya,-0.01
+gb,United Kingdom,lt,Lithuania,-0.11
+gb,United Kingdom,lu,Luxembourg,-0.13
+gb,United Kingdom,mk,"Macedonia, FYR",0.03
+gb,United Kingdom,mw,Malawi,0
+gb,United Kingdom,my,Malaysia,-0.18
+gb,United Kingdom,mt,Malta,-0.06
+gb,United Kingdom,mu,Mauritius,0.01
+gb,United Kingdom,mx,Mexico,0.13
+gb,United Kingdom,md,Moldova,0.1
+gb,United Kingdom,mn,Mongolia,0
+gb,United Kingdom,ma,Morocco,0.06
+gb,United Kingdom,mz,Mozambique,0
+gb,United Kingdom,mm,Myanmar,-0.02
+gb,United Kingdom,na,Namibia,0
+gb,United Kingdom,np,Nepal,0.04
+gb,United Kingdom,nl,Netherlands,-0.55
+gb,United Kingdom,nz,New Zealand,-0.07
+gb,United Kingdom,ng,Nigeria,-0.2
+gb,United Kingdom,no,Norway,-0.18
+gb,United Kingdom,om,Oman,0.03
+gb,United Kingdom,pk,Pakistan,0.49
+gb,United Kingdom,pa,Panama,0.02
+gb,United Kingdom,pe,Peru,0.06
+gb,United Kingdom,ph,Philippines,0.3
+gb,United Kingdom,pl,Poland,-0.12
+gb,United Kingdom,pt,Portugal,0.26
+gb,United Kingdom,qa,Qatar,0.03
+gb,United Kingdom,ro,Romania,0.66
+gb,United Kingdom,rw,Rwanda,-0.01
+gb,United Kingdom,sa,Saudi Arabia,-0.02
+gb,United Kingdom,sn,Senegal,-0.01
+gb,United Kingdom,rs,Serbia,0.05
+gb,United Kingdom,sg,Singapore,-0.16
+gb,United Kingdom,sk,Slovak Republic,-0.05
+gb,United Kingdom,si,Slovenia,0.01
+gb,United Kingdom,za,South Africa,0.98
+gb,United Kingdom,es,Spain,-0.49
+gb,United Kingdom,lk,Sri Lanka,0.06
+gb,United Kingdom,sd,Sudan,0.02
+gb,United Kingdom,se,Sweden,-0.28
+gb,United Kingdom,ch,Switzerland,-0.5
+gb,United Kingdom,sy,Syrian Arab Republic,0.01
+gb,United Kingdom,tw,"Taiwan, China",0.07
+gb,United Kingdom,tz,Tanzania,-0.01
+gb,United Kingdom,th,Thailand,-0.02
+gb,United Kingdom,tt,Trinidad and Tobago,0.02
+gb,United Kingdom,tn,Tunisia,0.03
+gb,United Kingdom,tr,Turkey,1.14
+gb,United Kingdom,ug,Uganda,-0.01
+gb,United Kingdom,ua,Ukraine,0.13
+gb,United Kingdom,ae,United Arab Emirates,0.59
+gb,United Kingdom,us,United States,1.37
+gb,United Kingdom,uy,Uruguay,0.01
+gb,United Kingdom,uz,Uzbekistan,0.01
+gb,United Kingdom,ve,"Venezuela, RB",0.09
+gb,United Kingdom,vn,Vietnam,-0.01
+gb,United Kingdom,ps,West Bank and Gaza,0.01
+gb,United Kingdom,zm,Zambia,-0.05
+gb,United Kingdom,zw,Zimbabwe,0.04
+ge,Georgia,az,Azerbaijan,0.22
+ge,Georgia,fr,France,-0.44
+ge,Georgia,de,Germany,-1.59
+ge,Georgia,in,India,3.05
+ge,Georgia,tr,Turkey,0.59
+ge,Georgia,ua,Ukraine,0.22
+ge,Georgia,ae,United Arab Emirates,1.12
+ge,Georgia,gb,United Kingdom,-0.53
+ge,Georgia,us,United States,74.18
+gh,Ghana,au,Australia,-0.93
+gh,Ghana,ca,Canada,-3.26
+gh,Ghana,cn,China,-0.72
+gh,Ghana,ci,Cote d'Ivoire,-0.44
+gh,Ghana,eg,"Egypt, Arab Rep.",0.44
+gh,Ghana,fr,France,-0.33
+gh,Ghana,de,Germany,-1.72
+gh,Ghana,in,India,4.04
+gh,Ghana,it,Italy,-0.33
+gh,Ghana,ke,Kenya,-0.09
+gh,Ghana,lb,Lebanon,-0.02
+gh,Ghana,nl,Netherlands,-0.46
+gh,Ghana,ng,Nigeria,-2.48
+gh,Ghana,no,Norway,1.24
+gh,Ghana,za,South Africa,0.21
+gh,Ghana,tg,Togo,0.04
+gh,Ghana,ae,United Arab Emirates,-1.15
+gh,Ghana,gb,United Kingdom,-4.45
+gh,Ghana,us,United States,-2.77
+gr,Greece,al,Albania,0.08
+gr,Greece,au,Australia,-0.14
+gr,Greece,at,Austria,-0.38
+gr,Greece,be,Belgium,-1.05
+gr,Greece,bg,Bulgaria,-0.03
+gr,Greece,ca,Canada,-0.33
+gr,Greece,cn,China,-0.08
+gr,Greece,cy,Cyprus,-1.24
+gr,Greece,cz,Czech Republic,-0.26
+gr,Greece,dk,Denmark,-0.62
+gr,Greece,fi,Finland,-0.16
+gr,Greece,fr,France,-0.98
+gr,Greece,de,Germany,-3.44
+gr,Greece,hu,Hungary,-0.06
+gr,Greece,in,India,0.21
+gr,Greece,ie,Ireland,-0.55
+gr,Greece,it,Italy,0.14
+gr,Greece,lu,Luxembourg,-0.41
+gr,Greece,nl,Netherlands,-3.11
+gr,Greece,no,Norway,-0.27
+gr,Greece,pl,Poland,-0.13
+gr,Greece,qa,Qatar,0.14
+gr,Greece,ro,Romania,0.1
+gr,Greece,sa,Saudi Arabia,0.01
+gr,Greece,rs,Serbia,0.08
+gr,Greece,es,Spain,-0.3
+gr,Greece,se,Sweden,-1.34
+gr,Greece,ch,Switzerland,-1.82
+gr,Greece,tr,Turkey,0.7
+gr,Greece,ua,Ukraine,0.06
+gr,Greece,ae,United Arab Emirates,0.32
+gr,Greece,gb,United Kingdom,-7.42
+gr,Greece,us,United States,-1.34
+gt,Guatemala,ca,Canada,-0.43
+gt,Guatemala,co,Colombia,-0.06
+gt,Guatemala,cr,Costa Rica,-1.07
+gt,Guatemala,sv,El Salvador,-0.57
+gt,Guatemala,hn,Honduras,-0.93
+gt,Guatemala,mx,Mexico,-0.96
+gt,Guatemala,ni,Nicaragua,0.31
+gt,Guatemala,pa,Panama,-0.02
+gt,Guatemala,es,Spain,-1.14
+gt,Guatemala,us,United States,-1.03
+gt,Guatemala,ve,"Venezuela, RB",0.76
+hk,"Hong Kong SAR, China",au,Australia,-1.4
+hk,"Hong Kong SAR, China",at,Austria,-0.08
+hk,"Hong Kong SAR, China",bd,Bangladesh,0.02
+hk,"Hong Kong SAR, China",be,Belgium,0
+hk,"Hong Kong SAR, China",br,Brazil,0.46
+hk,"Hong Kong SAR, China",ca,Canada,-1.89
+hk,"Hong Kong SAR, China",cn,China,7.99
+hk,"Hong Kong SAR, China",dk,Denmark,-0.16
+hk,"Hong Kong SAR, China",fi,Finland,-0.08
+hk,"Hong Kong SAR, China",fr,France,0.38
+hk,"Hong Kong SAR, China",de,Germany,-0.82
+hk,"Hong Kong SAR, China",in,India,3.95
+hk,"Hong Kong SAR, China",id,Indonesia,-0.05
+hk,"Hong Kong SAR, China",ie,Ireland,-0.03
+hk,"Hong Kong SAR, China",il,Israel,-0.07
+hk,"Hong Kong SAR, China",it,Italy,0.15
+hk,"Hong Kong SAR, China",jp,Japan,-0.54
+hk,"Hong Kong SAR, China",kr,"Korea, Rep.",-0.21
+hk,"Hong Kong SAR, China",my,Malaysia,0.25
+hk,"Hong Kong SAR, China",mx,Mexico,-0.04
+hk,"Hong Kong SAR, China",nl,Netherlands,-0.4
+hk,"Hong Kong SAR, China",nz,New Zealand,-0.59
+hk,"Hong Kong SAR, China",ng,Nigeria,0.61
+hk,"Hong Kong SAR, China",pk,Pakistan,-0.02
+hk,"Hong Kong SAR, China",ph,Philippines,0.26
+hk,"Hong Kong SAR, China",qa,Qatar,0.01
+hk,"Hong Kong SAR, China",sg,Singapore,-3.07
+hk,"Hong Kong SAR, China",za,South Africa,0.69
+hk,"Hong Kong SAR, China",es,Spain,-0.05
+hk,"Hong Kong SAR, China",se,Sweden,-0.21
+hk,"Hong Kong SAR, China",ch,Switzerland,0.01
+hk,"Hong Kong SAR, China",tw,"Taiwan, China",0.56
+hk,"Hong Kong SAR, China",th,Thailand,0
+hk,"Hong Kong SAR, China",tr,Turkey,0.11
+hk,"Hong Kong SAR, China",ae,United Arab Emirates,0.25
+hk,"Hong Kong SAR, China",gb,United Kingdom,3.04
+hk,"Hong Kong SAR, China",us,United States,1.3
+hk,"Hong Kong SAR, China",vn,Vietnam,0.09
+hn,Honduras,ca,Canada,-1.5
+hn,Honduras,cr,Costa Rica,-0.21
+hn,Honduras,gt,Guatemala,1.86
+hn,Honduras,mx,Mexico,-0.64
+hn,Honduras,ni,Nicaragua,0.43
+hn,Honduras,es,Spain,-3.24
+hn,Honduras,us,United States,-4.22
+hr,Croatia,au,Australia,-0.07
+hr,Croatia,at,Austria,-1.9
+hr,Croatia,be,Belgium,-0.91
+hr,Croatia,ba,Bosnia and Herzegovina,2
+hr,Croatia,ca,Canada,-0.08
+hr,Croatia,cz,Czech Republic,-0.46
+hr,Croatia,fr,France,-0.73
+hr,Croatia,de,Germany,-9.06
+hr,Croatia,ie,Ireland,-4.82
+hr,Croatia,it,Italy,-0.25
+hr,Croatia,nl,Netherlands,-2.38
+hr,Croatia,no,Norway,-0.84
+hr,Croatia,pl,Poland,-0.26
+hr,Croatia,rs,Serbia,0.92
+hr,Croatia,si,Slovenia,0.03
+hr,Croatia,es,Spain,-0.25
+hr,Croatia,se,Sweden,-1.77
+hr,Croatia,ch,Switzerland,-0.91
+hr,Croatia,ae,United Arab Emirates,0.21
+hr,Croatia,gb,United Kingdom,-4.16
+hr,Croatia,us,United States,0.64
+ht,Haiti,ca,Canada,-8.5
+ht,Haiti,do,Dominican Republic,-0.52
+ht,Haiti,fr,France,-3.81
+ht,Haiti,us,United States,-14.77
+hu,Hungary,au,Australia,-0.3
+hu,Hungary,at,Austria,-3.38
+hu,Hungary,be,Belgium,-0.55
+hu,Hungary,br,Brazil,1.81
+hu,Hungary,ca,Canada,-0.93
+hu,Hungary,cn,China,0.04
+hu,Hungary,cz,Czech Republic,-0.53
+hu,Hungary,dk,Denmark,-0.3
+hu,Hungary,fi,Finland,-0.39
+hu,Hungary,fr,France,-0.78
+hu,Hungary,de,Germany,-4.74
+hu,Hungary,gr,Greece,0.1
+hu,Hungary,in,India,2.64
+hu,Hungary,ie,Ireland,-0.17
+hu,Hungary,it,Italy,0.32
+hu,Hungary,jp,Japan,-0.07
+hu,Hungary,lu,Luxembourg,-0.45
+hu,Hungary,mt,Malta,0
+hu,Hungary,nl,Netherlands,-2.83
+hu,Hungary,nz,New Zealand,-0.03
+hu,Hungary,no,Norway,-0.51
+hu,Hungary,pl,Poland,0.01
+hu,Hungary,pt,Portugal,-0.27
+hu,Hungary,ro,Romania,1.67
+hu,Hungary,rs,Serbia,0.68
+hu,Hungary,sg,Singapore,-0.13
+hu,Hungary,sk,Slovak Republic,0.32
+hu,Hungary,es,Spain,-1.62
+hu,Hungary,se,Sweden,-1.02
+hu,Hungary,ch,Switzerland,-2.16
+hu,Hungary,tr,Turkey,1.45
+hu,Hungary,ua,Ukraine,0.67
+hu,Hungary,ae,United Arab Emirates,0.29
+hu,Hungary,gb,United Kingdom,-1.91
+hu,Hungary,us,United States,-2.21
+id,Indonesia,af,Afghanistan,-0.04
+id,Indonesia,ao,Angola,-0.03
+id,Indonesia,au,Australia,-0.12
+id,Indonesia,be,Belgium,-0.02
+id,Indonesia,br,Brazil,0.23
+id,Indonesia,kh,Cambodia,0.04
+id,Indonesia,ca,Canada,-0.06
+id,Indonesia,cn,China,0.14
+id,Indonesia,dk,Denmark,0.01
+id,Indonesia,fr,France,0.05
+id,Indonesia,de,Germany,0.01
+id,Indonesia,hk,"Hong Kong SAR, China",0.01
+id,Indonesia,in,India,0.6
+id,Indonesia,il,Israel,0.01
+id,Indonesia,it,Italy,0
+id,Indonesia,jp,Japan,-0.13
+id,Indonesia,kr,"Korea, Rep.",-0.04
+id,Indonesia,my,Malaysia,0.12
+id,Indonesia,mm,Myanmar,0
+id,Indonesia,nl,Netherlands,-0.02
+id,Indonesia,nz,New Zealand,-0.04
+id,Indonesia,ng,Nigeria,0.02
+id,Indonesia,no,Norway,-0.02
+id,Indonesia,om,Oman,0
+id,Indonesia,ph,Philippines,0.03
+id,Indonesia,qa,Qatar,-0.01
+id,Indonesia,sa,Saudi Arabia,0.03
+id,Indonesia,sg,Singapore,-0.03
+id,Indonesia,za,South Africa,-0.01
+id,Indonesia,es,Spain,0.02
+id,Indonesia,se,Sweden,-0.05
+id,Indonesia,ch,Switzerland,-0.01
+id,Indonesia,tw,"Taiwan, China",0
+id,Indonesia,th,Thailand,-0.03
+id,Indonesia,tr,Turkey,0
+id,Indonesia,ae,United Arab Emirates,-0.02
+id,Indonesia,gb,United Kingdom,-0.11
+id,Indonesia,us,United States,1.92
+id,Indonesia,vn,Vietnam,-0.01
+ie,Ireland,ar,Argentina,1.3
+ie,Ireland,au,Australia,-1.38
+ie,Ireland,at,Austria,-0.18
+ie,Ireland,be,Belgium,0.12
+ie,Ireland,br,Brazil,16.98
+ie,Ireland,bg,Bulgaria,0.11
+ie,Ireland,ca,Canada,-3.21
+ie,Ireland,cl,Chile,0.31
+ie,Ireland,cn,China,0.6
+ie,Ireland,co,Colombia,0.12
+ie,Ireland,hr,Croatia,1.38
+ie,Ireland,cz,Czech Republic,-0.16
+ie,Ireland,dk,Denmark,-0.14
+ie,Ireland,eg,"Egypt, Arab Rep.",0.57
+ie,Ireland,fi,Finland,0.07
+ie,Ireland,fr,France,0.75
+ie,Ireland,de,Germany,-1.89
+ie,Ireland,gr,Greece,0.41
+ie,Ireland,hk,"Hong Kong SAR, China",0.03
+ie,Ireland,hu,Hungary,0.08
+ie,Ireland,in,India,21.8
+ie,Ireland,il,Israel,0.23
+ie,Ireland,it,Italy,2.31
+ie,Ireland,jp,Japan,-0.05
+ie,Ireland,kr,"Korea, Rep.",-0.1
+ie,Ireland,lt,Lithuania,-0.09
+ie,Ireland,lu,Luxembourg,-0.28
+ie,Ireland,my,Malaysia,0.28
+ie,Ireland,mt,Malta,-0.16
+ie,Ireland,mx,Mexico,1.2
+ie,Ireland,nl,Netherlands,-1.36
+ie,Ireland,nz,New Zealand,0.11
+ie,Ireland,ng,Nigeria,1.87
+ie,Ireland,no,Norway,-0.21
+ie,Ireland,pk,Pakistan,0.56
+ie,Ireland,ph,Philippines,0.63
+ie,Ireland,pl,Poland,-0.87
+ie,Ireland,pt,Portugal,-0.52
+ie,Ireland,qa,Qatar,0.17
+ie,Ireland,ro,Romania,0.93
+ie,Ireland,sa,Saudi Arabia,-0.07
+ie,Ireland,sg,Singapore,0
+ie,Ireland,sk,Slovak Republic,-0.16
+ie,Ireland,za,South Africa,3.88
+ie,Ireland,es,Spain,0.14
+ie,Ireland,se,Sweden,-0.08
+ie,Ireland,ch,Switzerland,-0.55
+ie,Ireland,tw,"Taiwan, China",0.37
+ie,Ireland,th,Thailand,0.14
+ie,Ireland,tr,Turkey,2.1
+ie,Ireland,ua,Ukraine,0.31
+ie,Ireland,ae,United Arab Emirates,1.09
+ie,Ireland,gb,United Kingdom,5.98
+ie,Ireland,us,United States,1.06
+ie,Ireland,ve,"Venezuela, RB",0.22
+ie,Ireland,vn,Vietnam,0.14
+il,Israel,ar,Argentina,0.54
+il,Israel,au,Australia,-0.24
+il,Israel,at,Austria,-0.03
+il,Israel,be,Belgium,0.2
+il,Israel,br,Brazil,1
+il,Israel,ca,Canada,-1.92
+il,Israel,cn,China,0.3
+il,Israel,cy,Cyprus,-0.17
+il,Israel,fr,France,-0.01
+il,Israel,de,Germany,-0.76
+il,Israel,hk,"Hong Kong SAR, China",0.07
+il,Israel,in,India,1.26
+il,Israel,id,Indonesia,-0.11
+il,Israel,ie,Ireland,-0.27
+il,Israel,it,Italy,0
+il,Israel,mx,Mexico,0.19
+il,Israel,nl,Netherlands,-0.31
+il,Israel,sg,Singapore,-0.04
+il,Israel,za,South Africa,0.61
+il,Israel,es,Spain,-0.27
+il,Israel,se,Sweden,-0.05
+il,Israel,ch,Switzerland,-0.04
+il,Israel,th,Thailand,0.03
+il,Israel,tr,Turkey,0.34
+il,Israel,ua,Ukraine,1.14
+il,Israel,gb,United Kingdom,-0.82
+il,Israel,us,United States,0.89
+il,Israel,ps,West Bank and Gaza,-0.49
+in,India,af,Afghanistan,-0.06
+in,India,al,Albania,-0.03
+in,India,dz,Algeria,-0.03
+in,India,ao,Angola,-0.05
+in,India,ar,Argentina,-0.02
+in,India,au,Australia,-2.85
+in,India,at,Austria,-0.05
+in,India,bh,Bahrain,-0.13
+in,India,bd,Bangladesh,-0.04
+in,India,be,Belgium,-0.16
+in,India,bw,Botswana,0
+in,India,br,Brazil,-0.04
+in,India,bg,Bulgaria,0
+in,India,kh,Cambodia,-0.01
+in,India,cm,Cameroon,-0.03
+in,India,ca,Canada,-6.14
+in,India,cl,Chile,-0.01
+in,India,cn,China,-0.06
+in,India,co,Colombia,-0.01
+in,India,cd,"Congo, Dem. Rep.",-0.02
+in,India,ci,Cote d'Ivoire,-0.02
+in,India,cz,Czech Republic,-0.06
+in,India,dk,Denmark,-0.1
+in,India,eg,"Egypt, Arab Rep.",-0.03
+in,India,et,Ethiopia,-0.01
+in,India,fi,Finland,-0.04
+in,India,fr,France,-0.56
+in,India,ge,Georgia,-0.02
+in,India,de,Germany,-1.63
+in,India,gh,Ghana,-0.08
+in,India,gr,Greece,-0.01
+in,India,hk,"Hong Kong SAR, China",-0.12
+in,India,hu,Hungary,-0.04
+in,India,is,Iceland,0.01
+in,India,id,Indonesia,-0.13
+in,India,ir,"Iran, Islamic Rep.",-0.08
+in,India,iq,Iraq,-0.04
+in,India,ie,Ireland,-0.71
+in,India,il,Israel,-0.03
+in,India,it,Italy,-0.15
+in,India,jp,Japan,-0.26
+in,India,jo,Jordan,-0.02
+in,India,kz,Kazakhstan,0
+in,India,ke,Kenya,-0.02
+in,India,kr,"Korea, Rep.",-0.06
+in,India,kw,Kuwait,-0.33
+in,India,lt,Lithuania,-0.01
+in,India,lu,Luxembourg,-0.04
+in,India,mw,Malawi,-0.01
+in,India,my,Malaysia,-0.24
+in,India,mu,Mauritius,-0.02
+in,India,mx,Mexico,-0.05
+in,India,ma,Morocco,-0.01
+in,India,mz,Mozambique,-0.01
+in,India,mm,Myanmar,-0.01
+in,India,np,Nepal,-0.14
+in,India,nl,Netherlands,-0.56
+in,India,nz,New Zealand,-0.4
+in,India,ng,Nigeria,-0.07
+in,India,no,Norway,-0.08
+in,India,om,Oman,-0.04
+in,India,pk,Pakistan,0
+in,India,pg,Papua New Guinea,-0.01
+in,India,ph,Philippines,-0.03
+in,India,pl,Poland,-0.12
+in,India,pt,Portugal,-0.03
+in,India,qa,Qatar,-0.63
+in,India,ro,Romania,-0.01
+in,India,rw,Rwanda,-0.04
+in,India,sa,Saudi Arabia,-0.23
+in,India,sg,Singapore,-0.89
+in,India,sk,Slovak Republic,-0.01
+in,India,za,South Africa,-0.08
+in,India,es,Spain,-0.09
+in,India,lk,Sri Lanka,-0.02
+in,India,sd,Sudan,-0.11
+in,India,se,Sweden,-0.42
+in,India,ch,Switzerland,-0.07
+in,India,tw,"Taiwan, China",-0.03
+in,India,tz,Tanzania,-0.01
+in,India,th,Thailand,-0.07
+in,India,tr,Turkey,-0.03
+in,India,ug,Uganda,-0.02
+in,India,ua,Ukraine,-0.02
+in,India,ae,United Arab Emirates,-3.67
+in,India,gb,United Kingdom,-3.63
+in,India,us,United States,-4.03
+in,India,vn,Vietnam,-0.04
+in,India,ye,"Yemen, Rep.",-0.02
+in,India,zm,Zambia,-0.02
+iq,Iraq,af,Afghanistan,0.12
+iq,Iraq,au,Australia,-0.53
+iq,Iraq,ca,Canada,-1.42
+iq,Iraq,cn,China,0.47
+iq,Iraq,eg,"Egypt, Arab Rep.",0.17
+iq,Iraq,fr,France,0.41
+iq,Iraq,de,Germany,-0.68
+iq,Iraq,in,India,2.82
+iq,Iraq,ir,"Iran, Islamic Rep.",0.61
+iq,Iraq,it,Italy,0.11
+iq,Iraq,jo,Jordan,0.86
+iq,Iraq,kw,Kuwait,0.27
+iq,Iraq,lb,Lebanon,0.01
+iq,Iraq,my,Malaysia,1.17
+iq,Iraq,nl,Netherlands,0.01
+iq,Iraq,om,Oman,0.23
+iq,Iraq,pk,Pakistan,0.22
+iq,Iraq,qa,Qatar,0.13
+iq,Iraq,sa,Saudi Arabia,0.38
+iq,Iraq,se,Sweden,-0.58
+iq,Iraq,sy,Syrian Arab Republic,1.57
+iq,Iraq,tr,Turkey,1.17
+iq,Iraq,ae,United Arab Emirates,2.22
+iq,Iraq,gb,United Kingdom,-0.03
+iq,Iraq,us,United States,0.15
+ir,"Iran, Islamic Rep.",af,Afghanistan,-0.15
+ir,"Iran, Islamic Rep.",am,Armenia,-0.26
+ir,"Iran, Islamic Rep.",au,Australia,-4.43
+ir,"Iran, Islamic Rep.",at,Austria,-0.51
+ir,"Iran, Islamic Rep.",be,Belgium,-0.42
+ir,"Iran, Islamic Rep.",ca,Canada,-13.22
+ir,"Iran, Islamic Rep.",cn,China,-0.23
+ir,"Iran, Islamic Rep.",dk,Denmark,-0.2
+ir,"Iran, Islamic Rep.",fi,Finland,-0.27
+ir,"Iran, Islamic Rep.",fr,France,-1.01
+ir,"Iran, Islamic Rep.",de,Germany,-4.63
+ir,"Iran, Islamic Rep.",in,India,1.43
+ir,"Iran, Islamic Rep.",iq,Iraq,-0.16
+ir,"Iran, Islamic Rep.",it,Italy,-1.84
+ir,"Iran, Islamic Rep.",jp,Japan,-0.09
+ir,"Iran, Islamic Rep.",kr,"Korea, Rep.",-0.09
+ir,"Iran, Islamic Rep.",my,Malaysia,0.07
+ir,"Iran, Islamic Rep.",nl,Netherlands,-0.58
+ir,"Iran, Islamic Rep.",nz,New Zealand,-0.26
+ir,"Iran, Islamic Rep.",no,Norway,-0.44
+ir,"Iran, Islamic Rep.",ro,Romania,0.56
+ir,"Iran, Islamic Rep.",sg,Singapore,-0.06
+ir,"Iran, Islamic Rep.",es,Spain,-0.49
+ir,"Iran, Islamic Rep.",se,Sweden,-1.39
+ir,"Iran, Islamic Rep.",ch,Switzerland,-0.28
+ir,"Iran, Islamic Rep.",tr,Turkey,-3.42
+ir,"Iran, Islamic Rep.",ae,United Arab Emirates,-0.52
+ir,"Iran, Islamic Rep.",gb,United Kingdom,-0.51
+ir,"Iran, Islamic Rep.",us,United States,1.67
+is,Iceland,ca,Canada,-0.26
+is,Iceland,dk,Denmark,-0.09
+is,Iceland,fr,France,-0.18
+is,Iceland,de,Germany,-0.4
+is,Iceland,in,India,-3.52
+is,Iceland,ng,Nigeria,-10.69
+is,Iceland,no,Norway,0.44
+is,Iceland,za,South Africa,-2.55
+is,Iceland,es,Spain,-0.88
+is,Iceland,se,Sweden,0.18
+is,Iceland,gb,United Kingdom,0.09
+is,Iceland,us,United States,-0.26
+is,Iceland,zw,Zimbabwe,-2.29
+it,Italy,af,Afghanistan,-0.02
+it,Italy,al,Albania,0.1
+it,Italy,dz,Algeria,0.03
+it,Italy,ao,Angola,-0.01
+it,Italy,ar,Argentina,0.45
+it,Italy,au,Australia,-0.03
+it,Italy,at,Austria,-0.21
+it,Italy,az,Azerbaijan,0.03
+it,Italy,bd,Bangladesh,0.01
+it,Italy,by,Belarus,0.04
+it,Italy,be,Belgium,-0.6
+it,Italy,br,Brazil,1.33
+it,Italy,bg,Bulgaria,-0.01
+it,Italy,ca,Canada,-0.22
+it,Italy,cl,Chile,0.05
+it,Italy,cn,China,0.07
+it,Italy,co,Colombia,0.12
+it,Italy,cr,Costa Rica,0.01
+it,Italy,hr,Croatia,0.01
+it,Italy,cy,Cyprus,-0.02
+it,Italy,cz,Czech Republic,-0.1
+it,Italy,dk,Denmark,-0.15
+it,Italy,do,Dominican Republic,0.01
+it,Italy,ec,Ecuador,0.03
+it,Italy,eg,"Egypt, Arab Rep.",0.11
+it,Italy,ee,Estonia,-0.02
+it,Italy,et,Ethiopia,0.01
+it,Italy,fi,Finland,-0.05
+it,Italy,fr,France,-0.71
+it,Italy,de,Germany,-1.35
+it,Italy,gh,Ghana,0.03
+it,Italy,gr,Greece,-0.02
+it,Italy,hk,"Hong Kong SAR, China",-0.02
+it,Italy,hu,Hungary,-0.02
+it,Italy,in,India,0.72
+it,Italy,id,Indonesia,0
+it,Italy,ir,"Iran, Islamic Rep.",0.45
+it,Italy,iq,Iraq,-0.01
+it,Italy,ie,Ireland,-0.35
+it,Italy,il,Israel,0
+it,Italy,jp,Japan,-0.04
+it,Italy,jo,Jordan,0.01
+it,Italy,kz,Kazakhstan,0.02
+it,Italy,ke,Kenya,-0.01
+it,Italy,kr,"Korea, Rep.",-0.01
+it,Italy,kw,Kuwait,0
+it,Italy,lv,Latvia,0
+it,Italy,lb,Lebanon,0.05
+it,Italy,lt,Lithuania,-0.01
+it,Italy,lu,Luxembourg,-0.28
+it,Italy,my,Malaysia,0.03
+it,Italy,mt,Malta,-0.12
+it,Italy,mx,Mexico,0.11
+it,Italy,md,Moldova,0.02
+it,Italy,ma,Morocco,0.13
+it,Italy,nl,Netherlands,-0.88
+it,Italy,nz,New Zealand,0.02
+it,Italy,ng,Nigeria,0.08
+it,Italy,no,Norway,-0.07
+it,Italy,pk,Pakistan,0.15
+it,Italy,pa,Panama,0
+it,Italy,pe,Peru,0.06
+it,Italy,ph,Philippines,0.05
+it,Italy,pl,Poland,-0.08
+it,Italy,pt,Portugal,-0.21
+it,Italy,qa,Qatar,0.01
+it,Italy,ro,Romania,-0.05
+it,Italy,sa,Saudi Arabia,0.01
+it,Italy,sn,Senegal,-0.01
+it,Italy,rs,Serbia,0.05
+it,Italy,sg,Singapore,-0.03
+it,Italy,sk,Slovak Republic,-0.02
+it,Italy,si,Slovenia,-0.01
+it,Italy,za,South Africa,0.05
+it,Italy,es,Spain,-1.29
+it,Italy,se,Sweden,-0.22
+it,Italy,ch,Switzerland,-1.28
+it,Italy,tw,"Taiwan, China",0.01
+it,Italy,tz,Tanzania,0
+it,Italy,th,Thailand,0.03
+it,Italy,tn,Tunisia,0.1
+it,Italy,tr,Turkey,0.33
+it,Italy,ua,Ukraine,0.08
+it,Italy,ae,United Arab Emirates,-0.05
+it,Italy,gb,United Kingdom,-2.17
+it,Italy,us,United States,-0.17
+it,Italy,ve,"Venezuela, RB",0.25
+it,Italy,vn,Vietnam,0.01
+jm,Jamaica,ca,Canada,-13.85
+jm,Jamaica,tt,Trinidad and Tobago,-0.11
+jm,Jamaica,gb,United Kingdom,-2.24
+jm,Jamaica,us,United States,-19.13
+jo,Jordan,au,Australia,-1.21
+jo,Jordan,bh,Bahrain,-0.06
+jo,Jordan,ca,Canada,-3.16
+jo,Jordan,eg,"Egypt, Arab Rep.",-0.33
+jo,Jordan,fr,France,-0.48
+jo,Jordan,de,Germany,-1.23
+jo,Jordan,in,India,1.35
+jo,Jordan,iq,Iraq,-0.93
+jo,Jordan,it,Italy,-0.16
+jo,Jordan,kw,Kuwait,-2.23
+jo,Jordan,lb,Lebanon,-0.26
+jo,Jordan,my,Malaysia,0.18
+jo,Jordan,nl,Netherlands,-0.19
+jo,Jordan,om,Oman,0.19
+jo,Jordan,qa,Qatar,-4.62
+jo,Jordan,sa,Saudi Arabia,3.46
+jo,Jordan,es,Spain,-0.36
+jo,Jordan,ch,Switzerland,0.27
+jo,Jordan,sy,Syrian Arab Republic,-0.39
+jo,Jordan,tr,Turkey,-1.51
+jo,Jordan,ae,United Arab Emirates,-10.12
+jo,Jordan,gb,United Kingdom,-0.52
+jo,Jordan,us,United States,-7.61
+jo,Jordan,ps,West Bank and Gaza,0.11
+jp,Japan,au,Australia,0.27
+jp,Japan,at,Austria,0.05
+jp,Japan,bd,Bangladesh,0.61
+jp,Japan,be,Belgium,0.05
+jp,Japan,br,Brazil,2.22
+jp,Japan,ca,Canada,0.25
+jp,Japan,cn,China,1.09
+jp,Japan,cz,Czech Republic,0.01
+jp,Japan,dk,Denmark,0
+jp,Japan,eg,"Egypt, Arab Rep.",0.07
+jp,Japan,fi,Finland,-0.02
+jp,Japan,fr,France,0.9
+jp,Japan,de,Germany,-0.37
+jp,Japan,hk,"Hong Kong SAR, China",0.44
+jp,Japan,hu,Hungary,0.03
+jp,Japan,in,India,6.99
+jp,Japan,id,Indonesia,0.74
+jp,Japan,ir,"Iran, Islamic Rep.",0.12
+jp,Japan,ie,Ireland,0.05
+jp,Japan,it,Italy,0.23
+jp,Japan,kr,"Korea, Rep.",0.34
+jp,Japan,my,Malaysia,0.02
+jp,Japan,mx,Mexico,0.39
+jp,Japan,mm,Myanmar,0.14
+jp,Japan,nl,Netherlands,0.23
+jp,Japan,nz,New Zealand,0.07
+jp,Japan,ng,Nigeria,0.4
+jp,Japan,no,Norway,0.01
+jp,Japan,pk,Pakistan,0.16
+jp,Japan,ph,Philippines,2.06
+jp,Japan,pl,Poland,0.07
+jp,Japan,sa,Saudi Arabia,-0.05
+jp,Japan,sg,Singapore,-0.09
+jp,Japan,za,South Africa,0.17
+jp,Japan,es,Spain,0.43
+jp,Japan,lk,Sri Lanka,0.25
+jp,Japan,se,Sweden,-0.1
+jp,Japan,ch,Switzerland,0.03
+jp,Japan,tw,"Taiwan, China",1.35
+jp,Japan,th,Thailand,0.14
+jp,Japan,tr,Turkey,0.32
+jp,Japan,ae,United Arab Emirates,0.27
+jp,Japan,gb,United Kingdom,1.59
+jp,Japan,us,United States,2.52
+jp,Japan,vn,Vietnam,0.25
+ke,Kenya,au,Australia,-0.79
+ke,Kenya,be,Belgium,0.02
+ke,Kenya,ca,Canada,-1.37
+ke,Kenya,cn,China,0.07
+ke,Kenya,cd,"Congo, Dem. Rep.",-0.12
+ke,Kenya,dk,Denmark,0
+ke,Kenya,et,Ethiopia,-0.05
+ke,Kenya,fr,France,-0.07
+ke,Kenya,de,Germany,-0.37
+ke,Kenya,gh,Ghana,0.06
+ke,Kenya,in,India,0.68
+ke,Kenya,it,Italy,0.06
+ke,Kenya,mu,Mauritius,0.44
+ke,Kenya,nl,Netherlands,-0.06
+ke,Kenya,ng,Nigeria,0.07
+ke,Kenya,no,Norway,2.65
+ke,Kenya,qa,Qatar,-0.3
+ke,Kenya,rw,Rwanda,0.04
+ke,Kenya,sa,Saudi Arabia,0.14
+ke,Kenya,za,South Africa,0.61
+ke,Kenya,es,Spain,-0.13
+ke,Kenya,se,Sweden,-0.15
+ke,Kenya,ch,Switzerland,-0.15
+ke,Kenya,tz,Tanzania,0.57
+ke,Kenya,ug,Uganda,0.32
+ke,Kenya,ae,United Arab Emirates,-0.87
+ke,Kenya,gb,United Kingdom,-0.19
+ke,Kenya,us,United States,8.47
+ke,Kenya,zm,Zambia,0.14
+ke,Kenya,zw,Zimbabwe,-0.04
+kh,Cambodia,au,Australia,-1.97
+kh,Cambodia,ca,Canada,-0.09
+kh,Cambodia,cn,China,2.03
+kh,Cambodia,fr,France,-0.46
+kh,Cambodia,de,Germany,-0.14
+kh,Cambodia,in,India,2.74
+kh,Cambodia,id,Indonesia,-1.68
+kh,Cambodia,kr,"Korea, Rep.",-0.11
+kh,Cambodia,my,Malaysia,1.46
+kh,Cambodia,nl,Netherlands,0.17
+kh,Cambodia,ph,Philippines,0.54
+kh,Cambodia,sg,Singapore,0.26
+kh,Cambodia,th,Thailand,1.46
+kh,Cambodia,gb,United Kingdom,-0.26
+kh,Cambodia,us,United States,-1.26
+kh,Cambodia,vn,Vietnam,3.54
+kr,"Korea, Rep.",au,Australia,-0.09
+kr,"Korea, Rep.",bd,Bangladesh,0.23
+kr,"Korea, Rep.",be,Belgium,-0.02
+kr,"Korea, Rep.",br,Brazil,0.96
+kr,"Korea, Rep.",kh,Cambodia,0.02
+kr,"Korea, Rep.",ca,Canada,-1.4
+kr,"Korea, Rep.",cn,China,1.02
+kr,"Korea, Rep.",co,Colombia,0.05
+kr,"Korea, Rep.",dk,Denmark,-0.07
+kr,"Korea, Rep.",fi,Finland,-0.06
+kr,"Korea, Rep.",fr,France,0.6
+kr,"Korea, Rep.",de,Germany,-0.69
+kr,"Korea, Rep.",hk,"Hong Kong SAR, China",0.16
+kr,"Korea, Rep.",in,India,1.43
+kr,"Korea, Rep.",id,Indonesia,0.22
+kr,"Korea, Rep.",ir,"Iran, Islamic Rep.",0.12
+kr,"Korea, Rep.",ie,Ireland,0.08
+kr,"Korea, Rep.",it,Italy,0.03
+kr,"Korea, Rep.",jp,Japan,-0.32
+kr,"Korea, Rep.",my,Malaysia,0.04
+kr,"Korea, Rep.",mx,Mexico,0.02
+kr,"Korea, Rep.",nl,Netherlands,0.02
+kr,"Korea, Rep.",nz,New Zealand,-0.07
+kr,"Korea, Rep.",ng,Nigeria,0.38
+kr,"Korea, Rep.",no,Norway,-0.13
+kr,"Korea, Rep.",pk,Pakistan,0.28
+kr,"Korea, Rep.",ph,Philippines,0.24
+kr,"Korea, Rep.",pl,Poland,-0.02
+kr,"Korea, Rep.",qa,Qatar,0.02
+kr,"Korea, Rep.",sa,Saudi Arabia,-0.09
+kr,"Korea, Rep.",sg,Singapore,-0.16
+kr,"Korea, Rep.",za,South Africa,0.28
+kr,"Korea, Rep.",es,Spain,0.14
+kr,"Korea, Rep.",se,Sweden,-0.22
+kr,"Korea, Rep.",ch,Switzerland,0.02
+kr,"Korea, Rep.",tw,"Taiwan, China",0.17
+kr,"Korea, Rep.",th,Thailand,0.16
+kr,"Korea, Rep.",tr,Turkey,0.17
+kr,"Korea, Rep.",ae,United Arab Emirates,-0.05
+kr,"Korea, Rep.",gb,United Kingdom,0.36
+kr,"Korea, Rep.",us,United States,0.04
+kr,"Korea, Rep.",vn,Vietnam,-0.12
+kw,Kuwait,af,Afghanistan,-0.23
+kw,Kuwait,au,Australia,-2.14
+kw,Kuwait,bh,Bahrain,0.11
+kw,Kuwait,ca,Canada,-4.94
+kw,Kuwait,cn,China,0.23
+kw,Kuwait,eg,"Egypt, Arab Rep.",11.15
+kw,Kuwait,fr,France,0.93
+kw,Kuwait,de,Germany,-0.45
+kw,Kuwait,in,India,32.77
+kw,Kuwait,iq,Iraq,-0.39
+kw,Kuwait,it,Italy,0.09
+kw,Kuwait,jo,Jordan,2.95
+kw,Kuwait,lb,Lebanon,1.12
+kw,Kuwait,my,Malaysia,0.53
+kw,Kuwait,ng,Nigeria,0.51
+kw,Kuwait,om,Oman,0.48
+kw,Kuwait,pk,Pakistan,0.23
+kw,Kuwait,ph,Philippines,1.13
+kw,Kuwait,qa,Qatar,0.11
+kw,Kuwait,sa,Saudi Arabia,3.21
+kw,Kuwait,za,South Africa,0.26
+kw,Kuwait,es,Spain,-0.14
+kw,Kuwait,tr,Turkey,2.13
+kw,Kuwait,ae,United Arab Emirates,-0.42
+kw,Kuwait,gb,United Kingdom,-1.3
+kw,Kuwait,us,United States,2.31
+kz,Kazakhstan,au,Australia,-0.22
+kz,Kazakhstan,az,Azerbaijan,0.01
+kz,Kazakhstan,ca,Canada,-1.31
+kz,Kazakhstan,cn,China,0.35
+kz,Kazakhstan,fr,France,-0.36
+kz,Kazakhstan,de,Germany,-1.19
+kz,Kazakhstan,in,India,0
+kz,Kazakhstan,it,Italy,-0.4
+kz,Kazakhstan,my,Malaysia,0.53
+kz,Kazakhstan,nl,Netherlands,-0.41
+kz,Kazakhstan,tr,Turkey,0.1
+kz,Kazakhstan,ua,Ukraine,-0.18
+kz,Kazakhstan,ae,United Arab Emirates,-0.82
+kz,Kazakhstan,gb,United Kingdom,0.27
+kz,Kazakhstan,us,United States,-2.97
+kz,Kazakhstan,uz,Uzbekistan,-0.23
+lb,Lebanon,au,Australia,-2.37
+lb,Lebanon,bh,Bahrain,0
+lb,Lebanon,be,Belgium,-0.81
+lb,Lebanon,ca,Canada,-8.42
+lb,Lebanon,eg,"Egypt, Arab Rep.",-0.11
+lb,Lebanon,fr,France,-12.13
+lb,Lebanon,de,Germany,-3.01
+lb,Lebanon,gh,Ghana,0.04
+lb,Lebanon,iq,Iraq,-0.01
+lb,Lebanon,it,Italy,-0.94
+lb,Lebanon,jo,Jordan,0.3
+lb,Lebanon,kw,Kuwait,-0.99
+lb,Lebanon,nl,Netherlands,-0.95
+lb,Lebanon,ng,Nigeria,0.06
+lb,Lebanon,om,Oman,-0.07
+lb,Lebanon,qa,Qatar,-2.19
+lb,Lebanon,sa,Saudi Arabia,1.06
+lb,Lebanon,es,Spain,-1.73
+lb,Lebanon,se,Sweden,-0.89
+lb,Lebanon,ch,Switzerland,-0.77
+lb,Lebanon,sy,Syrian Arab Republic,0.59
+lb,Lebanon,tr,Turkey,-0.92
+lb,Lebanon,ae,United Arab Emirates,-11.74
+lb,Lebanon,gb,United Kingdom,-2.64
+lb,Lebanon,us,United States,-7.57
+lk,Sri Lanka,au,Australia,-15.37
+lk,Sri Lanka,bd,Bangladesh,0.09
+lk,Sri Lanka,ca,Canada,-4.12
+lk,Sri Lanka,cn,China,0.09
+lk,Sri Lanka,fr,France,-0.35
+lk,Sri Lanka,de,Germany,-0.63
+lk,Sri Lanka,in,India,1.36
+lk,Sri Lanka,jp,Japan,-0.56
+lk,Sri Lanka,my,Malaysia,-0.26
+lk,Sri Lanka,nz,New Zealand,-2.38
+lk,Sri Lanka,om,Oman,0.13
+lk,Sri Lanka,qa,Qatar,-1.02
+lk,Sri Lanka,sa,Saudi Arabia,0.73
+lk,Sri Lanka,sg,Singapore,-3.23
+lk,Sri Lanka,th,Thailand,0.01
+lk,Sri Lanka,ae,United Arab Emirates,-2.93
+lk,Sri Lanka,gb,United Kingdom,-1.66
+lk,Sri Lanka,us,United States,-1.06
+lt,Lithuania,au,Australia,-0.33
+lt,Lithuania,by,Belarus,0.4
+lt,Lithuania,be,Belgium,-0.36
+lt,Lithuania,ca,Canada,-0.33
+lt,Lithuania,dk,Denmark,1.26
+lt,Lithuania,fr,France,-0.24
+lt,Lithuania,de,Germany,-1.47
+lt,Lithuania,in,India,1.4
+lt,Lithuania,ie,Ireland,0.43
+lt,Lithuania,it,Italy,0.43
+lt,Lithuania,lv,Latvia,0.26
+lt,Lithuania,nl,Netherlands,-0.5
+lt,Lithuania,no,Norway,0.14
+lt,Lithuania,pl,Poland,-0.07
+lt,Lithuania,es,Spain,-0.66
+lt,Lithuania,se,Sweden,-1.28
+lt,Lithuania,ch,Switzerland,-0.74
+lt,Lithuania,tr,Turkey,0.76
+lt,Lithuania,ua,Ukraine,1.14
+lt,Lithuania,gb,United Kingdom,7.23
+lt,Lithuania,us,United States,-0.31
+lu,Luxembourg,au,Australia,0.12
+lu,Luxembourg,at,Austria,0.08
+lu,Luxembourg,be,Belgium,22.36
+lu,Luxembourg,br,Brazil,5.15
+lu,Luxembourg,ca,Canada,0.84
+lu,Luxembourg,cn,China,1.96
+lu,Luxembourg,cz,Czech Republic,1.8
+lu,Luxembourg,dk,Denmark,0.04
+lu,Luxembourg,fi,Finland,0.56
+lu,Luxembourg,fr,France,87.71
+lu,Luxembourg,de,Germany,18.16
+lu,Luxembourg,gr,Greece,2.59
+lu,Luxembourg,hu,Hungary,1.8
+lu,Luxembourg,in,India,10.9
+lu,Luxembourg,ie,Ireland,2.36
+lu,Luxembourg,it,Italy,15.29
+lu,Luxembourg,nl,Netherlands,2.2
+lu,Luxembourg,pl,Poland,5.63
+lu,Luxembourg,pt,Portugal,8.78
+lu,Luxembourg,ro,Romania,5.47
+lu,Luxembourg,sg,Singapore,0.92
+lu,Luxembourg,es,Spain,7.11
+lu,Luxembourg,se,Sweden,0.48
+lu,Luxembourg,ch,Switzerland,-0.4
+lu,Luxembourg,ae,United Arab Emirates,1.72
+lu,Luxembourg,gb,United Kingdom,14.73
+lu,Luxembourg,us,United States,3.07
+lv,Latvia,be,Belgium,-0.78
+lv,Latvia,dk,Denmark,0.97
+lv,Latvia,ee,Estonia,-1.16
+lv,Latvia,fr,France,-0.84
+lv,Latvia,de,Germany,-2.13
+lv,Latvia,it,Italy,0.03
+lv,Latvia,lt,Lithuania,-0.34
+lv,Latvia,nl,Netherlands,-0.31
+lv,Latvia,no,Norway,-0.34
+lv,Latvia,es,Spain,-0.59
+lv,Latvia,se,Sweden,-1.78
+lv,Latvia,ch,Switzerland,-0.5
+lv,Latvia,ua,Ukraine,1.56
+lv,Latvia,gb,United Kingdom,-0.31
+lv,Latvia,us,United States,-2.38
+ly,Libya,ca,Canada,-0.7
+ly,Libya,eg,"Egypt, Arab Rep.",0.41
+ly,Libya,tn,Tunisia,1.11
+ly,Libya,tr,Turkey,-0.12
+ly,Libya,ae,United Arab Emirates,2.55
+ly,Libya,gb,United Kingdom,0.99
+ly,Libya,us,United States,6.7
+ma,Morocco,dz,Algeria,-0.05
+ma,Morocco,be,Belgium,-1.23
+ma,Morocco,ca,Canada,-5.29
+ma,Morocco,cn,China,-0.55
+ma,Morocco,ci,Cote d'Ivoire,-0.41
+ma,Morocco,eg,"Egypt, Arab Rep.",-0.02
+ma,Morocco,fr,France,-31.85
+ma,Morocco,de,Germany,-1.65
+ma,Morocco,in,India,0.21
+ma,Morocco,it,Italy,-0.72
+ma,Morocco,nl,Netherlands,-0.48
+ma,Morocco,qa,Qatar,-0.62
+ma,Morocco,sa,Saudi Arabia,-0.28
+ma,Morocco,sn,Senegal,0.06
+ma,Morocco,es,Spain,-1.9
+ma,Morocco,ch,Switzerland,-0.23
+ma,Morocco,tn,Tunisia,0.1
+ma,Morocco,tr,Turkey,-0.74
+ma,Morocco,ae,United Arab Emirates,-1.12
+ma,Morocco,gb,United Kingdom,-0.72
+ma,Morocco,us,United States,-0.25
+md,Moldova,ca,Canada,-3.23
+md,Moldova,fr,France,-2.59
+md,Moldova,de,Germany,-6.86
+md,Moldova,it,Italy,-1.23
+md,Moldova,ro,Romania,-15.36
+md,Moldova,ua,Ukraine,-0.91
+md,Moldova,gb,United Kingdom,-12.81
+md,Moldova,us,United States,-0.59
+mg,Madagascar,ca,Canada,-2.27
+mg,Madagascar,fr,France,-14.62
+mg,Madagascar,mu,Mauritius,-0.72
+mg,Madagascar,us,United States,-0.55
+mk,"Macedonia, FYR",de,Germany,-11.88
+mk,"Macedonia, FYR",nl,Netherlands,-2.56
+mk,"Macedonia, FYR",tr,Turkey,0.69
+mk,"Macedonia, FYR",ae,United Arab Emirates,-0.61
+mk,"Macedonia, FYR",gb,United Kingdom,-3.38
+mk,"Macedonia, FYR",us,United States,-6.29
+ml,Mali,ci,Cote d'Ivoire,-1.06
+ml,Mali,fr,France,-1.23
+ml,Mali,sn,Senegal,1.7
+ml,Mali,us,United States,2.23
+mm,Myanmar,au,Australia,-0.46
+mm,Myanmar,cn,China,0.71
+mm,Myanmar,fr,France,-0.08
+mm,Myanmar,in,India,1.98
+mm,Myanmar,id,Indonesia,-0.02
+mm,Myanmar,jp,Japan,-0.69
+mm,Myanmar,my,Malaysia,0.42
+mm,Myanmar,ph,Philippines,0.61
+mm,Myanmar,sg,Singapore,0.96
+mm,Myanmar,th,Thailand,3.03
+mm,Myanmar,ae,United Arab Emirates,0.29
+mm,Myanmar,gb,United Kingdom,1.38
+mm,Myanmar,us,United States,13.4
+mm,Myanmar,vn,Vietnam,-0.21
+mn,Mongolia,au,Australia,-3.27
+mn,Mongolia,cn,China,-0.16
+mn,Mongolia,gb,United Kingdom,0.38
+mn,Mongolia,us,United States,3.27
+mt,Malta,au,Australia,-0.05
+mt,Malta,be,Belgium,-0.51
+mt,Malta,br,Brazil,5.63
+mt,Malta,cz,Czech Republic,0.2
+mt,Malta,dk,Denmark,0.15
+mt,Malta,fr,France,0.51
+mt,Malta,de,Germany,-3.12
+mt,Malta,hu,Hungary,0
+mt,Malta,ie,Ireland,1.74
+mt,Malta,it,Italy,8.61
+mt,Malta,nl,Netherlands,-2.1
+mt,Malta,ph,Philippines,3.64
+mt,Malta,pl,Poland,2
+mt,Malta,es,Spain,-4.2
+mt,Malta,se,Sweden,-2.71
+mt,Malta,ch,Switzerland,-1.49
+mt,Malta,tr,Turkey,3.89
+mt,Malta,ae,United Arab Emirates,3.12
+mt,Malta,gb,United Kingdom,8.25
+mt,Malta,us,United States,1.95
+mu,Mauritius,au,Australia,-3.15
+mu,Mauritius,ca,Canada,-8.99
+mu,Mauritius,fr,France,-3.37
+mu,Mauritius,in,India,4.01
+mu,Mauritius,ke,Kenya,-3.59
+mu,Mauritius,mg,Madagascar,0.49
+mu,Mauritius,my,Malaysia,1.98
+mu,Mauritius,za,South Africa,-3.11
+mu,Mauritius,ae,United Arab Emirates,0.6
+mu,Mauritius,gb,United Kingdom,-1.24
+mu,Mauritius,us,United States,2.43
+mw,Malawi,in,India,2.52
+mw,Malawi,za,South Africa,0
+mw,Malawi,gb,United Kingdom,-0.26
+mw,Malawi,us,United States,7.23
+mx,Mexico,ar,Argentina,0.26
+mx,Mexico,au,Australia,-0.18
+mx,Mexico,at,Austria,-0.04
+mx,Mexico,be,Belgium,-0.05
+mx,Mexico,bo,Bolivia,0.02
+mx,Mexico,br,Brazil,0.22
+mx,Mexico,ca,Canada,-1.05
+mx,Mexico,cl,Chile,0.01
+mx,Mexico,cn,China,-0.04
+mx,Mexico,co,Colombia,0.4
+mx,Mexico,cr,Costa Rica,0.08
+mx,Mexico,cu,Cuba,0.11
+mx,Mexico,dk,Denmark,-0.03
+mx,Mexico,do,Dominican Republic,0.01
+mx,Mexico,ec,Ecuador,0.05
+mx,Mexico,sv,El Salvador,0.03
+mx,Mexico,fi,Finland,-0.02
+mx,Mexico,fr,France,-0.39
+mx,Mexico,de,Germany,-0.58
+mx,Mexico,gt,Guatemala,0.06
+mx,Mexico,hn,Honduras,0.02
+mx,Mexico,hk,"Hong Kong SAR, China",0.01
+mx,Mexico,in,India,0.21
+mx,Mexico,ie,Ireland,-0.18
+mx,Mexico,il,Israel,-0.02
+mx,Mexico,it,Italy,-0.1
+mx,Mexico,jp,Japan,-0.07
+mx,Mexico,kr,"Korea, Rep.",0
+mx,Mexico,my,Malaysia,0.02
+mx,Mexico,nl,Netherlands,-0.16
+mx,Mexico,nz,New Zealand,-0.04
+mx,Mexico,ni,Nicaragua,0.04
+mx,Mexico,no,Norway,-0.03
+mx,Mexico,pa,Panama,0.02
+mx,Mexico,pe,Peru,0.06
+mx,Mexico,ph,Philippines,0.02
+mx,Mexico,pl,Poland,-0.04
+mx,Mexico,pt,Portugal,-0.05
+mx,Mexico,pr,Puerto Rico,0
+mx,Mexico,sa,Saudi Arabia,-0.02
+mx,Mexico,sg,Singapore,-0.01
+mx,Mexico,za,South Africa,-0.02
+mx,Mexico,es,Spain,-0.51
+mx,Mexico,se,Sweden,-0.09
+mx,Mexico,ch,Switzerland,-0.07
+mx,Mexico,th,Thailand,0.01
+mx,Mexico,ae,United Arab Emirates,-0.06
+mx,Mexico,gb,United Kingdom,-0.26
+mx,Mexico,us,United States,-3.12
+mx,Mexico,uy,Uruguay,0.02
+mx,Mexico,ve,"Venezuela, RB",0.96
+my,Malaysia,dz,Algeria,0.01
+my,Malaysia,au,Australia,-0.81
+my,Malaysia,bh,Bahrain,-0.04
+my,Malaysia,bd,Bangladesh,-0.26
+my,Malaysia,be,Belgium,-0.05
+my,Malaysia,br,Brazil,0.1
+my,Malaysia,kh,Cambodia,-0.1
+my,Malaysia,ca,Canada,-0.77
+my,Malaysia,cn,China,-0.02
+my,Malaysia,dk,Denmark,-0.07
+my,Malaysia,eg,"Egypt, Arab Rep.",0.14
+my,Malaysia,fr,France,-0.03
+my,Malaysia,de,Germany,-0.42
+my,Malaysia,hk,"Hong Kong SAR, China",-0.1
+my,Malaysia,in,India,3.01
+my,Malaysia,id,Indonesia,-0.34
+my,Malaysia,ir,"Iran, Islamic Rep.",-0.05
+my,Malaysia,iq,Iraq,-0.21
+my,Malaysia,ie,Ireland,-0.12
+my,Malaysia,it,Italy,-0.08
+my,Malaysia,jp,Japan,-0.01
+my,Malaysia,jo,Jordan,-0.03
+my,Malaysia,kz,Kazakhstan,-0.09
+my,Malaysia,kr,"Korea, Rep.",-0.02
+my,Malaysia,kw,Kuwait,-0.07
+my,Malaysia,mu,Mauritius,-0.1
+my,Malaysia,mx,Mexico,-0.05
+my,Malaysia,mm,Myanmar,-0.04
+my,Malaysia,nl,Netherlands,-0.19
+my,Malaysia,nz,New Zealand,-0.2
+my,Malaysia,ng,Nigeria,-0.25
+my,Malaysia,no,Norway,-0.07
+my,Malaysia,om,Oman,-0.12
+my,Malaysia,pk,Pakistan,-0.01
+my,Malaysia,ph,Philippines,0.16
+my,Malaysia,qa,Qatar,-0.2
+my,Malaysia,sa,Saudi Arabia,-0.38
+my,Malaysia,sg,Singapore,-8.22
+my,Malaysia,za,South Africa,0.05
+my,Malaysia,es,Spain,-0.06
+my,Malaysia,lk,Sri Lanka,0.06
+my,Malaysia,sd,Sudan,-0.03
+my,Malaysia,se,Sweden,-0.13
+my,Malaysia,ch,Switzerland,-0.04
+my,Malaysia,tw,"Taiwan, China",0.14
+my,Malaysia,th,Thailand,-0.08
+my,Malaysia,tr,Turkey,-0.16
+my,Malaysia,ae,United Arab Emirates,-0.24
+my,Malaysia,gb,United Kingdom,1.04
+my,Malaysia,us,United States,0.71
+my,Malaysia,vn,Vietnam,-0.07
+my,Malaysia,ye,"Yemen, Rep.",-0.04
+mz,Mozambique,br,Brazil,3.43
+mz,Mozambique,in,India,2.68
+mz,Mozambique,pt,Portugal,-4.64
+mz,Mozambique,za,South Africa,1.37
+mz,Mozambique,gb,United Kingdom,0.22
+mz,Mozambique,us,United States,3.96
+mz,Mozambique,zw,Zimbabwe,0.93
+na,Namibia,ao,Angola,-3.38
+na,Namibia,de,Germany,-0.83
+na,Namibia,za,South Africa,5.51
+na,Namibia,gb,United Kingdom,-0.65
+na,Namibia,us,United States,2.78
+na,Namibia,zm,Zambia,-1.39
+na,Namibia,zw,Zimbabwe,0.65
+ng,Nigeria,ao,Angola,-0.09
+ng,Nigeria,au,Australia,-0.97
+ng,Nigeria,bj,Benin,0.12
+ng,Nigeria,cm,Cameroon,0.04
+ng,Nigeria,ca,Canada,-9.5
+ng,Nigeria,cn,China,-0.39
+ng,Nigeria,ci,Cote d'Ivoire,-0.04
+ng,Nigeria,cy,Cyprus,-0.09
+ng,Nigeria,eg,"Egypt, Arab Rep.",0.05
+ng,Nigeria,fr,France,-0.26
+ng,Nigeria,de,Germany,-1.66
+ng,Nigeria,gh,Ghana,0.71
+ng,Nigeria,hk,"Hong Kong SAR, China",-0.25
+ng,Nigeria,is,Iceland,0.51
+ng,Nigeria,in,India,0.96
+ng,Nigeria,id,Indonesia,-0.07
+ng,Nigeria,ie,Ireland,-0.84
+ng,Nigeria,it,Italy,-0.23
+ng,Nigeria,jp,Japan,-0.21
+ng,Nigeria,ke,Kenya,-0.03
+ng,Nigeria,kr,"Korea, Rep.",-0.2
+ng,Nigeria,kw,Kuwait,-0.07
+ng,Nigeria,lb,Lebanon,-0.01
+ng,Nigeria,my,Malaysia,0.27
+ng,Nigeria,nl,Netherlands,-0.22
+ng,Nigeria,no,Norway,1.52
+ng,Nigeria,pk,Pakistan,-0.09
+ng,Nigeria,ph,Philippines,0
+ng,Nigeria,pl,Poland,-0.01
+ng,Nigeria,qa,Qatar,-0.15
+ng,Nigeria,sa,Saudi Arabia,-0.12
+ng,Nigeria,sg,Singapore,-0.25
+ng,Nigeria,za,South Africa,-0.08
+ng,Nigeria,es,Spain,-0.15
+ng,Nigeria,ch,Switzerland,-0.2
+ng,Nigeria,tz,Tanzania,0.01
+ng,Nigeria,tr,Turkey,-0.12
+ng,Nigeria,ug,Uganda,0.04
+ng,Nigeria,ua,Ukraine,0.05
+ng,Nigeria,ae,United Arab Emirates,-2.38
+ng,Nigeria,gb,United Kingdom,1.21
+ng,Nigeria,us,United States,-13.66
+ni,Nicaragua,ca,Canada,-1.76
+ni,Nicaragua,cr,Costa Rica,-5.63
+ni,Nicaragua,gt,Guatemala,-0.74
+ni,Nicaragua,hn,Honduras,-0.51
+ni,Nicaragua,mx,Mexico,-1.65
+ni,Nicaragua,pa,Panama,-2.82
+ni,Nicaragua,es,Spain,-5.4
+ni,Nicaragua,us,United States,-11.77
+nl,Netherlands,af,Afghanistan,-0.05
+nl,Netherlands,al,Albania,0.03
+nl,Netherlands,ar,Argentina,0.3
+nl,Netherlands,au,Australia,0.13
+nl,Netherlands,at,Austria,-0.04
+nl,Netherlands,az,Azerbaijan,0.04
+nl,Netherlands,bd,Bangladesh,0.04
+nl,Netherlands,be,Belgium,-0.04
+nl,Netherlands,br,Brazil,1.32
+nl,Netherlands,bg,Bulgaria,0.09
+nl,Netherlands,kh,Cambodia,-0.01
+nl,Netherlands,ca,Canada,-0.02
+nl,Netherlands,cl,Chile,0.09
+nl,Netherlands,cn,China,0.29
+nl,Netherlands,co,Colombia,0.17
+nl,Netherlands,cr,Costa Rica,0.07
+nl,Netherlands,hr,Croatia,0.17
+nl,Netherlands,cy,Cyprus,0.04
+nl,Netherlands,cz,Czech Republic,0.1
+nl,Netherlands,dk,Denmark,-0.1
+nl,Netherlands,ec,Ecuador,0.05
+nl,Netherlands,eg,"Egypt, Arab Rep.",0.2
+nl,Netherlands,ee,Estonia,-0.03
+nl,Netherlands,et,Ethiopia,-0.05
+nl,Netherlands,fi,Finland,0
+nl,Netherlands,fr,France,0.53
+nl,Netherlands,de,Germany,-0.37
+nl,Netherlands,gh,Ghana,0.07
+nl,Netherlands,gr,Greece,0.57
+nl,Netherlands,hk,"Hong Kong SAR, China",0.09
+nl,Netherlands,hu,Hungary,0.33
+nl,Netherlands,in,India,4.15
+nl,Netherlands,id,Indonesia,0.03
+nl,Netherlands,ir,"Iran, Islamic Rep.",0.23
+nl,Netherlands,iq,Iraq,0
+nl,Netherlands,ie,Ireland,0.33
+nl,Netherlands,il,Israel,0.06
+nl,Netherlands,it,Italy,1.4
+nl,Netherlands,jp,Japan,-0.07
+nl,Netherlands,jo,Jordan,0.02
+nl,Netherlands,kz,Kazakhstan,0.04
+nl,Netherlands,ke,Kenya,0.01
+nl,Netherlands,kr,"Korea, Rep.",0
+nl,Netherlands,lv,Latvia,0.01
+nl,Netherlands,lb,Lebanon,0.08
+nl,Netherlands,lt,Lithuania,0.02
+nl,Netherlands,lu,Luxembourg,-0.06
+nl,Netherlands,mk,"Macedonia, FYR",0.07
+nl,Netherlands,my,Malaysia,0.11
+nl,Netherlands,mt,Malta,0.05
+nl,Netherlands,mx,Mexico,0.25
+nl,Netherlands,ma,Morocco,0.14
+nl,Netherlands,np,Nepal,0
+nl,Netherlands,nz,New Zealand,0.03
+nl,Netherlands,ng,Nigeria,0.12
+nl,Netherlands,no,Norway,-0.05
+nl,Netherlands,om,Oman,0
+nl,Netherlands,pk,Pakistan,0.12
+nl,Netherlands,pa,Panama,0.03
+nl,Netherlands,pe,Peru,0.08
+nl,Netherlands,ph,Philippines,0.12
+nl,Netherlands,pl,Poland,0.45
+nl,Netherlands,pt,Portugal,0.4
+nl,Netherlands,qa,Qatar,0.02
+nl,Netherlands,ro,Romania,0.63
+nl,Netherlands,sa,Saudi Arabia,0.03
+nl,Netherlands,rs,Serbia,0.16
+nl,Netherlands,sg,Singapore,0.09
+nl,Netherlands,sk,Slovak Republic,0.05
+nl,Netherlands,si,Slovenia,0.02
+nl,Netherlands,za,South Africa,1.47
+nl,Netherlands,es,Spain,0.27
+nl,Netherlands,se,Sweden,-0.12
+nl,Netherlands,ch,Switzerland,-0.28
+nl,Netherlands,sy,Syrian Arab Republic,0.04
+nl,Netherlands,tw,"Taiwan, China",0.18
+nl,Netherlands,tz,Tanzania,0.05
+nl,Netherlands,th,Thailand,0.11
+nl,Netherlands,tr,Turkey,1.93
+nl,Netherlands,ug,Uganda,-0.03
+nl,Netherlands,ua,Ukraine,0.32
+nl,Netherlands,ae,United Arab Emirates,0.4
+nl,Netherlands,gb,United Kingdom,1.84
+nl,Netherlands,us,United States,1.26
+nl,Netherlands,ve,"Venezuela, RB",0.03
+nl,Netherlands,vn,Vietnam,0.07
+no,Norway,au,Australia,0.44
+no,Norway,at,Austria,0.13
+no,Norway,bd,Bangladesh,0.08
+no,Norway,be,Belgium,0
+no,Norway,br,Brazil,0.49
+no,Norway,bg,Bulgaria,0
+no,Norway,ca,Canada,-0.17
+no,Norway,cn,China,0.27
+no,Norway,hr,Croatia,0.25
+no,Norway,cz,Czech Republic,-0.01
+no,Norway,dk,Denmark,0.63
+no,Norway,eg,"Egypt, Arab Rep.",0
+no,Norway,ee,Estonia,0.06
+no,Norway,et,Ethiopia,-0.23
+no,Norway,fi,Finland,0.08
+no,Norway,fr,France,0.5
+no,Norway,de,Germany,0.2
+no,Norway,gh,Ghana,-0.82
+no,Norway,gr,Greece,0.21
+no,Norway,hu,Hungary,0.25
+no,Norway,is,Iceland,-0.05
+no,Norway,in,India,2.59
+no,Norway,id,Indonesia,0.16
+no,Norway,ir,"Iran, Islamic Rep.",0.74
+no,Norway,ie,Ireland,0.22
+no,Norway,it,Italy,0.5
+no,Norway,jp,Japan,-0.01
+no,Norway,ke,Kenya,-2.8
+no,Norway,kr,"Korea, Rep.",0.17
+no,Norway,lv,Latvia,0.05
+no,Norway,lt,Lithuania,-0.03
+no,Norway,my,Malaysia,0.18
+no,Norway,mx,Mexico,0.23
+no,Norway,np,Nepal,0.16
+no,Norway,nl,Netherlands,0.19
+no,Norway,nz,New Zealand,0.09
+no,Norway,ng,Nigeria,-3.5
+no,Norway,pk,Pakistan,0.37
+no,Norway,ph,Philippines,0.42
+no,Norway,pl,Poland,0.27
+no,Norway,pt,Portugal,0.18
+no,Norway,ro,Romania,0.13
+no,Norway,rs,Serbia,0.61
+no,Norway,sg,Singapore,0.53
+no,Norway,za,South Africa,1.9
+no,Norway,es,Spain,0.27
+no,Norway,se,Sweden,-1.39
+no,Norway,ch,Switzerland,0.26
+no,Norway,tz,Tanzania,-0.13
+no,Norway,th,Thailand,0.19
+no,Norway,tr,Turkey,0.44
+no,Norway,ug,Uganda,-0.18
+no,Norway,ua,Ukraine,0.39
+no,Norway,ae,United Arab Emirates,0.26
+no,Norway,gb,United Kingdom,2.59
+no,Norway,us,United States,1.87
+no,Norway,zw,Zimbabwe,0.03
+np,Nepal,au,Australia,-24.89
+np,Nepal,ca,Canada,-3.57
+np,Nepal,cn,China,0.4
+np,Nepal,fr,France,-0.54
+np,Nepal,de,Germany,-1.45
+np,Nepal,in,India,13
+np,Nepal,nl,Netherlands,0.04
+np,Nepal,no,Norway,-0.48
+np,Nepal,qa,Qatar,0.98
+np,Nepal,th,Thailand,0
+np,Nepal,ae,United Arab Emirates,0.07
+np,Nepal,gb,United Kingdom,-1.52
+np,Nepal,us,United States,-12.01
+nz,New Zealand,ar,Argentina,0.89
+nz,New Zealand,au,Australia,-9.73
+nz,New Zealand,at,Austria,-0.12
+nz,New Zealand,bd,Bangladesh,0.09
+nz,New Zealand,be,Belgium,-0.05
+nz,New Zealand,br,Brazil,2.07
+nz,New Zealand,ca,Canada,-1.54
+nz,New Zealand,cl,Chile,0.31
+nz,New Zealand,cn,China,1.86
+nz,New Zealand,co,Colombia,0.65
+nz,New Zealand,cz,Czech Republic,-0.02
+nz,New Zealand,dk,Denmark,-0.02
+nz,New Zealand,fj,Fiji,0.7
+nz,New Zealand,fr,France,0.06
+nz,New Zealand,de,Germany,-0.82
+nz,New Zealand,hk,"Hong Kong SAR, China",0.57
+nz,New Zealand,hu,Hungary,0.01
+nz,New Zealand,in,India,12.55
+nz,New Zealand,id,Indonesia,0.27
+nz,New Zealand,ir,"Iran, Islamic Rep.",0.43
+nz,New Zealand,ie,Ireland,-0.12
+nz,New Zealand,it,Italy,-0.15
+nz,New Zealand,jp,Japan,-0.08
+nz,New Zealand,kr,"Korea, Rep.",0.08
+nz,New Zealand,my,Malaysia,0.49
+nz,New Zealand,mx,Mexico,0.27
+nz,New Zealand,nl,Netherlands,-0.14
+nz,New Zealand,no,Norway,-0.09
+nz,New Zealand,pk,Pakistan,0.33
+nz,New Zealand,pg,Papua New Guinea,0.05
+nz,New Zealand,ph,Philippines,2.97
+nz,New Zealand,pl,Poland,0.09
+nz,New Zealand,qa,Qatar,0.38
+nz,New Zealand,sa,Saudi Arabia,0.03
+nz,New Zealand,sg,Singapore,1.48
+nz,New Zealand,za,South Africa,15.82
+nz,New Zealand,es,Spain,-0.01
+nz,New Zealand,lk,Sri Lanka,1.28
+nz,New Zealand,se,Sweden,-0.16
+nz,New Zealand,ch,Switzerland,-0.07
+nz,New Zealand,tw,"Taiwan, China",0.18
+nz,New Zealand,th,Thailand,0.15
+nz,New Zealand,tr,Turkey,0.21
+nz,New Zealand,ae,United Arab Emirates,1.76
+nz,New Zealand,gb,United Kingdom,0.97
+nz,New Zealand,us,United States,1.46
+nz,New Zealand,vn,Vietnam,0.49
+om,Oman,au,Australia,-2.14
+om,Oman,bh,Bahrain,0.04
+om,Oman,ca,Canada,-3.53
+om,Oman,cn,China,0.04
+om,Oman,eg,"Egypt, Arab Rep.",-0.71
+om,Oman,fr,France,-0.22
+om,Oman,de,Germany,-0.82
+om,Oman,in,India,4.91
+om,Oman,id,Indonesia,-0.02
+om,Oman,iq,Iraq,-0.43
+om,Oman,jo,Jordan,-0.33
+om,Oman,kw,Kuwait,-0.63
+om,Oman,lb,Lebanon,0.1
+om,Oman,my,Malaysia,1.22
+om,Oman,nl,Netherlands,0.02
+om,Oman,pk,Pakistan,-0.71
+om,Oman,ph,Philippines,-1.22
+om,Oman,qa,Qatar,-2.2
+om,Oman,sa,Saudi Arabia,1.98
+om,Oman,sg,Singapore,-0.47
+om,Oman,za,South Africa,0.06
+om,Oman,es,Spain,-0.55
+om,Oman,lk,Sri Lanka,-0.29
+om,Oman,tr,Turkey,0.16
+om,Oman,ae,United Arab Emirates,-3.71
+om,Oman,gb,United Kingdom,-1.81
+om,Oman,us,United States,2.75
+pa,Panama,ar,Argentina,-0.66
+pa,Panama,br,Brazil,-2.22
+pa,Panama,ca,Canada,-0.84
+pa,Panama,cl,Chile,-1.59
+pa,Panama,co,Colombia,-0.63
+pa,Panama,cr,Costa Rica,0.24
+pa,Panama,do,Dominican Republic,-0.18
+pa,Panama,ec,Ecuador,-0.21
+pa,Panama,sv,El Salvador,0.3
+pa,Panama,fr,France,-0.61
+pa,Panama,de,Germany,-0.24
+pa,Panama,gt,Guatemala,0.03
+pa,Panama,it,Italy,-0.07
+pa,Panama,mx,Mexico,-0.39
+pa,Panama,nl,Netherlands,-0.39
+pa,Panama,ni,Nicaragua,1.48
+pa,Panama,pe,Peru,0.06
+pa,Panama,es,Spain,-6.78
+pa,Panama,ch,Switzerland,-0.22
+pa,Panama,gb,United Kingdom,-0.75
+pa,Panama,us,United States,5.01
+pa,Panama,ve,"Venezuela, RB",10.87
+pe,Peru,ar,Argentina,-0.32
+pe,Peru,au,Australia,-0.24
+pe,Peru,be,Belgium,-0.07
+pe,Peru,bo,Bolivia,0.03
+pe,Peru,br,Brazil,-0.18
+pe,Peru,ca,Canada,-0.43
+pe,Peru,cl,Chile,-1.53
+pe,Peru,cn,China,0.02
+pe,Peru,co,Colombia,0.04
+pe,Peru,cr,Costa Rica,0
+pe,Peru,do,Dominican Republic,-0.01
+pe,Peru,ec,Ecuador,0.08
+pe,Peru,fr,France,-0.34
+pe,Peru,de,Germany,-0.34
+pe,Peru,it,Italy,-0.17
+pe,Peru,mx,Mexico,-0.17
+pe,Peru,nl,Netherlands,-0.13
+pe,Peru,pa,Panama,-0.01
+pe,Peru,es,Spain,-2.62
+pe,Peru,ch,Switzerland,-0.06
+pe,Peru,gb,United Kingdom,-0.31
+pe,Peru,us,United States,-0.61
+pe,Peru,uy,Uruguay,-0.04
+pe,Peru,ve,"Venezuela, RB",5.82
+pg,Papua New Guinea,au,Australia,10.42
+pg,Papua New Guinea,in,India,2.95
+pg,Papua New Guinea,nz,New Zealand,-0.6
+pg,Papua New Guinea,ph,Philippines,2.73
+pg,Papua New Guinea,us,United States,5.02
+ph,Philippines,au,Australia,-2.85
+ph,Philippines,bh,Bahrain,-0.01
+ph,Philippines,be,Belgium,-0.07
+ph,Philippines,br,Brazil,0.01
+ph,Philippines,kh,Cambodia,-0.02
+ph,Philippines,ca,Canada,-2.76
+ph,Philippines,cn,China,-0.03
+ph,Philippines,dk,Denmark,-0.08
+ph,Philippines,fr,France,-0.08
+ph,Philippines,de,Germany,-0.16
+ph,Philippines,hk,"Hong Kong SAR, China",-0.06
+ph,Philippines,in,India,0.25
+ph,Philippines,id,Indonesia,-0.05
+ph,Philippines,ie,Ireland,-0.16
+ph,Philippines,it,Italy,-0.08
+ph,Philippines,jp,Japan,-0.62
+ph,Philippines,kr,"Korea, Rep.",-0.08
+ph,Philippines,kw,Kuwait,-0.09
+ph,Philippines,my,Malaysia,-0.1
+ph,Philippines,mt,Malta,-0.09
+ph,Philippines,mx,Mexico,-0.03
+ph,Philippines,mm,Myanmar,-0.04
+ph,Philippines,nl,Netherlands,-0.13
+ph,Philippines,nz,New Zealand,-0.75
+ph,Philippines,ng,Nigeria,0
+ph,Philippines,no,Norway,-0.11
+ph,Philippines,om,Oman,0.07
+ph,Philippines,pg,Papua New Guinea,-0.06
+ph,Philippines,qa,Qatar,-0.35
+ph,Philippines,sa,Saudi Arabia,0.48
+ph,Philippines,sg,Singapore,-1.14
+ph,Philippines,za,South Africa,0.02
+ph,Philippines,es,Spain,-0.07
+ph,Philippines,se,Sweden,-0.09
+ph,Philippines,ch,Switzerland,-0.07
+ph,Philippines,tw,"Taiwan, China",-0.07
+ph,Philippines,th,Thailand,-0.06
+ph,Philippines,tr,Turkey,-0.02
+ph,Philippines,ae,United Arab Emirates,-3.16
+ph,Philippines,gb,United Kingdom,-1.09
+ph,Philippines,us,United States,-5.58
+ph,Philippines,vn,Vietnam,-0.08
+pk,Pakistan,af,Afghanistan,-0.16
+pk,Pakistan,au,Australia,-2.54
+pk,Pakistan,bh,Bahrain,-0.11
+pk,Pakistan,be,Belgium,-0.11
+pk,Pakistan,ca,Canada,-3.27
+pk,Pakistan,cn,China,-0.35
+pk,Pakistan,dk,Denmark,-0.06
+pk,Pakistan,fi,Finland,-0.15
+pk,Pakistan,fr,France,-0.18
+pk,Pakistan,de,Germany,-1.91
+pk,Pakistan,hk,"Hong Kong SAR, China",0.01
+pk,Pakistan,in,India,-0.01
+pk,Pakistan,iq,Iraq,-0.03
+pk,Pakistan,ie,Ireland,-0.21
+pk,Pakistan,it,Italy,-0.36
+pk,Pakistan,jp,Japan,-0.07
+pk,Pakistan,kr,"Korea, Rep.",-0.13
+pk,Pakistan,kw,Kuwait,-0.03
+pk,Pakistan,my,Malaysia,0.01
+pk,Pakistan,nl,Netherlands,-0.18
+pk,Pakistan,nz,New Zealand,-0.12
+pk,Pakistan,ng,Nigeria,0.07
+pk,Pakistan,no,Norway,-0.13
+pk,Pakistan,om,Oman,0.06
+pk,Pakistan,qa,Qatar,-0.78
+pk,Pakistan,sa,Saudi Arabia,0.31
+pk,Pakistan,sg,Singapore,-0.09
+pk,Pakistan,za,South Africa,0.16
+pk,Pakistan,es,Spain,-0.07
+pk,Pakistan,se,Sweden,-0.48
+pk,Pakistan,th,Thailand,-0.04
+pk,Pakistan,tr,Turkey,-0.14
+pk,Pakistan,ae,United Arab Emirates,-5.87
+pk,Pakistan,gb,United Kingdom,-2.43
+pk,Pakistan,us,United States,-3.82
+pl,Poland,au,Australia,-0.28
+pl,Poland,at,Austria,-0.26
+pl,Poland,by,Belarus,1.06
+pl,Poland,be,Belgium,-0.51
+pl,Poland,br,Brazil,0.91
+pl,Poland,bg,Bulgaria,0.01
+pl,Poland,ca,Canada,-0.33
+pl,Poland,cn,China,0.16
+pl,Poland,hr,Croatia,0.04
+pl,Poland,cz,Czech Republic,-0.21
+pl,Poland,dk,Denmark,-0.13
+pl,Poland,eg,"Egypt, Arab Rep.",0.19
+pl,Poland,fi,Finland,-0.04
+pl,Poland,fr,France,-0.49
+pl,Poland,de,Germany,-2.2
+pl,Poland,gr,Greece,0.06
+pl,Poland,hu,Hungary,0
+pl,Poland,in,India,2.17
+pl,Poland,ie,Ireland,0.52
+pl,Poland,it,Italy,0.3
+pl,Poland,jp,Japan,-0.05
+pl,Poland,kr,"Korea, Rep.",0.01
+pl,Poland,lt,Lithuania,0.01
+pl,Poland,lu,Luxembourg,-0.39
+pl,Poland,mt,Malta,-0.11
+pl,Poland,mx,Mexico,0.15
+pl,Poland,nl,Netherlands,-1.1
+pl,Poland,nz,New Zealand,-0.05
+pl,Poland,ng,Nigeria,0.02
+pl,Poland,no,Norway,-0.15
+pl,Poland,pt,Portugal,-0.06
+pl,Poland,qa,Qatar,0.04
+pl,Poland,ro,Romania,0.08
+pl,Poland,sa,Saudi Arabia,-0.02
+pl,Poland,sg,Singapore,-0.1
+pl,Poland,sk,Slovak Republic,-0.07
+pl,Poland,za,South Africa,0.13
+pl,Poland,es,Spain,-0.52
+pl,Poland,se,Sweden,-0.47
+pl,Poland,ch,Switzerland,-1.17
+pl,Poland,th,Thailand,0.05
+pl,Poland,tr,Turkey,0.72
+pl,Poland,ua,Ukraine,4.68
+pl,Poland,ae,United Arab Emirates,-0.01
+pl,Poland,gb,United Kingdom,0.95
+pl,Poland,us,United States,-2.07
+pr,Puerto Rico,do,Dominican Republic,0.42
+pr,Puerto Rico,mx,Mexico,0.01
+pr,Puerto Rico,es,Spain,-0.08
+pr,Puerto Rico,us,United States,-15.99
+ps,West Bank and Gaza,de,Germany,-2.33
+ps,West Bank and Gaza,il,Israel,3.76
+ps,West Bank and Gaza,jo,Jordan,-0.39
+ps,West Bank and Gaza,sa,Saudi Arabia,-1.21
+ps,West Bank and Gaza,ae,United Arab Emirates,-9.76
+ps,West Bank and Gaza,gb,United Kingdom,-1.17
+ps,West Bank and Gaza,us,United States,-4.49
+pt,Portugal,ao,Angola,1.55
+pt,Portugal,au,Australia,0.15
+pt,Portugal,at,Austria,-0.06
+pt,Portugal,be,Belgium,-0.65
+pt,Portugal,br,Brazil,40.21
+pt,Portugal,ca,Canada,0.09
+pt,Portugal,cl,Chile,0.14
+pt,Portugal,cn,China,0.13
+pt,Portugal,co,Colombia,0.26
+pt,Portugal,cz,Czech Republic,-0.03
+pt,Portugal,dk,Denmark,-0.13
+pt,Portugal,fi,Finland,-0.03
+pt,Portugal,fr,France,-0.17
+pt,Portugal,de,Germany,-0.8
+pt,Portugal,hu,Hungary,0.08
+pt,Portugal,in,India,0.62
+pt,Portugal,ie,Ireland,0.34
+pt,Portugal,it,Italy,0.93
+pt,Portugal,lu,Luxembourg,-0.69
+pt,Portugal,mx,Mexico,0.2
+pt,Portugal,mz,Mozambique,0.47
+pt,Portugal,nl,Netherlands,-1.1
+pt,Portugal,no,Norway,-0.12
+pt,Portugal,pl,Poland,0.07
+pt,Portugal,qa,Qatar,0.09
+pt,Portugal,ro,Romania,-0.02
+pt,Portugal,sa,Saudi Arabia,-0.01
+pt,Portugal,sg,Singapore,0.09
+pt,Portugal,za,South Africa,0.43
+pt,Portugal,es,Spain,-0.95
+pt,Portugal,se,Sweden,-0.08
+pt,Portugal,ch,Switzerland,-0.66
+pt,Portugal,tr,Turkey,0.16
+pt,Portugal,ae,United Arab Emirates,0.33
+pt,Portugal,gb,United Kingdom,-2.33
+pt,Portugal,us,United States,0.95
+pt,Portugal,ve,"Venezuela, RB",1.49
+py,Paraguay,ar,Argentina,-5.56
+py,Paraguay,br,Brazil,2.12
+py,Paraguay,es,Spain,-1.19
+py,Paraguay,us,United States,0.98
+qa,Qatar,dz,Algeria,1.85
+qa,Qatar,au,Australia,-4.73
+qa,Qatar,bh,Bahrain,-0.43
+qa,Qatar,bd,Bangladesh,0.37
+qa,Qatar,be,Belgium,-0.24
+qa,Qatar,br,Brazil,0.59
+qa,Qatar,ca,Canada,-6.64
+qa,Qatar,cn,China,-0.06
+qa,Qatar,dk,Denmark,-0.29
+qa,Qatar,eg,"Egypt, Arab Rep.",-8.74
+qa,Qatar,fr,France,-1.03
+qa,Qatar,de,Germany,-1.11
+qa,Qatar,gr,Greece,-0.28
+qa,Qatar,hk,"Hong Kong SAR, China",-0.03
+qa,Qatar,in,India,51.95
+qa,Qatar,id,Indonesia,0.18
+qa,Qatar,iq,Iraq,-0.15
+qa,Qatar,ie,Ireland,-0.47
+qa,Qatar,it,Italy,-0.19
+qa,Qatar,jo,Jordan,5.01
+qa,Qatar,ke,Kenya,0.82
+qa,Qatar,kr,"Korea, Rep.",-0.08
+qa,Qatar,kw,Kuwait,-0.09
+qa,Qatar,lb,Lebanon,2.03
+qa,Qatar,my,Malaysia,1.31
+qa,Qatar,ma,Morocco,1.96
+qa,Qatar,np,Nepal,-0.85
+qa,Qatar,nl,Netherlands,-0.23
+qa,Qatar,nz,New Zealand,-0.98
+qa,Qatar,ng,Nigeria,0.9
+qa,Qatar,om,Oman,1.38
+qa,Qatar,pk,Pakistan,5.73
+qa,Qatar,ph,Philippines,3.66
+qa,Qatar,pl,Poland,-0.18
+qa,Qatar,pt,Portugal,-0.38
+qa,Qatar,ro,Romania,-0.43
+qa,Qatar,sa,Saudi Arabia,4.97
+qa,Qatar,rs,Serbia,0.14
+qa,Qatar,sg,Singapore,-0.64
+qa,Qatar,za,South Africa,0.82
+qa,Qatar,es,Spain,-0.52
+qa,Qatar,lk,Sri Lanka,1.43
+qa,Qatar,sd,Sudan,2.05
+qa,Qatar,ch,Switzerland,0
+qa,Qatar,th,Thailand,0.01
+qa,Qatar,tn,Tunisia,5.64
+qa,Qatar,tr,Turkey,3.9
+qa,Qatar,ua,Ukraine,0.1
+qa,Qatar,ae,United Arab Emirates,3.07
+qa,Qatar,gb,United Kingdom,-0.94
+qa,Qatar,us,United States,-1.89
+ro,Romania,au,Australia,-0.06
+ro,Romania,at,Austria,-0.83
+ro,Romania,be,Belgium,-0.91
+ro,Romania,bg,Bulgaria,-0.03
+ro,Romania,ca,Canada,-0.49
+ro,Romania,cn,China,0.09
+ro,Romania,cz,Czech Republic,-0.28
+ro,Romania,dk,Denmark,-0.38
+ro,Romania,eg,"Egypt, Arab Rep.",0.05
+ro,Romania,fi,Finland,-0.13
+ro,Romania,fr,France,-1.32
+ro,Romania,de,Germany,-3.48
+ro,Romania,gr,Greece,-0.06
+ro,Romania,hu,Hungary,-0.62
+ro,Romania,in,India,0.14
+ro,Romania,ir,"Iran, Islamic Rep.",-0.71
+ro,Romania,ie,Ireland,-0.73
+ro,Romania,it,Italy,0.24
+ro,Romania,lu,Luxembourg,-0.51
+ro,Romania,md,Moldova,1.25
+ro,Romania,nl,Netherlands,-2.03
+ro,Romania,no,Norway,-0.1
+ro,Romania,pl,Poland,-0.1
+ro,Romania,pt,Portugal,0.03
+ro,Romania,qa,Qatar,0.13
+ro,Romania,sa,Saudi Arabia,-0.36
+ro,Romania,es,Spain,-1.04
+ro,Romania,se,Sweden,-0.55
+ro,Romania,ch,Switzerland,-1.11
+ro,Romania,tr,Turkey,0.37
+ro,Romania,ua,Ukraine,0.03
+ro,Romania,ae,United Arab Emirates,0.23
+ro,Romania,gb,United Kingdom,-7.12
+ro,Romania,us,United States,-1.13
+rs,Serbia,au,Australia,-0.61
+rs,Serbia,at,Austria,-2.05
+rs,Serbia,be,Belgium,-0.62
+rs,Serbia,ba,Bosnia and Herzegovina,0.24
+rs,Serbia,ca,Canada,-1.32
+rs,Serbia,cn,China,-0.69
+rs,Serbia,hr,Croatia,-0.68
+rs,Serbia,cz,Czech Republic,-0.73
+rs,Serbia,fr,France,-1.19
+rs,Serbia,de,Germany,-7.12
+rs,Serbia,gr,Greece,-0.15
+rs,Serbia,hu,Hungary,-0.83
+rs,Serbia,it,Italy,-0.86
+rs,Serbia,nl,Netherlands,-1.72
+rs,Serbia,no,Norway,-1.52
+rs,Serbia,qa,Qatar,-0.13
+rs,Serbia,si,Slovenia,-0.91
+rs,Serbia,es,Spain,-0.62
+rs,Serbia,se,Sweden,-1.24
+rs,Serbia,ch,Switzerland,-1.25
+rs,Serbia,ae,United Arab Emirates,-0.36
+rs,Serbia,gb,United Kingdom,-1.6
+rs,Serbia,us,United States,-4.1
+rw,Rwanda,ca,Canada,-4.19
+rw,Rwanda,cd,"Congo, Dem. Rep.",-6.67
+rw,Rwanda,in,India,14.37
+rw,Rwanda,ke,Kenya,-0.47
+rw,Rwanda,tz,Tanzania,0.78
+rw,Rwanda,ug,Uganda,0.16
+rw,Rwanda,gb,United Kingdom,0.93
+rw,Rwanda,us,United States,1.96
+sa,Saudi Arabia,dz,Algeria,0.12
+sa,Saudi Arabia,au,Australia,-0.58
+sa,Saudi Arabia,bh,Bahrain,-0.13
+sa,Saudi Arabia,bd,Bangladesh,-0.2
+sa,Saudi Arabia,be,Belgium,-0.07
+sa,Saudi Arabia,br,Brazil,0.18
+sa,Saudi Arabia,ca,Canada,-2.1
+sa,Saudi Arabia,cn,China,-0.01
+sa,Saudi Arabia,eg,"Egypt, Arab Rep.",-3.7
+sa,Saudi Arabia,fr,France,-0.17
+sa,Saudi Arabia,de,Germany,-0.3
+sa,Saudi Arabia,gr,Greece,-0.01
+sa,Saudi Arabia,in,India,3.86
+sa,Saudi Arabia,id,Indonesia,-0.12
+sa,Saudi Arabia,iq,Iraq,-0.09
+sa,Saudi Arabia,ie,Ireland,0.04
+sa,Saudi Arabia,it,Italy,-0.03
+sa,Saudi Arabia,jp,Japan,0.03
+sa,Saudi Arabia,jo,Jordan,-0.75
+sa,Saudi Arabia,ke,Kenya,-0.08
+sa,Saudi Arabia,kr,"Korea, Rep.",0.06
+sa,Saudi Arabia,kw,Kuwait,-0.53
+sa,Saudi Arabia,lb,Lebanon,-0.2
+sa,Saudi Arabia,my,Malaysia,0.5
+sa,Saudi Arabia,mx,Mexico,0.09
+sa,Saudi Arabia,ma,Morocco,0.18
+sa,Saudi Arabia,nl,Netherlands,-0.07
+sa,Saudi Arabia,nz,New Zealand,-0.02
+sa,Saudi Arabia,ng,Nigeria,0.14
+sa,Saudi Arabia,om,Oman,-0.25
+sa,Saudi Arabia,pk,Pakistan,-0.46
+sa,Saudi Arabia,ph,Philippines,-0.98
+sa,Saudi Arabia,pl,Poland,0.02
+sa,Saudi Arabia,pt,Portugal,0.01
+sa,Saudi Arabia,qa,Qatar,-1
+sa,Saudi Arabia,ro,Romania,0.25
+sa,Saudi Arabia,sg,Singapore,-0.18
+sa,Saudi Arabia,za,South Africa,0.19
+sa,Saudi Arabia,es,Spain,-0.06
+sa,Saudi Arabia,lk,Sri Lanka,-0.2
+sa,Saudi Arabia,sd,Sudan,0.34
+sa,Saudi Arabia,se,Sweden,-0.21
+sa,Saudi Arabia,ch,Switzerland,0.01
+sa,Saudi Arabia,sy,Syrian Arab Republic,-0.09
+sa,Saudi Arabia,th,Thailand,-0.02
+sa,Saudi Arabia,tn,Tunisia,0.25
+sa,Saudi Arabia,tr,Turkey,-0.06
+sa,Saudi Arabia,ae,United Arab Emirates,-3.39
+sa,Saudi Arabia,gb,United Kingdom,0.16
+sa,Saudi Arabia,us,United States,13.16
+sa,Saudi Arabia,ps,West Bank and Gaza,0.07
+sa,Saudi Arabia,ye,"Yemen, Rep.",0.1
+sd,Sudan,eg,"Egypt, Arab Rep.",-0.56
+sd,Sudan,in,India,21.17
+sd,Sudan,my,Malaysia,0.4
+sd,Sudan,qa,Qatar,-5.01
+sd,Sudan,sa,Saudi Arabia,-4.07
+sd,Sudan,ae,United Arab Emirates,-18.75
+sd,Sudan,gb,United Kingdom,-1.52
+sd,Sudan,us,United States,5.16
+se,Sweden,af,Afghanistan,0.01
+se,Sweden,au,Australia,0.19
+se,Sweden,at,Austria,0.07
+se,Sweden,bd,Bangladesh,0.59
+se,Sweden,be,Belgium,0.11
+se,Sweden,br,Brazil,1.1
+se,Sweden,bg,Bulgaria,0.07
+se,Sweden,ca,Canada,0.02
+se,Sweden,cl,Chile,0.17
+se,Sweden,cn,China,0.69
+se,Sweden,co,Colombia,0.14
+se,Sweden,hr,Croatia,0.29
+se,Sweden,cz,Czech Republic,0.1
+se,Sweden,dk,Denmark,-0.32
+se,Sweden,eg,"Egypt, Arab Rep.",0.3
+se,Sweden,ee,Estonia,0.03
+se,Sweden,fi,Finland,0.27
+se,Sweden,fr,France,0.56
+se,Sweden,de,Germany,0.31
+se,Sweden,gr,Greece,0.58
+se,Sweden,hk,"Hong Kong SAR, China",0.11
+se,Sweden,hu,Hungary,0.28
+se,Sweden,is,Iceland,-0.01
+se,Sweden,in,India,7.45
+se,Sweden,id,Indonesia,0.19
+se,Sweden,ir,"Iran, Islamic Rep.",1.28
+se,Sweden,iq,Iraq,0.14
+se,Sweden,ie,Ireland,0.04
+se,Sweden,il,Israel,0.02
+se,Sweden,it,Italy,0.82
+se,Sweden,jp,Japan,0.07
+se,Sweden,ke,Kenya,0.09
+se,Sweden,kr,"Korea, Rep.",0.15
+se,Sweden,lv,Latvia,0.15
+se,Sweden,lb,Lebanon,0.18
+se,Sweden,lt,Lithuania,0.15
+se,Sweden,lu,Luxembourg,-0.03
+se,Sweden,my,Malaysia,0.18
+se,Sweden,mt,Malta,0.14
+se,Sweden,mx,Mexico,0.34
+se,Sweden,nl,Netherlands,0.28
+se,Sweden,nz,New Zealand,0.09
+se,Sweden,no,Norway,0.77
+se,Sweden,pk,Pakistan,0.76
+se,Sweden,ph,Philippines,0.21
+se,Sweden,pl,Poland,0.46
+se,Sweden,pt,Portugal,0.07
+se,Sweden,ro,Romania,0.4
+se,Sweden,sa,Saudi Arabia,0.22
+se,Sweden,rs,Serbia,0.28
+se,Sweden,sg,Singapore,0.18
+se,Sweden,sk,Slovak Republic,0.02
+se,Sweden,za,South Africa,0.4
+se,Sweden,es,Spain,0.61
+se,Sweden,ch,Switzerland,-0.13
+se,Sweden,sy,Syrian Arab Republic,0.23
+se,Sweden,tw,"Taiwan, China",0.11
+se,Sweden,th,Thailand,0.27
+se,Sweden,tr,Turkey,1.08
+se,Sweden,ua,Ukraine,0.35
+se,Sweden,ae,United Arab Emirates,0.63
+se,Sweden,gb,United Kingdom,2.2
+se,Sweden,us,United States,1.84
+se,Sweden,vn,Vietnam,0.12
+sg,Singapore,au,Australia,-3.91
+sg,Singapore,at,Austria,-0.02
+sg,Singapore,bd,Bangladesh,0.04
+sg,Singapore,be,Belgium,-0.01
+sg,Singapore,br,Brazil,0.26
+sg,Singapore,kh,Cambodia,-0.03
+sg,Singapore,ca,Canada,-2.74
+sg,Singapore,cn,China,4.57
+sg,Singapore,cz,Czech Republic,0.01
+sg,Singapore,dk,Denmark,-0.14
+sg,Singapore,fi,Finland,-0.06
+sg,Singapore,fr,France,0.85
+sg,Singapore,de,Germany,-0.85
+sg,Singapore,hk,"Hong Kong SAR, China",2.27
+sg,Singapore,hu,Hungary,0.05
+sg,Singapore,in,India,21.57
+sg,Singapore,id,Indonesia,0.17
+sg,Singapore,ir,"Iran, Islamic Rep.",0.07
+sg,Singapore,ie,Ireland,0
+sg,Singapore,il,Israel,0.03
+sg,Singapore,it,Italy,0.17
+sg,Singapore,jp,Japan,0.08
+sg,Singapore,kr,"Korea, Rep.",0.15
+sg,Singapore,lu,Luxembourg,-0.09
+sg,Singapore,my,Malaysia,15.73
+sg,Singapore,mx,Mexico,0.08
+sg,Singapore,mm,Myanmar,-0.17
+sg,Singapore,nl,Netherlands,-0.3
+sg,Singapore,nz,New Zealand,-1.14
+sg,Singapore,ng,Nigeria,0.45
+sg,Singapore,no,Norway,-0.41
+sg,Singapore,om,Oman,0.09
+sg,Singapore,pk,Pakistan,0.19
+sg,Singapore,ph,Philippines,3.46
+sg,Singapore,pl,Poland,0.13
+sg,Singapore,pt,Portugal,-0.11
+sg,Singapore,qa,Qatar,0.19
+sg,Singapore,sa,Saudi Arabia,0.26
+sg,Singapore,za,South Africa,0.29
+sg,Singapore,es,Spain,-0.12
+sg,Singapore,lk,Sri Lanka,1.34
+sg,Singapore,se,Sweden,-0.26
+sg,Singapore,ch,Switzerland,-0.4
+sg,Singapore,tw,"Taiwan, China",1.32
+sg,Singapore,th,Thailand,0.82
+sg,Singapore,tr,Turkey,0.26
+sg,Singapore,ae,United Arab Emirates,0.68
+sg,Singapore,gb,United Kingdom,1.74
+sg,Singapore,us,United States,-1.01
+sg,Singapore,vn,Vietnam,0.63
+si,Slovenia,at,Austria,-2.34
+si,Slovenia,be,Belgium,-0.15
+si,Slovenia,hr,Croatia,-0.06
+si,Slovenia,fr,France,-0.56
+si,Slovenia,de,Germany,-1.58
+si,Slovenia,it,Italy,0.41
+si,Slovenia,nl,Netherlands,-0.47
+si,Slovenia,rs,Serbia,2.2
+si,Slovenia,es,Spain,-0.64
+si,Slovenia,ch,Switzerland,-1.96
+si,Slovenia,gb,United Kingdom,-1.05
+si,Slovenia,us,United States,-0.06
+sk,Slovak Republic,au,Australia,-0.04
+sk,Slovak Republic,at,Austria,-2.02
+sk,Slovak Republic,be,Belgium,-0.14
+sk,Slovak Republic,ca,Canada,-0.14
+sk,Slovak Republic,cz,Czech Republic,-4.63
+sk,Slovak Republic,dk,Denmark,-0.23
+sk,Slovak Republic,fr,France,-0.41
+sk,Slovak Republic,de,Germany,-0.59
+sk,Slovak Republic,hu,Hungary,-0.57
+sk,Slovak Republic,in,India,0.79
+sk,Slovak Republic,ie,Ireland,0.61
+sk,Slovak Republic,it,Italy,0.52
+sk,Slovak Republic,nl,Netherlands,-0.77
+sk,Slovak Republic,pl,Poland,0.45
+sk,Slovak Republic,es,Spain,-0.45
+sk,Slovak Republic,se,Sweden,-0.16
+sk,Slovak Republic,ch,Switzerland,-0.93
+sk,Slovak Republic,tr,Turkey,0.27
+sk,Slovak Republic,ua,Ukraine,1.72
+sk,Slovak Republic,ae,United Arab Emirates,0.11
+sk,Slovak Republic,gb,United Kingdom,2.63
+sk,Slovak Republic,us,United States,0.2
+sn,Senegal,be,Belgium,-0.05
+sn,Senegal,bj,Benin,0.41
+sn,Senegal,bf,Burkina Faso,0
+sn,Senegal,cm,Cameroon,0.49
+sn,Senegal,ca,Canada,-2.51
+sn,Senegal,ci,Cote d'Ivoire,-0.76
+sn,Senegal,fr,France,-9.3
+sn,Senegal,ga,Gabon,-0.74
+sn,Senegal,it,Italy,0.29
+sn,Senegal,ml,Mali,-0.52
+sn,Senegal,ma,Morocco,-0.25
+sn,Senegal,ch,Switzerland,-0.2
+sn,Senegal,gb,United Kingdom,0.67
+sn,Senegal,us,United States,3.93
+sv,El Salvador,ca,Canada,-1.49
+sv,El Salvador,co,Colombia,0
+sv,El Salvador,gt,Guatemala,0.99
+sv,El Salvador,mx,Mexico,-0.85
+sv,El Salvador,pa,Panama,-0.41
+sv,El Salvador,es,Spain,-3.08
+sv,El Salvador,us,United States,-4.15
+sy,Syrian Arab Republic,ca,Canada,-3.45
+sy,Syrian Arab Republic,eg,"Egypt, Arab Rep.",0.12
+sy,Syrian Arab Republic,fr,France,1.48
+sy,Syrian Arab Republic,de,Germany,-8.46
+sy,Syrian Arab Republic,iq,Iraq,-4.28
+sy,Syrian Arab Republic,jo,Jordan,0.98
+sy,Syrian Arab Republic,lb,Lebanon,-1.28
+sy,Syrian Arab Republic,nl,Netherlands,-1.04
+sy,Syrian Arab Republic,sa,Saudi Arabia,1.01
+sy,Syrian Arab Republic,se,Sweden,-2.52
+sy,Syrian Arab Republic,tr,Turkey,11.64
+sy,Syrian Arab Republic,ae,United Arab Emirates,-16.19
+sy,Syrian Arab Republic,gb,United Kingdom,-0.59
+sy,Syrian Arab Republic,us,United States,2.85
+tg,Togo,ci,Cote d'Ivoire,-1.31
+tg,Togo,fr,France,-11.75
+tg,Togo,gh,Ghana,-0.31
+tg,Togo,us,United States,-4.47
+th,Thailand,au,Australia,-0.86
+th,Thailand,at,Austria,-0.05
+th,Thailand,bd,Bangladesh,0.03
+th,Thailand,be,Belgium,-0.14
+th,Thailand,br,Brazil,0.09
+th,Thailand,kh,Cambodia,-0.19
+th,Thailand,ca,Canada,-0.57
+th,Thailand,cn,China,0.66
+th,Thailand,dk,Denmark,-0.13
+th,Thailand,fi,Finland,-0.1
+th,Thailand,fr,France,-0.37
+th,Thailand,de,Germany,-0.47
+th,Thailand,hk,"Hong Kong SAR, China",0
+th,Thailand,in,India,1.7
+th,Thailand,id,Indonesia,0.16
+th,Thailand,ie,Ireland,-0.11
+th,Thailand,il,Israel,-0.02
+th,Thailand,it,Italy,-0.17
+th,Thailand,jp,Japan,-0.12
+th,Thailand,kr,"Korea, Rep.",-0.16
+th,Thailand,my,Malaysia,0.16
+th,Thailand,mx,Mexico,-0.03
+th,Thailand,mm,Myanmar,-0.55
+th,Thailand,np,Nepal,0
+th,Thailand,nl,Netherlands,-0.36
+th,Thailand,nz,New Zealand,-0.11
+th,Thailand,no,Norway,-0.14
+th,Thailand,pk,Pakistan,0.09
+th,Thailand,ph,Philippines,0.17
+th,Thailand,pl,Poland,-0.07
+th,Thailand,qa,Qatar,0
+th,Thailand,sa,Saudi Arabia,0.02
+th,Thailand,sg,Singapore,-0.83
+th,Thailand,za,South Africa,0.11
+th,Thailand,es,Spain,-0.16
+th,Thailand,lk,Sri Lanka,0
+th,Thailand,se,Sweden,-0.37
+th,Thailand,ch,Switzerland,0.13
+th,Thailand,tw,"Taiwan, China",0.23
+th,Thailand,tr,Turkey,0.13
+th,Thailand,ua,Ukraine,0.01
+th,Thailand,ae,United Arab Emirates,0.06
+th,Thailand,gb,United Kingdom,0.22
+th,Thailand,us,United States,-1.25
+th,Thailand,vn,Vietnam,-0.44
+tn,Tunisia,dz,Algeria,0.2
+tn,Tunisia,be,Belgium,-1.49
+tn,Tunisia,ca,Canada,-7.76
+tn,Tunisia,ci,Cote d'Ivoire,-0.64
+tn,Tunisia,fr,France,-50.33
+tn,Tunisia,de,Germany,-5.66
+tn,Tunisia,it,Italy,-1.24
+tn,Tunisia,ly,Libya,-0.25
+tn,Tunisia,ma,Morocco,-0.24
+tn,Tunisia,qa,Qatar,-4.03
+tn,Tunisia,sa,Saudi Arabia,-0.89
+tn,Tunisia,es,Spain,-0.74
+tn,Tunisia,ch,Switzerland,-0.56
+tn,Tunisia,tr,Turkey,-1.03
+tn,Tunisia,ae,United Arab Emirates,-1.62
+tn,Tunisia,gb,United Kingdom,-0.82
+tn,Tunisia,us,United States,-0.22
+tr,Turkey,af,Afghanistan,-0.07
+tr,Turkey,al,Albania,-0.03
+tr,Turkey,dz,Algeria,0.18
+tr,Turkey,au,Australia,-0.58
+tr,Turkey,at,Austria,-0.23
+tr,Turkey,az,Azerbaijan,-0.03
+tr,Turkey,bd,Bangladesh,0
+tr,Turkey,by,Belarus,0
+tr,Turkey,be,Belgium,-0.46
+tr,Turkey,ba,Bosnia and Herzegovina,0.03
+tr,Turkey,br,Brazil,0.38
+tr,Turkey,bg,Bulgaria,-0.07
+tr,Turkey,ca,Canada,-1.35
+tr,Turkey,cn,China,0
+tr,Turkey,cy,Cyprus,-0.8
+tr,Turkey,cz,Czech Republic,-0.15
+tr,Turkey,dk,Denmark,-0.14
+tr,Turkey,eg,"Egypt, Arab Rep.",0.15
+tr,Turkey,et,Ethiopia,0
+tr,Turkey,fi,Finland,-0.09
+tr,Turkey,fr,France,-0.56
+tr,Turkey,ge,Georgia,-0.02
+tr,Turkey,de,Germany,-4.14
+tr,Turkey,gr,Greece,-0.13
+tr,Turkey,hk,"Hong Kong SAR, China",-0.03
+tr,Turkey,hu,Hungary,-0.17
+tr,Turkey,in,India,0.23
+tr,Turkey,id,Indonesia,0
+tr,Turkey,ir,"Iran, Islamic Rep.",1.38
+tr,Turkey,iq,Iraq,-0.13
+tr,Turkey,ie,Ireland,-0.52
+tr,Turkey,il,Israel,-0.07
+tr,Turkey,it,Italy,-0.54
+tr,Turkey,jp,Japan,-0.09
+tr,Turkey,jo,Jordan,0.15
+tr,Turkey,kz,Kazakhstan,-0.01
+tr,Turkey,kr,"Korea, Rep.",-0.05
+tr,Turkey,kw,Kuwait,-0.16
+tr,Turkey,lb,Lebanon,0.08
+tr,Turkey,ly,Libya,0
+tr,Turkey,lt,Lithuania,-0.04
+tr,Turkey,mk,"Macedonia, FYR",-0.02
+tr,Turkey,my,Malaysia,0.1
+tr,Turkey,mt,Malta,-0.09
+tr,Turkey,ma,Morocco,0.22
+tr,Turkey,nl,Netherlands,-1.98
+tr,Turkey,nz,New Zealand,-0.05
+tr,Turkey,ng,Nigeria,0.07
+tr,Turkey,no,Norway,-0.11
+tr,Turkey,om,Oman,-0.01
+tr,Turkey,pk,Pakistan,0.1
+tr,Turkey,ph,Philippines,0.02
+tr,Turkey,pl,Poland,-0.31
+tr,Turkey,pt,Portugal,-0.06
+tr,Turkey,qa,Qatar,-0.36
+tr,Turkey,ro,Romania,-0.12
+tr,Turkey,sa,Saudi Arabia,0.03
+tr,Turkey,sg,Singapore,-0.08
+tr,Turkey,sk,Slovak Republic,-0.02
+tr,Turkey,za,South Africa,0.03
+tr,Turkey,es,Spain,-0.22
+tr,Turkey,se,Sweden,-0.47
+tr,Turkey,ch,Switzerland,-0.31
+tr,Turkey,sy,Syrian Arab Republic,-0.46
+tr,Turkey,th,Thailand,-0.04
+tr,Turkey,tn,Tunisia,0.13
+tr,Turkey,ua,Ukraine,-0.07
+tr,Turkey,ae,United Arab Emirates,-0.67
+tr,Turkey,gb,United Kingdom,-3.91
+tr,Turkey,us,United States,-2.21
+tr,Turkey,uz,Uzbekistan,-0.06
+tt,Trinidad and Tobago,ca,Canada,-5.34
+tt,Trinidad and Tobago,jm,Jamaica,0.14
+tt,Trinidad and Tobago,gb,United Kingdom,-1.85
+tt,Trinidad and Tobago,us,United States,-6.76
+tw,"Taiwan, China",au,Australia,-0.75
+tw,"Taiwan, China",be,Belgium,-0.08
+tw,"Taiwan, China",ca,Canada,-1.47
+tw,"Taiwan, China",cn,China,-3.81
+tw,"Taiwan, China",fr,France,-0.32
+tw,"Taiwan, China",de,Germany,-1.13
+tw,"Taiwan, China",hk,"Hong Kong SAR, China",-0.49
+tw,"Taiwan, China",in,India,1.01
+tw,"Taiwan, China",id,Indonesia,0.03
+tw,"Taiwan, China",ie,Ireland,-0.35
+tw,"Taiwan, China",it,Italy,-0.08
+tw,"Taiwan, China",jp,Japan,-1.46
+tw,"Taiwan, China",kr,"Korea, Rep.",-0.2
+tw,"Taiwan, China",my,Malaysia,-0.32
+tw,"Taiwan, China",nl,Netherlands,-0.69
+tw,"Taiwan, China",nz,New Zealand,-0.16
+tw,"Taiwan, China",ph,Philippines,0.25
+tw,"Taiwan, China",sg,Singapore,-1.57
+tw,"Taiwan, China",za,South Africa,0.04
+tw,"Taiwan, China",es,Spain,-0.08
+tw,"Taiwan, China",se,Sweden,-0.18
+tw,"Taiwan, China",ch,Switzerland,-0.05
+tw,"Taiwan, China",th,Thailand,-0.27
+tw,"Taiwan, China",ae,United Arab Emirates,-0.11
+tw,"Taiwan, China",gb,United Kingdom,-0.89
+tw,"Taiwan, China",us,United States,-6.37
+tw,"Taiwan, China",vn,Vietnam,-0.36
+tz,Tanzania,au,Australia,-0.07
+tz,Tanzania,ca,Canada,-1.34
+tz,Tanzania,cn,China,0.03
+tz,Tanzania,fr,France,-0.28
+tz,Tanzania,de,Germany,-0.38
+tz,Tanzania,in,India,1.01
+tz,Tanzania,it,Italy,-0.07
+tz,Tanzania,ke,Kenya,-1.75
+tz,Tanzania,nl,Netherlands,-0.57
+tz,Tanzania,ng,Nigeria,-0.09
+tz,Tanzania,no,Norway,0.37
+tz,Tanzania,rw,Rwanda,-0.21
+tz,Tanzania,za,South Africa,0.23
+tz,Tanzania,ug,Uganda,-0.09
+tz,Tanzania,ae,United Arab Emirates,-0.55
+tz,Tanzania,gb,United Kingdom,0.36
+tz,Tanzania,us,United States,2.82
+tz,Tanzania,zm,Zambia,-0.26
+ua,Ukraine,au,Australia,-0.53
+ua,Ukraine,at,Austria,-0.4
+ua,Ukraine,az,Azerbaijan,-0.01
+ua,Ukraine,by,Belarus,0.14
+ua,Ukraine,be,Belgium,-0.19
+ua,Ukraine,bg,Bulgaria,-0.07
+ua,Ukraine,ca,Canada,-2.22
+ua,Ukraine,cn,China,0.2
+ua,Ukraine,cy,Cyprus,-0.31
+ua,Ukraine,cz,Czech Republic,-0.84
+ua,Ukraine,dk,Denmark,-0.26
+ua,Ukraine,eg,"Egypt, Arab Rep.",0.09
+ua,Ukraine,ee,Estonia,-0.57
+ua,Ukraine,fr,France,-0.29
+ua,Ukraine,ge,Georgia,-0.02
+ua,Ukraine,de,Germany,-2.6
+ua,Ukraine,gr,Greece,-0.03
+ua,Ukraine,hu,Hungary,-0.24
+ua,Ukraine,in,India,0.37
+ua,Ukraine,ie,Ireland,-0.23
+ua,Ukraine,il,Israel,-0.73
+ua,Ukraine,it,Italy,-0.39
+ua,Ukraine,kz,Kazakhstan,0.05
+ua,Ukraine,lv,Latvia,-0.18
+ua,Ukraine,lt,Lithuania,-0.17
+ua,Ukraine,md,Moldova,0.07
+ua,Ukraine,nl,Netherlands,-0.98
+ua,Ukraine,ng,Nigeria,-0.09
+ua,Ukraine,no,Norway,-0.29
+ua,Ukraine,pl,Poland,-5.94
+ua,Ukraine,qa,Qatar,-0.03
+ua,Ukraine,ro,Romania,-0.03
+ua,Ukraine,sk,Slovak Republic,-0.34
+ua,Ukraine,es,Spain,-0.49
+ua,Ukraine,se,Sweden,-0.46
+ua,Ukraine,ch,Switzerland,-0.33
+ua,Ukraine,th,Thailand,-0.01
+ua,Ukraine,tr,Turkey,0.21
+ua,Ukraine,ae,United Arab Emirates,-0.25
+ua,Ukraine,gb,United Kingdom,-1.32
+ua,Ukraine,us,United States,-6.21
+ug,Uganda,ca,Canada,-2.27
+ug,Uganda,cn,China,0.32
+ug,Uganda,cd,"Congo, Dem. Rep.",-0.68
+ug,Uganda,de,Germany,0.36
+ug,Uganda,in,India,2.1
+ug,Uganda,ke,Kenya,-1.05
+ug,Uganda,nl,Netherlands,0.39
+ug,Uganda,ng,Nigeria,-0.27
+ug,Uganda,no,Norway,0.56
+ug,Uganda,rw,Rwanda,-0.05
+ug,Uganda,za,South Africa,0.14
+ug,Uganda,tz,Tanzania,0.09
+ug,Uganda,ae,United Arab Emirates,-2.13
+ug,Uganda,gb,United Kingdom,0.36
+ug,Uganda,us,United States,2.91
+us,United States,af,Afghanistan,0.03
+us,United States,al,Albania,0.01
+us,United States,dz,Algeria,0.01
+us,United States,ao,Angola,-0.01
+us,United States,ar,Argentina,0.06
+us,United States,am,Armenia,0.01
+us,United States,au,Australia,-0.02
+us,United States,at,Austria,-0.01
+us,United States,az,Azerbaijan,0
+us,United States,bs,"Bahamas, The",0
+us,United States,bh,Bahrain,0.01
+us,United States,bd,Bangladesh,0.02
+us,United States,by,Belarus,0.03
+us,United States,be,Belgium,0
+us,United States,bj,Benin,0
+us,United States,bo,Bolivia,0.01
+us,United States,ba,Bosnia and Herzegovina,0
+us,United States,bw,Botswana,0
+us,United States,br,Brazil,0.33
+us,United States,bg,Bulgaria,0.01
+us,United States,bf,Burkina Faso,0
+us,United States,kh,Cambodia,0
+us,United States,cm,Cameroon,0.04
+us,United States,ca,Canada,-0.21
+us,United States,cl,Chile,-0.02
+us,United States,cn,China,0.19
+us,United States,co,Colombia,0.02
+us,United States,cd,"Congo, Dem. Rep.",0
+us,United States,cr,Costa Rica,0.01
+us,United States,ci,Cote d'Ivoire,0
+us,United States,hr,Croatia,0
+us,United States,cu,Cuba,0.01
+us,United States,cy,Cyprus,0
+us,United States,cz,Czech Republic,0
+us,United States,dk,Denmark,-0.01
+us,United States,do,Dominican Republic,0.06
+us,United States,ec,Ecuador,0
+us,United States,eg,"Egypt, Arab Rep.",0.02
+us,United States,sv,El Salvador,0.01
+us,United States,ee,Estonia,0
+us,United States,et,Ethiopia,0.01
+us,United States,fj,Fiji,0
+us,United States,fi,Finland,-0.01
+us,United States,fr,France,-0.06
+us,United States,ga,Gabon,-0.03
+us,United States,ge,Georgia,-0.14
+us,United States,de,Germany,-0.04
+us,United States,gh,Ghana,0.02
+us,United States,gr,Greece,0.01
+us,United States,gt,Guatemala,0
+us,United States,ht,Haiti,0.02
+us,United States,hn,Honduras,0.01
+us,United States,hk,"Hong Kong SAR, China",-0.01
+us,United States,hu,Hungary,0.01
+us,United States,is,Iceland,0
+us,United States,in,India,1.49
+us,United States,id,Indonesia,-0.16
+us,United States,ir,"Iran, Islamic Rep.",-0.03
+us,United States,iq,Iraq,0
+us,United States,ie,Ireland,-0.01
+us,United States,il,Israel,-0.01
+us,United States,it,Italy,0.01
+us,United States,jm,Jamaica,0.05
+us,United States,jp,Japan,-0.04
+us,United States,jo,Jordan,0.04
+us,United States,kz,Kazakhstan,0.01
+us,United States,ke,Kenya,-0.1
+us,United States,kr,"Korea, Rep.",0
+us,United States,kw,Kuwait,-0.01
+us,United States,lv,Latvia,0
+us,United States,lb,Lebanon,0.03
+us,United States,ly,Libya,-0.01
+us,United States,lt,Lithuania,0
+us,United States,lu,Luxembourg,0
+us,United States,mk,"Macedonia, FYR",0.01
+us,United States,mg,Madagascar,0
+us,United States,mw,Malawi,-0.01
+us,United States,my,Malaysia,-0.02
+us,United States,ml,Mali,0
+us,United States,mt,Malta,0
+us,United States,mu,Mauritius,0
+us,United States,mx,Mexico,0.25
+us,United States,md,Moldova,0
+us,United States,mn,Mongolia,0
+us,United States,ma,Morocco,0
+us,United States,mz,Mozambique,-0.01
+us,United States,mm,Myanmar,-0.04
+us,United States,na,Namibia,0
+us,United States,np,Nepal,0.05
+us,United States,nl,Netherlands,-0.06
+us,United States,nz,New Zealand,-0.02
+us,United States,ni,Nicaragua,0.02
+us,United States,ng,Nigeria,0.37
+us,United States,no,Norway,-0.02
+us,United States,om,Oman,-0.01
+us,United States,pk,Pakistan,0.13
+us,United States,pa,Panama,-0.02
+us,United States,pg,Papua New Guinea,-0.01
+us,United States,py,Paraguay,0
+us,United States,pe,Peru,0.02
+us,United States,ph,Philippines,0.26
+us,United States,pl,Poland,0.04
+us,United States,pt,Portugal,-0.02
+us,United States,pr,Puerto Rico,0.07
+us,United States,qa,Qatar,0.01
+us,United States,ro,Romania,0.02
+us,United States,rw,Rwanda,0
+us,United States,sa,Saudi Arabia,-0.29
+us,United States,sn,Senegal,-0.01
+us,United States,rs,Serbia,0.02
+us,United States,sg,Singapore,0.02
+us,United States,sk,Slovak Republic,0
+us,United States,si,Slovenia,0
+us,United States,za,South Africa,-0.22
+us,United States,es,Spain,-0.07
+us,United States,lk,Sri Lanka,0.01
+us,United States,sd,Sudan,-0.01
+us,United States,se,Sweden,-0.04
+us,United States,ch,Switzerland,-0.02
+us,United States,sy,Syrian Arab Republic,-0.01
+us,United States,tw,"Taiwan, China",0.08
+us,United States,tz,Tanzania,-0.01
+us,United States,th,Thailand,0.02
+us,United States,tg,Togo,0
+us,United States,tt,Trinidad and Tobago,0.01
+us,United States,tn,Tunisia,0
+us,United States,tr,Turkey,0.11
+us,United States,ug,Uganda,-0.01
+us,United States,ua,Ukraine,0.1
+us,United States,ae,United Arab Emirates,0.08
+us,United States,gb,United Kingdom,-0.23
+us,United States,uy,Uruguay,0
+us,United States,uz,Uzbekistan,0
+us,United States,ve,"Venezuela, RB",0.3
+us,United States,vn,Vietnam,0.05
+us,United States,ps,West Bank and Gaza,0.01
+us,United States,ye,"Yemen, Rep.",0
+us,United States,zm,Zambia,-0.04
+us,United States,zw,Zimbabwe,-0.02
+uy,Uruguay,ar,Argentina,-4.49
+uy,Uruguay,br,Brazil,-0.74
+uy,Uruguay,cl,Chile,-0.59
+uy,Uruguay,co,Colombia,0.55
+uy,Uruguay,cu,Cuba,3.28
+uy,Uruguay,fr,France,-0.5
+uy,Uruguay,de,Germany,-0.89
+uy,Uruguay,mx,Mexico,-0.34
+uy,Uruguay,pe,Peru,0.29
+uy,Uruguay,es,Spain,-8.12
+uy,Uruguay,gb,United Kingdom,-0.5
+uy,Uruguay,us,United States,-0.49
+uy,Uruguay,ve,"Venezuela, RB",7.97
+uz,Uzbekistan,kz,Kazakhstan,1.04
+uz,Uzbekistan,tr,Turkey,2.8
+uz,Uzbekistan,ae,United Arab Emirates,1.64
+uz,Uzbekistan,gb,United Kingdom,-1.48
+uz,Uzbekistan,us,United States,-2.41
+ve,"Venezuela, RB",ar,Argentina,-18.49
+ve,"Venezuela, RB",au,Australia,-0.19
+ve,"Venezuela, RB",br,Brazil,-2.03
+ve,"Venezuela, RB",ca,Canada,-0.75
+ve,"Venezuela, RB",cl,Chile,-31.75
+ve,"Venezuela, RB",cn,China,-0.16
+ve,"Venezuela, RB",co,Colombia,-14.7
+ve,"Venezuela, RB",cr,Costa Rica,-0.83
+ve,"Venezuela, RB",do,Dominican Republic,-1.41
+ve,"Venezuela, RB",ec,Ecuador,-4.59
+ve,"Venezuela, RB",fr,France,-0.59
+ve,"Venezuela, RB",de,Germany,-0.68
+ve,"Venezuela, RB",gt,Guatemala,-0.18
+ve,"Venezuela, RB",ie,Ireland,-0.13
+ve,"Venezuela, RB",it,Italy,-0.99
+ve,"Venezuela, RB",mx,Mexico,-3.84
+ve,"Venezuela, RB",nl,Netherlands,-0.08
+ve,"Venezuela, RB",pa,Panama,-2.08
+ve,"Venezuela, RB",pe,Peru,-8.92
+ve,"Venezuela, RB",pt,Portugal,-1.37
+ve,"Venezuela, RB",es,Spain,-20.73
+ve,"Venezuela, RB",ae,United Arab Emirates,-0.06
+ve,"Venezuela, RB",gb,United Kingdom,-0.78
+ve,"Venezuela, RB",us,United States,-15.01
+ve,"Venezuela, RB",uy,Uruguay,-1.82
+vn,Vietnam,au,Australia,-1.5
+vn,Vietnam,be,Belgium,-0.07
+vn,Vietnam,kh,Cambodia,-0.41
+vn,Vietnam,ca,Canada,-2.72
+vn,Vietnam,cn,China,0.81
+vn,Vietnam,dk,Denmark,-0.09
+vn,Vietnam,fi,Finland,-0.04
+vn,Vietnam,fr,France,-0.79
+vn,Vietnam,de,Germany,-0.62
+vn,Vietnam,hk,"Hong Kong SAR, China",-0.06
+vn,Vietnam,in,India,0.8
+vn,Vietnam,id,Indonesia,0.06
+vn,Vietnam,ie,Ireland,-0.1
+vn,Vietnam,it,Italy,-0.05
+vn,Vietnam,jp,Japan,-0.2
+vn,Vietnam,kr,"Korea, Rep.",0.11
+vn,Vietnam,my,Malaysia,0.12
+vn,Vietnam,mm,Myanmar,0.03
+vn,Vietnam,nl,Netherlands,-0.2
+vn,Vietnam,nz,New Zealand,-0.33
+vn,Vietnam,ph,Philippines,0.22
+vn,Vietnam,sg,Singapore,-0.56
+vn,Vietnam,es,Spain,-0.01
+vn,Vietnam,se,Sweden,-0.15
+vn,Vietnam,ch,Switzerland,0.04
+vn,Vietnam,tw,"Taiwan, China",0.27
+vn,Vietnam,th,Thailand,0.38
+vn,Vietnam,ae,United Arab Emirates,0.15
+vn,Vietnam,gb,United Kingdom,0.1
+vn,Vietnam,us,United States,-3.13
+ye,"Yemen, Rep.",eg,"Egypt, Arab Rep.",-0.23
+ye,"Yemen, Rep.",in,India,4.43
+ye,"Yemen, Rep.",my,Malaysia,0.86
+ye,"Yemen, Rep.",sa,Saudi Arabia,-1.72
+ye,"Yemen, Rep.",ae,United Arab Emirates,-1.54
+ye,"Yemen, Rep.",us,United States,1.09
+za,South Africa,af,Afghanistan,-0.03
+za,South Africa,ao,Angola,-0.16
+za,South Africa,au,Australia,-2.8
+za,South Africa,at,Austria,-0.1
+za,South Africa,bh,Bahrain,-0.04
+za,South Africa,be,Belgium,-0.27
+za,South Africa,bw,Botswana,-0.05
+za,South Africa,br,Brazil,0.18
+za,South Africa,cm,Cameroon,0
+za,South Africa,ca,Canada,-1.45
+za,South Africa,cn,China,-0.38
+za,South Africa,cd,"Congo, Dem. Rep.",-0.12
+za,South Africa,dk,Denmark,-0.09
+za,South Africa,eg,"Egypt, Arab Rep.",0.02
+za,South Africa,et,Ethiopia,-0.03
+za,South Africa,fr,France,-0.26
+za,South Africa,de,Germany,-0.82
+za,South Africa,gh,Ghana,-0.04
+za,South Africa,hk,"Hong Kong SAR, China",-0.18
+za,South Africa,is,Iceland,0.08
+za,South Africa,in,India,0.68
+za,South Africa,id,Indonesia,0.01
+za,South Africa,ie,Ireland,-1.08
+za,South Africa,il,Israel,-0.14
+za,South Africa,it,Italy,-0.08
+za,South Africa,jp,Japan,-0.05
+za,South Africa,ke,Kenya,-0.17
+za,South Africa,kr,"Korea, Rep.",-0.09
+za,South Africa,kw,Kuwait,-0.02
+za,South Africa,mw,Malawi,0
+za,South Africa,my,Malaysia,-0.03
+za,South Africa,mu,Mauritius,0.11
+za,South Africa,mx,Mexico,0.04
+za,South Africa,mz,Mozambique,-0.06
+za,South Africa,na,Namibia,-0.16
+za,South Africa,nl,Netherlands,-1.67
+za,South Africa,nz,New Zealand,-4.23
+za,South Africa,ng,Nigeria,0.05
+za,South Africa,no,Norway,-0.51
+za,South Africa,om,Oman,0
+za,South Africa,pk,Pakistan,-0.12
+za,South Africa,ph,Philippines,-0.02
+za,South Africa,pl,Poland,-0.06
+za,South Africa,pt,Portugal,-0.18
+za,South Africa,qa,Qatar,-0.08
+za,South Africa,sa,Saudi Arabia,-0.1
+za,South Africa,sg,Singapore,-0.1
+za,South Africa,es,Spain,-0.28
+za,South Africa,se,Sweden,-0.19
+za,South Africa,ch,Switzerland,-0.21
+za,South Africa,tw,"Taiwan, China",-0.01
+za,South Africa,tz,Tanzania,-0.02
+za,South Africa,th,Thailand,-0.04
+za,South Africa,tr,Turkey,-0.04
+za,South Africa,ug,Uganda,-0.01
+za,South Africa,ae,United Arab Emirates,-0.76
+za,South Africa,gb,United Kingdom,-3.71
+za,South Africa,us,United States,5.07
+za,South Africa,zm,Zambia,-0.15
+za,South Africa,zw,Zimbabwe,1.46
+zm,Zambia,au,Australia,-0.49
+zm,Zambia,cn,China,1.88
+zm,Zambia,in,India,2.86
+zm,Zambia,ke,Kenya,-0.8
+zm,Zambia,na,Namibia,0.77
+zm,Zambia,za,South Africa,2.89
+zm,Zambia,tz,Tanzania,0.46
+zm,Zambia,gb,United Kingdom,3.68
+zm,Zambia,us,United States,16.26
+zm,Zambia,zw,Zimbabwe,-0.46
+zw,Zimbabwe,au,Australia,-1.84
+zw,Zimbabwe,bw,Botswana,-0.19
+zw,Zimbabwe,ca,Canada,-1.78
+zw,Zimbabwe,is,Iceland,0.97
+zw,Zimbabwe,ke,Kenya,0.15
+zw,Zimbabwe,mz,Mozambique,-0.56
+zw,Zimbabwe,na,Namibia,-0.26
+zw,Zimbabwe,no,Norway,-0.13
+zw,Zimbabwe,za,South Africa,-20.76
+zw,Zimbabwe,ae,United Arab Emirates,-3.19
+zw,Zimbabwe,gb,United Kingdom,-1.97
+zw,Zimbabwe,us,United States,5.25
+zw,Zimbabwe,zm,Zambia,0.33
